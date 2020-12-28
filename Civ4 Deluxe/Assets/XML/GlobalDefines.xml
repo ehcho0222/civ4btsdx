@@ -135,7 +135,7 @@
 	</Define>
 	<Define>
 		<DefineName>START_YEAR</DefineName>
-		<iDefineIntVal>-4000</iDefineIntVal>
+		<iDefineIntVal>-200000</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>WEEKS_PER_MONTHS</DefineName>
