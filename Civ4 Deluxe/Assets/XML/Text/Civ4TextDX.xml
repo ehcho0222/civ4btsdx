@@ -144,4 +144,12 @@
      <Italian>This tech allows you to found a Religion. It is not required for any other techs.</Italian>
      <Spanish>This tech allows you to found a Religion. It is not required for any other techs.</Spanish>
    </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_SEDENTARY_LIFESTYLE_QUOTE</Tag>
+     <English>.</English>
+     <French>.</French>
+     <German>.</German>
+     <Italian>.</Italian>
+     <Spanish>.</Spanish>
+   </TEXT>
  </Civ4GameText>
