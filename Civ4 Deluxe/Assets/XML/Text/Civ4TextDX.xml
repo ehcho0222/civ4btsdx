@@ -16,6 +16,14 @@
      <Italian>Classical Antiquity</Italian>
      <Spanish>Classical Antiquity</Spanish>
    </TEXT>
+    <TEXT>
+     <Tag>TXT_KEY_TECH_WORSHIPPING</Tag>
+     <English>Worshipping</English>
+     <French>Worshipping</French>
+     <German>Worshipping</German>
+     <Italian>Worshipping</Italian>
+     <Spanish>Worshipping</Spanish>
+   </TEXT>
    <TEXT>
      <Tag>TXT_KEY_TECH_HINDUISM</Tag>
      <English>Hinduism</English>
@@ -89,6 +97,14 @@
      <Spanish>This technology is required for Classical Era.</Spanish>
    </TEXT>
    <TEXT>
+     <Tag>TXT_KEY_TECH_WORSHIPPING_STRATEGY</Tag>
+     <English>Worshipping allows you to develop your civilization&#39;s spirituality into a full religion.</English>
+     <French>Worshipping allows you to develop your civilization&#39;s spirituality into a full religion.</French>
+     <German>Worshipping allows you to develop your civilization&#39;s spirituality into a full religion.</German>
+     <Italian>Worshipping allows you to develop your civilization&#39;s spirituality into a full religion.</Italian>
+     <Spanish>Worshipping allows you to develop your civilization&#39;s spirituality into a full religion.</Spanish>
+   </TEXT>
+   <TEXT>
      <Tag>TXT_KEY_TECH_HINDUISM_STRATEGY</Tag>
      <English>Hinduism is one of the first two religions in this game.</English>
      <French>Hinduism is one of the first two religions in this game.</French>
@@ -153,12 +169,28 @@
      <Spanish>Classical Antiquity refers to the period of Greco-Roman history. It extends back to 8th century BC when Rome was founded, and continued until 476 AD.</Spanish>
    </TEXT>
    <TEXT>
+     <Tag>TXT_KEY_TECH_WORSHIPPING_PEDIA</Tag>
+     <English>The spirituality of people has been established in Stone Age. Since then, people wanted to worship and learn from their ancestors.</English>
+     <French>The spirituality of people has been established in Stone Age. Since then, people wanted to worship and learn from their ancestors.</French>
+     <German>The spirituality of people has been established in Stone Age. Since then, people wanted to worship and learn from their ancestors.</German>
+     <Italian>The spirituality of people has been established in Stone Age. Since then, people wanted to worship and learn from their ancestors.</Italian>
+     <Spanish>The spirituality of people has been established in Stone Age. Since then, people wanted to worship and learn from their ancestors.</Spanish>
+   </TEXT>
+   <TEXT>
      <Tag>TXT_KEY_TECH_RELIGION_PEDIA</Tag>
      <English>This tech allows you to found a Religion. It is not required for any other techs.</English>
      <French>This tech allows you to found a Religion. It is not required for any other techs.</French>
      <German>This tech allows you to found a Religion. It is not required for any other techs.</German>
      <Italian>This tech allows you to found a Religion. It is not required for any other techs.</Italian>
      <Spanish>This tech allows you to found a Religion. It is not required for any other techs.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_WORSHIPPING_QUOTE</Tag>
+     <English>You will always have your desire to be spiritual.</English>
+     <French>You will always have your desire to be spiritual.</French>
+     <German>You will always have your desire to be spiritual.</German>
+     <Italian>You will always have your desire to be spiritual.</Italian>
+     <Spanish>You will always have your desire to be spiritual.</Spanish>
    </TEXT>
    <TEXT>
      <Tag>TXT_KEY_TECH_RELIGION_QUOTE</Tag>

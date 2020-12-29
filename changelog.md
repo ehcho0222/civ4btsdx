@@ -1,6 +1,9 @@
 # Changelog
 ## Pre-Release
 ### 2020/12/29
+#### Build 12
+Added Worshipping tech in Ancient Era.\
+Reordered Technologies in XML.
 #### Build 11
 Added more Techs in Ancient Era.\
 Moved most techs 4 steps to the right.
