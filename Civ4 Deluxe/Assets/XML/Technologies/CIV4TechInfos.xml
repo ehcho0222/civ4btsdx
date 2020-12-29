@@ -4286,9 +4286,10 @@
 			</Flavors>
 			<OrPreReqs>
 				<PrereqTech>TECH_COMPUTERS</PrereqTech>
-				<PrereqTech>TECH_LASER</PrereqTech>
 			</OrPreReqs>
-			<AndPreReqs/>
+			<AndPreReqs>
+			  <PrereqTech>TECH_LASER</PrereqTech>
+			</AndPreReqs>
 			<Quote>TXT_KEY_TECH_FIBER_OPTICS_QUOTE</Quote>
 			<Sound>AS2D_TECH_FIBER_OPTICS</Sound>
 			<SoundMP>AS2D_TECH_MP_FIBER_OPTICS</SoundMP>
