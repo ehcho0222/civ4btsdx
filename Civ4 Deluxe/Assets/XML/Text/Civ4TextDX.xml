@@ -9,12 +9,116 @@
      <Spanish>Sedentary Lifestyle</Spanish>
    </TEXT>
    <TEXT>
+     <Tag>TXT_KEY_TECH_HINDUISM</Tag>
+     <English>Hinduism</English>
+     <French>Hinduism</French>
+     <German>Hinduism</German>
+     <Italian>Hinduism</Italian>
+     <Spanish>Hinduism</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_BUDDHISM</Tag>
+     <English>Buddhism</English>
+     <French>Buddhism</French>
+     <German>Buddhism</German>
+     <Italian>Buddhism</Italian>
+     <Spanish>Buddhism</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_JUDAISM</Tag>
+     <English>Judaism</English>
+     <French>Judaism</French>
+     <German>Judaism</German>
+     <Italian>Judaism</Italian>
+     <Spanish>Judaism</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_CONFUCIANISM</Tag>
+     <English>Confucianism</English>
+     <French>Confucianism</French>
+     <German>Confucianism</German>
+     <Italian>Confucianism</Italian>
+     <Spanish>Confucianism</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_CHRISTIANITY</Tag>
+     <English>Christianity</English>
+     <French>Christianity</French>
+     <German>Christianity</German>
+     <Italian>Christianity</Italian>
+     <Spanish>Christianity</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_TAOISM</Tag>
+     <English>Taoism</English>
+     <French>Taoism</French>
+     <German>Taoism</German>
+     <Italian>Taoism</Italian>
+     <Spanish>Taoism</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_ISLAM</Tag>
+     <English>Islam</English>
+     <French>Islam</French>
+     <German>Islam</German>
+     <Italian>Islam</Italian>
+     <Spanish>Islam</Spanish>
+   </TEXT>
+   <TEXT>
      <Tag>TXT_KEY_TECH_SEDENTARY_LIFESTYLE_STRATEGY</Tag>
      <English>Sedentary Lifestyle allows you to settle unlimited cities. It is required for Ancient Era.</English>
      <French>Sedentary Lifestyle allows you to settle unlimited cities. It is required for Ancient Era.</French>
      <German>Sedentary Lifestyle allows you to settle unlimited cities. It is required for Ancient Era.</German>
      <Italian>Sedentary Lifestyle allows you to settle unlimited cities. It is required for Ancient Era.</Italian>
      <Spanish>Sedentary Lifestyle allows you to settle unlimited cities. It is required for Ancient Era.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_HINDUISM_STRATEGY</Tag>
+     <English>Hinduism is one of the first two religions in this game.</English>
+     <French>Hinduism is one of the first two religions in this game.</French>
+     <German>Hinduism is one of the first two religions in this game.</German>
+     <Italian>Hinduism is one of the first two religions in this game.</Italian>
+     <Spanish>Hinduism is one of the first two religions in this game.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_BUDDHISM_STRATEGY</Tag>
+     <English>Buddhism is one of the first two religions in this game.</English>
+     <French>Buddhism is one of the first two religions in this game.</French>
+     <German>Buddhism is one of the first two religions in this game.</German>
+     <Italian>Buddhism is one of the first two religions in this game.</Italian>
+     <Spanish>Buddhism is one of the first two religions in this game.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_JUDAISM_STRATEGY</Tag>
+     <English>Judaism is the next religion, available with Monotheism.</English>
+     <French>Judaism is the next religion, available with Monotheism.</French>
+     <German>Judaism is the next religion, available with Monotheism.</German>
+     <Italian>Judaism is the next religion, available with Monotheism.</Italian>
+     <Spanish>Judaism is the next religion, available with Monotheism.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_CHRISTIANITY_STRATEGY</Tag>
+     <English>Christianity is one of the three religions in Medieval Era.</English>
+     <French>Christianity is one of the three religions in Medieval Era.</French>
+     <German>Christianity is one of the three religions in Medieval Era.</German>
+     <Italian>Christianity is one of the three religions in Medieval Era.</Italian>
+     <Spanish>Christianity is one of the three religions in Medieval Era.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_TAOISM_STRATEGY</Tag>
+     <English>Taoism is one of the three religions in Medieval Era.</English>
+     <French>Taoism is one of the three religions in Medieval Era.</French>
+     <German>Taoism is one of the three religions in Medieval Era.</German>
+     <Italian>Taoism is one of the three religions in Medieval Era.</Italian>
+     <Spanish>Taoism is one of the three religions in Medieval Era.</Spanish>
+   </TEXT>
+    <TEXT>
+     <Tag>TXT_KEY_TECH_ISLAM_STRATEGY</Tag>
+     <English>Islam is one of the three religions in Medieval Era.</English>
+     <French>Islam is one of the three religions in Medieval Era.</French>
+     <German>Islam is one of the three religions in Medieval Era.</German>
+     <Italian>Islam is one of the three religions in Medieval Era.</Italian>
+     <Spanish>Islam is one of the three religions in Medieval Era.</Spanish>
    </TEXT>
     <TEXT>
      <Tag>TXT_KEY_TECH_SEDENTARY_LIFESTYLE_PEDIA</Tag>
@@ -23,5 +127,21 @@
      <German>In the early years of human history, people lived in temporary structures. As the tribe grew larger, nomadic life would not produce enough food to sustain them. Sedentism, together with farming, helped people settle down and thrive.</German>
      <Italian>In the early years of human history, people lived in temporary structures. As the tribe grew larger, nomadic life would not produce enough food to sustain them. Sedentism, together with farming, helped people settle down and thrive.</Italian>
      <Spanish>In the early years of human history, people lived in temporary structures. As the tribe grew larger, nomadic life would not produce enough food to sustain them. Sedentism, together with farming, helped people settle down and thrive.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_RELIGION_PEDIA</Tag>
+     <English>This tech allows you to found a Religion. It is not required for any other techs.</English>
+     <French>This tech allows you to found a Religion. It is not required for any other techs.</French>
+     <German>This tech allows you to found a Religion. It is not required for any other techs.</German>
+     <Italian>This tech allows you to found a Religion. It is not required for any other techs.</Italian>
+     <Spanish>This tech allows you to found a Religion. It is not required for any other techs.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_RELIGION_QUOTE</Tag>
+     <English>This tech allows you to found a Religion. It is not required for any other techs.</English>
+     <French>This tech allows you to found a Religion. It is not required for any other techs.</French>
+     <German>This tech allows you to found a Religion. It is not required for any other techs.</German>
+     <Italian>This tech allows you to found a Religion. It is not required for any other techs.</Italian>
+     <Spanish>This tech allows you to found a Religion. It is not required for any other techs.</Spanish>
    </TEXT>
  </Civ4GameText>

@@ -1,5 +1,7 @@
 # Changelog
 ## Pre-Release
+### Build 6(2020/12/29)
+Added seperate techs for founding a Religion.
 ### Build 5(2020/12/29)
 Fixed Fiber Optics prereqs.
 ### Build 4(2020/12/29)
