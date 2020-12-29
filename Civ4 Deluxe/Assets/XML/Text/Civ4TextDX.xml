@@ -1,5 +1,21 @@
 <?xml version="1.0"?>
 <Civ4GameText xmlns="http://www.firaxis.com">
+  <TEXT>
+     <Tag>TXT_KEY_ERA_PREHISTORIC</Tag>
+     <English>Prehistoric</English>
+     <French>Prehistoric</French>
+     <German>Prehistoric</German>
+     <Italian>Prehistoric</Italian>
+     <Spanish>Prehistoric</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_ERA_PREHISTORIC_STRATEGY</Tag>
+     <English>Prehistoric Era</English>
+     <French>Prehistoric Era</French>
+     <German>Prehistoric Era</German>
+     <Italian>Prehistoric Era</Italian>
+     <Spanish>Prehistoric Era</Spanish>
+   </TEXT>
    <TEXT>
      <Tag>TXT_KEY_TECH_SEDENTARY_LIFESTYLE</Tag>
      <English>Sedentism</English>

@@ -14,6 +14,58 @@
 <!-- Good luck! -->
 <Civ4EraInfos xmlns="x-schema:CIV4GameInfoSchema.xml">
 	<EraInfos>
+	<EraInfo>
+			<Type>DX_ERA_PREHISTORIC</Type>
+			<Description>TXT_KEY_ERA_PREHISTORIC</Description>
+			<Strategy>TXT_KEY_ERA_PREHISTORIC_STRATEGY</Strategy>
+			<bNoGoodies>0</bNoGoodies>
+			<bNoAnimals>0</bNoAnimals>
+			<bNoBarbUnits>0</bNoBarbUnits>
+			<bNoBarbCities>0</bNoBarbCities>
+			<iAdvancedStartPoints>600</iAdvancedStartPoints>
+			<iStartingUnitMultiplier>1</iStartingUnitMultiplier>
+			<iStartingDefenseUnits>0</iStartingDefenseUnits>
+			<iStartingWorkerUnits>0</iStartingWorkerUnits>
+			<iStartingExploreUnits>1</iStartingExploreUnits>
+			<iStartingGold>0</iStartingGold>
+			<iFreePopulation>0</iFreePopulation>
+			<iStartPercent>0</iStartPercent>
+			<iGrowthPercent>100</iGrowthPercent>
+			<iTrainPercent>100</iTrainPercent>
+			<iConstructPercent>100</iConstructPercent>
+			<iCreatePercent>100</iCreatePercent>
+			<iResearchPercent>100</iResearchPercent>
+			<iBuildPercent>100</iBuildPercent>
+			<iImprovementPercent>100</iImprovementPercent>
+			<iGreatPeoplePercent>100</iGreatPeoplePercent>
+			<iCulturePercent>100</iCulturePercent>
+			<iAnarchyPercent>60</iAnarchyPercent>
+			<iEventChancePerTurn>1</iEventChancePerTurn>
+			<iSoundtrackSpace>0</iSoundtrackSpace>
+			<bFirstSoundtrackFirst>0</bFirstSoundtrackFirst>
+			<EraInfoSoundtracks>
+				<EraInfoSoundtrack>AS2D_ANCIENT_SOUNDTRACK_1</EraInfoSoundtrack>
+				<EraInfoSoundtrack>AS2D_ANCIENT_SOUNDTRACK_2</EraInfoSoundtrack>
+				<EraInfoSoundtrack>AS2D_ANCIENT_SOUNDTRACK_3</EraInfoSoundtrack>
+				<EraInfoSoundtrack>AS2D_ANCIENT_SOUNDTRACK_4</EraInfoSoundtrack>
+			</EraInfoSoundtracks>
+			<CitySoundscapes>
+				<CitySoundscape>
+					<CitySizeType>CITYSIZE_SMALL</CitySizeType>
+					<SoundscapeScript>ASSS_CITY_ANCIENT_SMALL_SELECT_AMB</SoundscapeScript>
+				</CitySoundscape>
+				<CitySoundscape>
+					<CitySizeType>CITYSIZE_MEDIUM</CitySizeType>
+					<SoundscapeScript>ASSS_CITY_ANCIENT_SMALL_SELECT_AMB</SoundscapeScript>
+				</CitySoundscape>
+				<CitySoundscape>
+					<CitySizeType>CITYSIZE_LARGE</CitySizeType>
+					<SoundscapeScript>ASSS_CITY_ANCIENT_LARGE_SELECT_AMB</SoundscapeScript>
+				</CitySoundscape>
+			</CitySoundscapes>
+			<AudioUnitVictoryScript>AS2D_VICTORY_EARLY</AudioUnitVictoryScript>
+			<AudioUnitDefeatScript>AS2D_LOSS_EARLY</AudioUnitDefeatScript>
+		</EraInfo>
 		<EraInfo>
 			<Type>ERA_ANCIENT</Type>
 			<Description>TXT_KEY_ERA_ANCIENT</Description>

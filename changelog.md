@@ -1,6 +1,8 @@
 # Changelog
 ## Pre-Release
 ### 2020/12/29
+#### Build 13
+Added Prehistoric Era.
 #### Build 12
 Added Worshipping tech in Ancient Era.\
 Reordered Technologies in XML.
