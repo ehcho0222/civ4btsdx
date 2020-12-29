@@ -1,6 +1,9 @@
 # Changelog
 ## Pre-Release
 ### 2020/12/29
+#### Build 10
+Removed Free Techs from Difficulty altogether.\
+Settler now requires Sedentary Lifestyle.
 #### Build 9
 Added Era Advancement Images.
 #### Build 8

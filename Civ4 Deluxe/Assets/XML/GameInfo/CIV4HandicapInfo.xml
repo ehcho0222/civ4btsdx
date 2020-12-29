@@ -89,12 +89,7 @@
 				<GoodyType>GOODY_TECH</GoodyType>
 				<GoodyType>GOODY_TECH</GoodyType>
 			</Goodies>
-			<FreeTechs>
-				<FreeTech>
-					<TechType>TECH_SEDENTARY_LIFESTYLE</TechType>
-					<bFreeTech>1</bFreeTech>
-				</FreeTech>
-			</FreeTechs>
+			<FreeTechs/>
 			<AIFreeTechs/>
 		</HandicapInfo>
 		<HandicapInfo>
