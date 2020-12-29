@@ -1,5 +1,7 @@
 # Changelog
 ## Pre-Release
+### Build 8(2020/12/29)
+Changed Difficulty settings so that players get only Sedentary Lifestyle for free on lower difficulties.
 ### Build 7(2020/12/29)
 Added more XML.
 ### Build 6(2020/12/29)
