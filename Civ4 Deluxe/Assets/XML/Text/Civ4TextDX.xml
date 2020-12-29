@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+   <TEXT>
+     <Tag>TXT_KEY_TECH_SEDENTARY_LIFESTYLE</Tag>
+     <English>Sedentary Lifestyle</English>
+     <French>Sedentary Lifestyle</French>
+     <German>Sedentary Lifestyle</German>
+     <Italian>Sedentary Lifestyle</Italian>
+     <Spanish>Sedentary Lifestyle</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_SEDENTARY_LIFESTYLE_STRATEGY</Tag>
+     <English>Sedentary Lifestyle allows you to settle unlimited cities. It is required for Ancient Era.</English>
+     <French>Sedentary Lifestyle allows you to settle unlimited cities. It is required for Ancient Era.</French>
+     <German>Sedentary Lifestyle allows you to settle unlimited cities. It is required for Ancient Era.</German>
+     <Italian>Sedentary Lifestyle allows you to settle unlimited cities. It is required for Ancient Era.</Italian>
+     <Spanish>Sedentary Lifestyle allows you to settle unlimited cities. It is required for Ancient Era.</Spanish>
+   </TEXT>
+    <TEXT>
+     <Tag>TXT_KEY_TECH_SEDENTARY_LIFESTYLE_PEDIA</Tag>
+     <English>In the early years of human history, people lived in temporary structures. As the tribe grew larger, nomadic life would not produce enough food to sustain them. Sedentism, together with farming, helped people settle down and thrive.</English>
+     <French>In the early years of human history, people lived in temporary structures. As the tribe grew larger, nomadic life would not produce enough food to sustain them. Sedentism, together with farming, helped people settle down and thrive.</French>
+     <German>In the early years of human history, people lived in temporary structures. As the tribe grew larger, nomadic life would not produce enough food to sustain them. Sedentism, together with farming, helped people settle down and thrive.</German>
+     <Italian>In the early years of human history, people lived in temporary structures. As the tribe grew larger, nomadic life would not produce enough food to sustain them. Sedentism, together with farming, helped people settle down and thrive.</Italian>
+     <Spanish>In the early years of human history, people lived in temporary structures. As the tribe grew larger, nomadic life would not produce enough food to sustain them. Sedentism, together with farming, helped people settle down and thrive.</Spanish>
+   </TEXT>
+ </Civ4GameText>

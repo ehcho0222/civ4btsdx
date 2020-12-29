@@ -1,5 +1,10 @@
 # Changelog
 ## Pre-Release
+### Build 4(2020/12/29)
+Added Sedentary Lifestyle.
+Moved all techs 1 step to the right.
+Added Text XML.
+Removed Civilizations' Free Techs.
 ### Build 3(2020/12/29)
 Changed X-position of some techs.
 ### Build 2(2020/12/28)
