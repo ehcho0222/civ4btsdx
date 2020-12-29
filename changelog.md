@@ -1,6 +1,9 @@
 # Changelog
 ## Pre-Release
 ### 2020/12/29
+#### Build 11
+Added more Techs in Ancient Era.\
+Moved most techs 4 steps to the right.
 #### Build 10
 Removed Free Techs from Difficulty altogether.\
 Settler now requires Sedentary Lifestyle.

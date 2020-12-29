@@ -2,11 +2,19 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
    <TEXT>
      <Tag>TXT_KEY_TECH_SEDENTARY_LIFESTYLE</Tag>
-     <English>Sedentary Lifestyle</English>
-     <French>Sedentary Lifestyle</French>
-     <German>Sedentary Lifestyle</German>
-     <Italian>Sedentary Lifestyle</Italian>
-     <Spanish>Sedentary Lifestyle</Spanish>
+     <English>Sedentism</English>
+     <French>Sedentism</French>
+     <German>Sedentism</German>
+     <Italian>Sedentism</Italian>
+     <Spanish>Sedentism</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_CLASSICAL_GATEWAY</Tag>
+     <English>Classical Antiquity</English>
+     <French>Classical Antiquity</French>
+     <German>Classical Antiquity</German>
+     <Italian>Classical Antiquity</Italian>
+     <Spanish>Classical Antiquity</Spanish>
    </TEXT>
    <TEXT>
      <Tag>TXT_KEY_TECH_HINDUISM</Tag>
@@ -73,6 +81,14 @@
      <Spanish>Sedentary Lifestyle allows you to settle unlimited cities. It is required for Ancient Era.</Spanish>
    </TEXT>
    <TEXT>
+     <Tag>TXT_KEY_TECH_CLASSICAL_GATEWAY_STRATEGY</Tag>
+     <English>This technology is required for Classical Era.</English>
+     <French>This technology is required for Classical Era.</French>
+     <German>This technology is required for Classical Era.</German>
+     <Italian>This technology is required for Classical Era.</Italian>
+     <Spanish>This technology is required for Classical Era.</Spanish>
+   </TEXT>
+   <TEXT>
      <Tag>TXT_KEY_TECH_HINDUISM_STRATEGY</Tag>
      <English>Hinduism is one of the first two religions in this game.</English>
      <French>Hinduism is one of the first two religions in this game.</French>
@@ -129,6 +145,14 @@
      <Spanish>In the early years of human history, people lived in temporary structures. As the tribe grew larger, nomadic life would not produce enough food to sustain them. Sedentism, together with farming, helped people settle down and thrive.</Spanish>
    </TEXT>
    <TEXT>
+     <Tag>TXT_KEY_TECH_CLASSICAL_GATEWAY_PEDIA</Tag>
+     <English>Classical Antiquity refers to the period of Greco-Roman history. It extends back to 8th century BC when Rome was founded, and continued until 476 AD.</English>
+     <French>Classical Antiquity refers to the period of Greco-Roman history. It extends back to 8th century BC when Rome was founded, and continued until 476 AD.</French>
+     <German>Classical Antiquity refers to the period of Greco-Roman history. It extends back to 8th century BC when Rome was founded, and continued until 476 AD.</German>
+     <Italian>Classical Antiquity refers to the period of Greco-Roman history. It extends back to 8th century BC when Rome was founded, and continued until 476 AD.</Italian>
+     <Spanish>Classical Antiquity refers to the period of Greco-Roman history. It extends back to 8th century BC when Rome was founded, and continued until 476 AD.</Spanish>
+   </TEXT>
+   <TEXT>
      <Tag>TXT_KEY_TECH_RELIGION_PEDIA</Tag>
      <English>This tech allows you to found a Religion. It is not required for any other techs.</English>
      <French>This tech allows you to found a Religion. It is not required for any other techs.</French>
@@ -145,11 +169,11 @@
      <Spanish>This tech allows you to found a Religion. It is not required for any other techs.</Spanish>
    </TEXT>
    <TEXT>
-     <Tag>TXT_KEY_TECH_SEDENTARY_LIFESTYLE_QUOTE</Tag>
-     <English>.</English>
-     <French>.</French>
-     <German>.</German>
-     <Italian>.</Italian>
-     <Spanish>.</Spanish>
+     <Tag>TXT_KEY_TECH_ERA_UNLOCK_QUOTE</Tag>
+     <English>You have unlocked a new Era.</English>
+     <French>You have unlocked a new Era.</French>
+     <German>You have unlocked a new Era.</German>
+     <Italian>You have unlocked a new Era.</Italian>
+     <Spanish>You have unlocked a new Era.</Spanish>
    </TEXT>
  </Civ4GameText>
