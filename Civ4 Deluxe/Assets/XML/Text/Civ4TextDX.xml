@@ -17,6 +17,46 @@
      <Spanish>Prehistoric Era</Spanish>
    </TEXT>
    <TEXT>
+     <Tag>TXT_KEY_TECH_NOMADIC_LIFESTYLE</Tag>
+     <English>Nomadic Lifestyle</English>
+     <French>Nomadic Lifestyle</French>
+     <German>Nomadic Lifestyle</German>
+     <Italian>Nomadic Lifestyle</Italian>
+     <Spanish>Nomadic Lifestyle</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_LANGUAGE</Tag>
+     <English>Language</English>
+     <French>Language</French>
+     <German>Language</German>
+     <Italian>Language</Italian>
+     <Spanish>Language</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_SIMPLE_TOOLS</Tag>
+     <English>Simple Tools</English>
+     <French>Simple Tools</French>
+     <German>Simple Tools</German>
+     <Italian>Simple Tools</Italian>
+     <Spanish>Simple Tools</Spanish>
+   </TEXT>
+    <TEXT>
+     <Tag>TXT_KEY_TECH_GATHERING</Tag>
+     <English>Gathering</English>
+     <French>Gathering</French>
+     <German>Gathering</German>
+     <Italian>Gathering</Italian>
+     <Spanish>Gathering</Spanish>
+   </TEXT>
+    <TEXT>
+     <Tag>TXT_KEY_TECH_ORAL_TRADITION</Tag>
+     <English>Oral Tradition</English>
+     <French>Oral Tradition</French>
+     <German>Oral Tradition</German>
+     <Italian>Oral Tradition</Italian>
+     <Spanish>Oral Tradition</Spanish>
+   </TEXT>
+   <TEXT>
      <Tag>TXT_KEY_TECH_SEDENTARY_LIFESTYLE</Tag>
      <English>Sedentism</English>
      <French>Sedentism</French>
@@ -97,6 +137,30 @@
      <Spanish>Islam</Spanish>
    </TEXT>
    <TEXT>
+     <Tag>TXT_KEY_TECH_NOMADIC_LIFESTYLE_STRATEGY</Tag>
+     <English>Nomadic Lifestyle is the first technology.It gates almost all other technologies.</English>
+     <French>Nomadic Lifestyle is the first technology.It gates almost all other technologies.</French>
+     <German>Nomadic Lifestyle is the first technology.It gates almost all other technologies.</German>
+     <Italian>Nomadic Lifestyle is the first technology.It gates almost all other technologies.</Italian>
+     <Spanish>Nomadic Lifestyle is the first technology.It gates almost all other technologies.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_LANGUAGE_STRATEGY</Tag>
+     <English>Language allows first Science building: Dreamer.</English>
+     <French>Language allows first Science building: Dreamer.</French>
+     <German>Language allows first Science building: Dreamer.</German>
+     <Italian>Language allows first Science building: Dreamer.</Italian>
+     <Spanish>Language allows first Science building: Dreamer.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_SIMPLE_TOOLS_STRATEGY</Tag>
+     <English>Simple Tools is a Research to boost Production.</English>
+     <French>Simple Tools is a Research to boost Production.</French>
+     <German>Simple Tools is a Research to boost Production.</German>
+     <Italian>Simple Tools is a Research to boost Production.</Italian>
+     <Spanish>Simple Tools is a Research to boost Production.</Spanish>
+   </TEXT>
+   <TEXT>
      <Tag>TXT_KEY_TECH_SEDENTARY_LIFESTYLE_STRATEGY</Tag>
      <English>Sedentary Lifestyle allows you to settle unlimited cities. It is required for Ancient Era.</English>
      <French>Sedentary Lifestyle allows you to settle unlimited cities. It is required for Ancient Era.</French>
@@ -168,6 +232,30 @@
      <Italian>Islam is one of the three religions in Medieval Era.</Italian>
      <Spanish>Islam is one of the three religions in Medieval Era.</Spanish>
    </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_NOMADIC_LIFESTYLE_PEDIA</Tag>
+     <English>When humans first evolved, they made temporary structures and moved often.</English>
+     <French>When humans first evolved, they made temporary structures and moved often.</French>
+     <German>When humans first evolved, they made temporary structures and moved often.</German>
+     <Italian>When humans first evolved, they made temporary structures and moved often.</Italian>
+     <Spanish>When humans first evolved, they made temporary structures and moved often.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_LANGUAGE_PEDIA</Tag>
+     <English>Humans invented language to communicate well with each other.</English>
+     <French>Humans invented language to communicate well with each other.</French>
+     <German>Humans invented language to communicate well with each other.</German>
+     <Italian>Humans invented language to communicate well with each other.</Italian>
+     <Spanish>Humans invented language to communicate well with each other.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_SIMPLE_TOOLS_PEDIA</Tag>
+     <English>.</English>
+     <French>.</French>
+     <German>.</German>
+     <Italian>.</Italian>
+     <Spanish>.</Spanish>
+   </TEXT>
     <TEXT>
      <Tag>TXT_KEY_TECH_SEDENTARY_LIFESTYLE_PEDIA</Tag>
      <English>In the early years of human history, people lived in temporary structures. As the tribe grew larger, nomadic life would not produce enough food to sustain them. Sedentism, together with farming, helped people settle down and thrive.</English>
@@ -199,6 +287,14 @@
      <German>This tech allows you to found a Religion. It is not required for any other techs.</German>
      <Italian>This tech allows you to found a Religion. It is not required for any other techs.</Italian>
      <Spanish>This tech allows you to found a Religion. It is not required for any other techs.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_PLACEHOLDER_QUOTE</Tag>
+     <English>.</English>
+     <French>.</French>
+     <German>.</German>
+     <Italian>.</Italian>
+     <Spanish>.</Spanish>
    </TEXT>
    <TEXT>
      <Tag>TXT_KEY_TECH_WORSHIPPING_QUOTE</Tag>

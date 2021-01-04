@@ -1,5 +1,10 @@
 # Changelog
 ## Pre-Release
+### 2021/1/4
+#### Build 15
+Fixed Game UI not showing up.
+#### Build 14
+Added image for advancing to Ancient Era.
 ### 2020/12/29
 #### Build 13
 Added Prehistoric Era.
