@@ -385,8 +385,8 @@
 			<AudioUnitDefeatScript>AS2D_LOSS_MIDDLE</AudioUnitDefeatScript>
 		</EraInfo>
 		<EraInfo>
-			<Type>ERA_MODERN</Type>
-			<Description>TXT_KEY_ERA_MODERN</Description>
+			<Type>DX_ERA_ATOMIC</Type>
+			<Description>TXT_KEY_ERA_ATOMIC</Description>
 			<Strategy>TXT_KEY_ERA_MODERN_STRATEGY</Strategy>
 			<bNoGoodies>1</bNoGoodies>
 			<bNoAnimals>1</bNoAnimals>

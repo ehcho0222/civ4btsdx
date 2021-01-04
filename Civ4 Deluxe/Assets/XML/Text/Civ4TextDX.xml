@@ -9,6 +9,14 @@
      <Spanish>Prehistoric</Spanish>
    </TEXT>
    <TEXT>
+     <Tag>TXT_KEY_ERA_ATOMIC</Tag>
+     <English>Atomic</English>
+     <French>Atomic</French>
+     <German>Atomic</German>
+     <Italian>Atomic</Italian>
+     <Spanish>Atomic</Spanish>
+   </TEXT>
+   <TEXT>
      <Tag>TXT_KEY_ERA_PREHISTORIC_STRATEGY</Tag>
      <English>Prehistoric Era</English>
      <French>Prehistoric Era</French>

@@ -1,6 +1,8 @@
 # Changelog
 ## Pre-Release
 ### 2021/1/4
+#### Build 16
+Changed Modern Era to Atomic Era.
 #### Build 15
 Fixed Game UI not showing up.
 #### Build 14
