@@ -1,6 +1,11 @@
 # Changelog
 ## Pre-Release
+### 2021/1/5
+#### Build 18
+Adjusted game speed in Quick, Epic, and Marathon speeds.
 ### 2021/1/4
+#### Build 17
+Added Information Era.
 #### Build 16
 Changed Modern Era to Atomic Era.
 #### Build 15

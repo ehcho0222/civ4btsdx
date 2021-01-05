@@ -520,12 +520,7 @@
 				<GoodyType>GOODY_BARBARIANS_STRONG</GoodyType>
 			</Goodies>
 			<FreeTechs/>
-			<AIFreeTechs>
-				<FreeTech>
-					<TechType>TECH_ARCHERY</TechType>
-					<bFreeTech>1</bFreeTech>
-				</FreeTech>
-			</AIFreeTechs>
+			<AIFreeTechs/>
 		</HandicapInfo>
 		<HandicapInfo>
 			<Type>HANDICAP_EMPEROR</Type>
@@ -611,16 +606,7 @@
 				<GoodyType>GOODY_BARBARIANS_STRONG</GoodyType>
 			</Goodies>
 			<FreeTechs/>
-			<AIFreeTechs>
-				<FreeTech>
-					<TechType>TECH_HUNTING</TechType>
-					<bFreeTech>1</bFreeTech>
-				</FreeTech>
-				<FreeTech>
-					<TechType>TECH_ARCHERY</TechType>
-					<bFreeTech>1</bFreeTech>
-				</FreeTech>
-			</AIFreeTechs>
+			<AIFreeTechs/>
 		</HandicapInfo>
 		<HandicapInfo>
 			<Type>HANDICAP_IMMORTAL</Type>
@@ -706,20 +692,7 @@
 				<GoodyType>GOODY_BARBARIANS_STRONG</GoodyType>
 			</Goodies>
 			<FreeTechs/>
-			<AIFreeTechs>
-				<FreeTech>
-					<TechType>TECH_AGRICULTURE</TechType>
-					<bFreeTech>1</bFreeTech>
-				</FreeTech>
-				<FreeTech>
-					<TechType>TECH_HUNTING</TechType>
-					<bFreeTech>1</bFreeTech>
-				</FreeTech>
-				<FreeTech>
-					<TechType>TECH_ARCHERY</TechType>
-					<bFreeTech>1</bFreeTech>
-				</FreeTech>
-			</AIFreeTechs>
+			<AIFreeTechs/>
 		</HandicapInfo>
 		<HandicapInfo>
 			<Type>HANDICAP_DEITY</Type>
@@ -805,24 +778,7 @@
 				<GoodyType>GOODY_BARBARIANS_STRONG</GoodyType>
 			</Goodies>
 			<FreeTechs/>
-			<AIFreeTechs>
-				<FreeTech>
-					<TechType>TECH_THE_WHEEL</TechType>
-					<bFreeTech>1</bFreeTech>
-				</FreeTech>
-				<FreeTech>
-					<TechType>TECH_AGRICULTURE</TechType>
-					<bFreeTech>1</bFreeTech>
-				</FreeTech>
-				<FreeTech>
-					<TechType>TECH_HUNTING</TechType>
-					<bFreeTech>1</bFreeTech>
-				</FreeTech>
-				<FreeTech>
-					<TechType>TECH_ARCHERY</TechType>
-					<bFreeTech>1</bFreeTech>
-				</FreeTech>
-			</AIFreeTechs>
+			<AIFreeTechs/>
 		</HandicapInfo>
 	</HandicapInfos>
 </Civ4HandicapInfo>

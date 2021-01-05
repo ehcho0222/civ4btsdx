@@ -17,6 +17,14 @@
      <Spanish>Atomic</Spanish>
    </TEXT>
    <TEXT>
+     <Tag>TXT_KEY_ERA_INFORMATION</Tag>
+     <English>Information</English>
+     <French>Information</French>
+     <German>Information</German>
+     <Italian>Information</Italian>
+     <Spanish>Information</Spanish>
+   </TEXT>
+   <TEXT>
      <Tag>TXT_KEY_ERA_PREHISTORIC_STRATEGY</Tag>
      <English>Prehistoric Era</English>
      <French>Prehistoric Era</French>
