@@ -98,11 +98,51 @@
    </TEXT>
    <TEXT>
      <Tag>TXT_KEY_TECH_CLASSICAL_GATEWAY</Tag>
-     <English>Classical Antiquity</English>
-     <French>Classical Antiquity</French>
-     <German>Classical Antiquity</German>
-     <Italian>Classical Antiquity</Italian>
-     <Spanish>Classical Antiquity</Spanish>
+     <English>Classical Lifestyle</English>
+     <French>Classical Lifestyle</French>
+     <German>Classical Lifestyle</German>
+     <Italian>Classical Lifestyle</Italian>
+     <Spanish>Classical Lifestyle</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_MEDIEVAL_LIFESTYLE</Tag>
+     <English>Medieval Lifestyle</English>
+     <French>Medieval Lifestyle</French>
+     <German>Medieval Lifestyle</German>
+     <Italian>Medieval Lifestyle</Italian>
+     <Spanish>Medieval Lifestyle</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_RENAISSANCE_LIFESTYLE</Tag>
+     <English>Renaissance Lifestyle</English>
+     <French>Renaissance Lifestyle</French>
+     <German>Renaissance Lifestyle</German>
+     <Italian>Renaissance Lifestyle</Italian>
+     <Spanish>Renaissance Lifestyle</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_INDUSTRIAL_LIFESTYLE</Tag>
+     <English>Industrial Lifestyle</English>
+     <French>Industrial Lifestyle</French>
+     <German>Industrial Lifestyle</German>
+     <Italian>Industrial Lifestyle</Italian>
+     <Spanish>Industrial Lifestyle</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_ATOMIC_LIFESTYLE</Tag>
+     <English>Atomic Lifestyle</English>
+     <French>Atomic Lifestyle</French>
+     <German>Atomic Lifestyle</German>
+     <Italian>Atomic Lifestyle</Italian>
+     <Spanish>Atomic Lifestyle</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_INFORMATION_LIFESTYLE</Tag>
+     <English>Information Lifestyle</English>
+     <French>Information Lifestyle</French>
+     <German>Information Lifestyle</German>
+     <Italian>Information Lifestyle</Italian>
+     <Spanish>Information Lifestyle</Spanish>
    </TEXT>
     <TEXT>
      <Tag>TXT_KEY_TECH_WORSHIPPING</Tag>
@@ -111,6 +151,14 @@
      <German>Worshipping</German>
      <Italian>Worshipping</Italian>
      <Spanish>Worshipping</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_DX_TECH_STEEL</Tag>
+     <English>Bessemer Process</English>
+     <French>Bessemer Process</French>
+     <German>Bessemer Process</German>
+     <Italian>Bessemer Process</Italian>
+     <Spanish>Bessemer Process</Spanish>
    </TEXT>
    <TEXT>
      <Tag>TXT_KEY_TECH_HINDUISM</Tag>
@@ -207,6 +255,46 @@
      <German>This technology is required for Classical Era.</German>
      <Italian>This technology is required for Classical Era.</Italian>
      <Spanish>This technology is required for Classical Era.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_MEDIEVAL_LIFESTYLE_STRATEGY</Tag>
+     <English>This technology is required for Medieval Era.</English>
+     <French>This technology is required for Medieval Era.</French>
+     <German>This technology is required for Medieval Era.</German>
+     <Italian>This technology is required for Medieval Era.</Italian>
+     <Spanish>This technology is required for Medieval Era.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_RENAISSANCE_LIFESTYLE_STRATEGY</Tag>
+     <English>This technology is required for Renaissance Era.</English>
+     <French>This technology is required for Renaissance Era.</French>
+     <German>This technology is required for Renaissance Era.</German>
+     <Italian>This technology is required for Renaissance Era.</Italian>
+     <Spanish>This technology is required for Renaissance Era.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_INDUSTRIAL_LIFESTYLE_STRATEGY</Tag>
+     <English>This technology is required for Industrial Era.</English>
+     <French>This technology is required for Industrial Era.</French>
+     <German>This technology is required for Industrial Era.</German>
+     <Italian>This technology is required for Industrial Era.</Italian>
+     <Spanish>This technology is required for Industrial Era.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_ATOMIC_LIFESTYLE_STRATEGY</Tag>
+     <English>This technology is required for Atomic Era.</English>
+     <French>This technology is required for Atomic Era.</French>
+     <German>This technology is required for Atomic Era.</German>
+     <Italian>This technology is required for Atomic Era.</Italian>
+     <Spanish>This technology is required for Atomic Era.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_INFORMATION_LIFESTYLE_STRATEGY</Tag>
+     <English>This technology is required for Information Era.</English>
+     <French>This technology is required for Information Era.</French>
+     <German>This technology is required for Information Era.</German>
+     <Italian>This technology is required for Information Era.</Italian>
+     <Spanish>This technology is required for Information Era.</Spanish>
    </TEXT>
    <TEXT>
      <Tag>TXT_KEY_TECH_WORSHIPPING_STRATEGY</Tag>

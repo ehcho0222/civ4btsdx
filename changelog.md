@@ -1,6 +1,9 @@
 # Changelog
 ## Pre-Release
 ### 2021/1/5
+#### Build 21
+Added Lifestyle techs for all Eras.\
+Added images for newly added techs.
 #### Build 20
 (Test) Added Sedentism image.
 #### Build 19
