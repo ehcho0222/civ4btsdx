@@ -1,6 +1,8 @@
 # Changelog
 ## Pre-Release
 ### 2021/1/5
+#### Build 20
+(Test) Added Sedentism image.
 #### Build 19
 Added Endless Speed.\
 Changed various parameters.

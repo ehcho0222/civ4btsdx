@@ -175,23 +175,23 @@
 			<SpeedThresholds>
 			  <SpeedThreshold>
 					<GameSpeedType>DX_GAMESPEED_ENDLESS</GameSpeedType>
-					<iThreshold>3000000</iThreshold>
+					<iThreshold>1800000</iThreshold>
 				</SpeedThreshold>
 				<SpeedThreshold>
 					<GameSpeedType>GAMESPEED_MARATHON</GameSpeedType>
-					<iThreshold>1500000</iThreshold>
+					<iThreshold>900000</iThreshold>
 				</SpeedThreshold>
 				<SpeedThreshold>
 					<GameSpeedType>GAMESPEED_EPIC</GameSpeedType>
-					<iThreshold>750000</iThreshold>
+					<iThreshold>450000</iThreshold>
 				</SpeedThreshold>
 				<SpeedThreshold>
 					<GameSpeedType>GAMESPEED_NORMAL</GameSpeedType>
-					<iThreshold>500000</iThreshold>
+					<iThreshold>300000</iThreshold>
 				</SpeedThreshold>
 				<SpeedThreshold>
 					<GameSpeedType>GAMESPEED_QUICK</GameSpeedType>
-					<iThreshold>250000</iThreshold>
+					<iThreshold>150000</iThreshold>
 				</SpeedThreshold>
 			</SpeedThresholds>
 		</CultureLevelInfo>

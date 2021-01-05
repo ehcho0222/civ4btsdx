@@ -279,9 +279,9 @@
 			<OrPreReqs/>
 			<AndPreReqs/>
 			<Quote>TXT_KEY_TECH_ERA_UNLOCK_QUOTE</Quote>
-			<Sound>AS2D_TECH_MYSTICISM</Sound>
-			<SoundMP>AS2D_TECH_MP_MYSTICISM</SoundMP>
-			<Button>,Art/Interface/Buttons/TechTree/Mysticism.dds,Art/Interface/Buttons/TechTree_Atlas.dds,4,11</Button>
+			<Sound/>
+			<SoundMP/>
+			<Button>Art/Interface/Buttons/TechTree/Sedentism.dds</Button>
 		</TechInfo>
 		<TechInfo>
 			<Type>TECH_ARCHERY</Type>
