@@ -1,6 +1,9 @@
 # Changelog
 ## Pre-Release
 ### 2021/1/5
+#### Build 19
+Added Endless Speed.\
+Changed various parameters.
 #### Build 18
 Adjusted game speed in Quick, Epic, and Marathon speeds.
 ### 2021/1/4

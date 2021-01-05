@@ -1,6 +1,22 @@
 <?xml version="1.0"?>
 <Civ4GameText xmlns="http://www.firaxis.com">
   <TEXT>
+     <Tag>TXT_KEY_GAMESPEED_ENDLESS</Tag>
+     <English>Endless</English>
+     <French>Endless</French>
+     <German>Endless</German>
+     <Italian>Endless</Italian>
+     <Spanish>Endless</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_GAMESPEED_ENDLESS_HELP</Tag>
+     <English>Endless speed is twice as slow as Marathon.</English>
+     <French>Endless speed is twice as slow as Marathon.</French>
+     <German>Endless speed is twice as slow as Marathon.</German>
+     <Italian>Endless speed is twice as slow as Marathon.</Italian>
+     <Spanish>Endless speed is twice as slow as Marathon.</Spanish>
+   </TEXT>
+  <TEXT>
      <Tag>TXT_KEY_ERA_PREHISTORIC</Tag>
      <English>Prehistoric</English>
      <French>Prehistoric</French>

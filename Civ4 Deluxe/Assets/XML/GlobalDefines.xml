@@ -75,7 +75,7 @@
 	</Define>
 	<Define>
 		<DefineName>STANDARD_GAMESPEED</DefineName>
-		<DefineTextVal>GAMESPEED_NORMAL</DefineTextVal>
+		<DefineTextVal>GAMESPEED_EPIC</DefineTextVal>
 	</Define>
 	<Define>
 		<DefineName>STANDARD_TURNTIMER</DefineName>
@@ -127,11 +127,11 @@
 	</Define>
 	<Define>
 		<DefineName>EVENT_MESSAGE_TIME_LONG</DefineName>
-		<iDefineIntVal>20</iDefineIntVal>
+		<iDefineIntVal>10</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>EVENT_MESSAGE_STAGGER_TIME</DefineName>
-		<iDefineIntVal>3</iDefineIntVal>
+		<iDefineIntVal>2</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>START_YEAR</DefineName>
@@ -255,11 +255,11 @@
 	</Define>
 	<Define>
 		<DefineName>BASE_CIVIC_ANARCHY_LENGTH</DefineName>
-		<iDefineIntVal>3</iDefineIntVal>
+		<iDefineIntVal>2</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>BASE_RELIGION_ANARCHY_LENGTH</DefineName>
-		<iDefineIntVal>3</iDefineIntVal>
+		<iDefineIntVal>2</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>COMMERCE_PERCENT_CHANGE_INCREMENTS</DefineName>
@@ -315,11 +315,11 @@
 	</Define>
 	<Define>
 		<DefineName>MAX_NATIONAL_WONDERS_PER_CITY</DefineName>
-		<iDefineIntVal>2</iDefineIntVal>
+		<iDefineIntVal>3</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>MAX_NATIONAL_WONDERS_PER_CITY_FOR_OCC</DefineName>
-		<iDefineIntVal>5</iDefineIntVal>
+		<iDefineIntVal>10</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>MAX_BUILDINGS_PER_CITY</DefineName>
@@ -351,7 +351,7 @@
 	</Define>
 	<Define>
 		<DefineName>CONSCRIPT_MIN_CITY_POPULATION</DefineName>
-		<iDefineIntVal>4</iDefineIntVal>
+		<iDefineIntVal>3</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>CONSCRIPT_POPULATION_PER_COST</DefineName>
@@ -535,7 +535,7 @@
 	</Define>
 	<Define>
 		<DefineName>LAKE_MAX_AREA_SIZE</DefineName>
-		<iDefineIntVal>9</iDefineIntVal>
+		<iDefineIntVal>10</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>INITIAL_BASE_FREE_UNITS</DefineName>
@@ -543,7 +543,7 @@
 	</Define>
 	<Define>
 		<DefineName>INITIAL_BASE_FREE_MILITARY_UNITS</DefineName>
-		<iDefineIntVal>2</iDefineIntVal>
+		<iDefineIntVal>4</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>INITIAL_FREE_UNITS_POPULATION_PERCENT</DefineName>
@@ -583,7 +583,7 @@
 	</Define>
 	<Define>
 		<DefineName>GOLDEN_AGE_LENGTH</DefineName>
-		<iDefineIntVal>8</iDefineIntVal>
+		<iDefineIntVal>10</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>GOLDEN_AGE_GREAT_PEOPLE_MODIFIER</DefineName>
@@ -843,7 +843,7 @@
 	</Define>
 	<Define>
 		<DefineName>CONSCRIPT_POP_ANGER</DefineName>
-		<iDefineIntVal>3</iDefineIntVal>
+		<iDefineIntVal>2</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>CONSCRIPT_ANGER_DIVISOR</DefineName>
@@ -851,7 +851,7 @@
 	</Define>
 	<Define>
 		<DefineName>DEFY_RESOLUTION_POP_ANGER</DefineName>
-		<iDefineIntVal>5</iDefineIntVal>
+		<iDefineIntVal>4</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>DEFY_RESOLUTION_ANGER_DIVISOR</DefineName>
@@ -1039,7 +1039,7 @@
 	<Define>
 		<!-- the maximum percentage of a city that can be wonders, regular buildings, etc -->
 		<DefineName>GAME_CITY_SIZE_MAX_PERCENT_UNIQUE</DefineName>
-		<fDefineFloatVal>0.7</fDefineFloatVal>
+		<fDefineFloatVal>0.6</fDefineFloatVal>
 	</Define>
 	<!-- this is the way to tweak city size when METHOD_EXPONENTIAL is chosen in the above define -->
 	<Define>
@@ -1315,22 +1315,22 @@
 	<Define>
 		<DefineName>SCORE_POPULATION_FACTOR</DefineName>
 		<!--Score you get if you have the 'maximum' population possible on the current map-->
-		<iDefineIntVal>5000</iDefineIntVal>
+		<iDefineIntVal>10000</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>SCORE_LAND_FACTOR</DefineName>
 		<!--Score you get if you have all the land on the current map-->
-		<iDefineIntVal>2500</iDefineIntVal>
+		<iDefineIntVal>5000</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>SCORE_WONDER_FACTOR</DefineName>
 		<!--Score you get if you have all the wonders-->
-		<iDefineIntVal>1500</iDefineIntVal>
+		<iDefineIntVal>3000</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>SCORE_TECH_FACTOR</DefineName>
 		<!--Score you get if you have all the techs-->
-		<iDefineIntVal>2500</iDefineIntVal>
+		<iDefineIntVal>5000</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>SCORE_FREE_PERCENT</DefineName>
