@@ -89,6 +89,158 @@
      <Spanish>Oral Tradition</Spanish>
    </TEXT>
    <TEXT>
+     <Tag>TXT_KEY_TECH_ENDURANCE_HUNTING</Tag>
+     <English>Endurance Hunting</English>
+     <French>Endurance Hunting</French>
+     <German>Endurance Hunting</German>
+     <Italian>Endurance Hunting</Italian>
+     <Spanish>Endurance Hunting</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_USE_OF_FIRE</Tag>
+     <English>Use of Fire</English>
+     <French>Use of Fire</French>
+     <German>Use of Fire</German>
+     <Italian>Use of Fire</Italian>
+     <Spanish>Use of Fire</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_HERBALISM</Tag>
+     <English>Herbalism</English>
+     <French>Herbalism</French>
+     <German>Herbalism</German>
+     <Italian>Herbalism</Italian>
+     <Spanish>Herbalism</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_SHELTER</Tag>
+     <English>Shelter</English>
+     <French>Shelter</French>
+     <German>Shelter</German>
+     <Italian>Shelter</Italian>
+     <Spanish>Shelter</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_TRAPPING</Tag>
+     <English>Trapping</English>
+     <French>Trapping</French>
+     <German>Trapping</German>
+     <Italian>Trapping</Italian>
+     <Spanish>Trapping</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_SPEAR</Tag>
+     <English>Spear</English>
+     <French>Spear</French>
+     <German>Spear</German>
+     <Italian>Spear</Italian>
+     <Spanish>Spear</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_STONE_TOOLS</Tag>
+     <English>Stone Tools</English>
+     <French>Stone Tools</French>
+     <German>Stone Tools</German>
+     <Italian>Stone Tools</Italian>
+     <Spanish>Stone Tools</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_COOKING</Tag>
+     <English>Cooking</English>
+     <French>Cooking</French>
+     <German>Cooking</German>
+     <Italian>Cooking</Italian>
+     <Spanish>Cooking</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_FLINT</Tag>
+     <English>Flint</English>
+     <French>Flint</French>
+     <German>Flint</German>
+     <Italian>Flint</Italian>
+     <Spanish>Flint</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_GROUND_STONE_TOOLS</Tag>
+     <English>Ground Stone Tools</English>
+     <French>Ground Stone Tools</French>
+     <German>Ground Stone Tools</German>
+     <Italian>Ground Stone Tools</Italian>
+     <Spanish>Ground Stone Tools</Spanish>
+   </TEXT>
+    <TEXT>
+     <Tag>TXT_KEY_TECH_BUILDING_OF_FIRE</Tag>
+     <English>Building of Fire</English>
+     <French>Building of Fire</French>
+     <German>Building of Fire</German>
+     <Italian>Building of Fire</Italian>
+     <Spanish>Building of Fire</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_BURIAL</Tag>
+     <English>Burial</English>
+     <French>Burial</French>
+     <German>Burial</German>
+     <Italian>Burial</Italian>
+     <Spanish>Burial</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_CHIEFTAINS</Tag>
+     <English>Chieftains</English>
+     <French>Chieftains</French>
+     <German>Chieftains</German>
+     <Italian>Chieftains</Italian>
+     <Spanish>Chieftains</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_BEADS</Tag>
+     <English>Beads</English>
+     <French>Beads</French>
+     <German>Beads</German>
+     <Italian>Beads</Italian>
+     <Spanish>Beads</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_KILN</Tag>
+     <English>Kiln</English>
+     <French>Kiln</French>
+     <German>Kiln</German>
+     <Italian>Kiln</Italian>
+     <Spanish>Kiln</Spanish>
+   </TEXT>
+    <TEXT>
+     <Tag>TXT_KEY_TECH_DYE</Tag>
+     <English>Dye</English>
+     <French>Dye</French>
+     <German>Dye</German>
+     <Italian>Dye</Italian>
+     <Spanish>Dye</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_RITUALS</Tag>
+     <English>Rituals</English>
+     <French>Rituals</French>
+     <German>Rituals</German>
+     <Italian>Rituals</Italian>
+     <Spanish>Rituals</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_MEGALITH</Tag>
+     <English>Megalith</English>
+     <French>Megalith</French>
+     <German>Megalith</German>
+     <Italian>Megalith</Italian>
+     <Spanish>Megalith</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_PREHISTORIC_MUSIC</Tag>
+     <English>Prehistoric Music</English>
+     <French>Prehistoric Music</French>
+     <German>Prehistoric Music</German>
+     <Italian>Prehistoric Music</Italian>
+     <Spanish>Prehistoric Music</Spanish>
+   </TEXT>
+   <TEXT>
      <Tag>TXT_KEY_TECH_SEDENTARY_LIFESTYLE</Tag>
      <English>Sedentism</English>
      <French>Sedentism</French>

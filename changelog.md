@@ -1,6 +1,8 @@
 # Changelog
 ## Pre-Release
 ### 2021/1/5
+#### Build 22
+Added ~20 Techs in Prehistoric Era.
 #### Build 21
 Added Lifestyle techs for all Eras.\
 Added images for newly added techs.
