@@ -1,6 +1,9 @@
 # Changelog
 ## Pre-Release
 ### 2021/1/6
+#### Build 24
+Extended Atomic Era.\
+Increased tech costs of Information & Future Eras.
 #### Build 23
 Changed Communism and Fascism to Atomic Era.\
 Copper and Iron unlock earlier.\

@@ -587,7 +587,7 @@
 			<BonusClassType>BONUSCLASS_GENERAL</BonusClassType>
 			<ArtDefineTag>ART_DEF_BONUS_BANANA</ArtDefineTag>
 			<TechReveal>NONE</TechReveal>
-			<TechCityTrade>TECH_CALENDAR</TechCityTrade>
+			<TechCityTrade>TECH_ORCHARDRY</TechCityTrade>
 			<TechObsolete>NONE</TechObsolete>
 			<YieldChanges>
 				<iYieldChange>1</iYieldChange>
@@ -1175,7 +1175,7 @@
 			<BonusClassType>BONUSCLASS_GENERAL</BonusClassType>
 			<ArtDefineTag>ART_DEF_BONUS_DYE</ArtDefineTag>
 			<TechReveal>NONE</TechReveal>
-			<TechCityTrade>TECH_CALENDAR</TechCityTrade>
+			<TechCityTrade>TECH_SPICE_CULTIVATION</TechCityTrade>
 			<TechObsolete>NONE</TechObsolete>
 			<YieldChanges>
 				<iYieldChange>0</iYieldChange>
@@ -1403,7 +1403,7 @@
 			<BonusClassType>BONUSCLASS_GENERAL</BonusClassType>
 			<ArtDefineTag>ART_DEF_BONUS_INCENSE</ArtDefineTag>
 			<TechReveal>NONE</TechReveal>
-			<TechCityTrade>TECH_CALENDAR</TechCityTrade>
+			<TechCityTrade>TECH_SPICE_CULTIVATION</TechCityTrade>
 			<TechObsolete>NONE</TechObsolete>
 			<YieldChanges>
 				<iYieldChange>0</iYieldChange>
@@ -1511,7 +1511,7 @@
 			<BonusClassType>BONUSCLASS_GENERAL</BonusClassType>
 			<ArtDefineTag>ART_DEF_BONUS_SILK</ArtDefineTag>
 			<TechReveal>NONE</TechReveal>
-			<TechCityTrade>TECH_CALENDAR</TechCityTrade>
+			<TechCityTrade>TECH_SERICULTURE</TechCityTrade>
 			<TechObsolete>NONE</TechObsolete>
 			<YieldChanges>
 				<iYieldChange>0</iYieldChange>
@@ -1623,7 +1623,7 @@
 			<BonusClassType>BONUSCLASS_GENERAL</BonusClassType>
 			<ArtDefineTag>ART_DEF_BONUS_SPICES</ArtDefineTag>
 			<TechReveal>NONE</TechReveal>
-			<TechCityTrade>TECH_CALENDAR</TechCityTrade>
+			<TechCityTrade>TECH_SPICE_CULTIVATION</TechCityTrade>
 			<TechObsolete>NONE</TechObsolete>
 			<YieldChanges>
 				<iYieldChange>0</iYieldChange>
@@ -1685,7 +1685,7 @@
 			<BonusClassType>BONUSCLASS_GENERAL</BonusClassType>
 			<ArtDefineTag>ART_DEF_BONUS_SUGAR</ArtDefineTag>
 			<TechReveal>NONE</TechReveal>
-			<TechCityTrade>TECH_CALENDAR</TechCityTrade>
+			<TechCityTrade>TECH_SPICE_CULTIVATION</TechCityTrade>
 			<TechObsolete>NONE</TechObsolete>
 			<YieldChanges>
 				<iYieldChange>1</iYieldChange>
@@ -1738,7 +1738,7 @@
 			<Civilopedia>TXT_KEY_BONUS_WINE_PEDIA</Civilopedia>
 			<BonusClassType>BONUSCLASS_GENERAL</BonusClassType>
 			<ArtDefineTag>ART_DEF_BONUS_WINE</ArtDefineTag>
-			<TechReveal>TECH_CALENDAR</TechReveal>
+			<TechReveal>TECH_ORCHARDRY</TechReveal>
 			<TechCityTrade>TECH_MONARCHY</TechCityTrade>
 			<TechObsolete>NONE</TechObsolete>
 			<YieldChanges>
