@@ -1,5 +1,11 @@
 # Changelog
 ## Pre-Release
+### 2021/1/6
+#### Build 23
+Changed Communism and Fascism to Atomic Era.\
+Copper and Iron unlock earlier.\
+Worker now requires Sedentism.\
+Y-pos of some techs changed.
 ### 2021/1/5
 #### Build 22
 Added ~20 Techs in Prehistoric Era.
