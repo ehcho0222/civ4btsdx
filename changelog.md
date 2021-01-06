@@ -1,6 +1,10 @@
 # Changelog
 ## Pre-Release
 ### 2021/1/6
+#### Build 25
+Added Blitz Speed.\
+Extended Culture Levels so that it is promoted every 400k Culture after reaching Legendary.\
+It goes like this: Influential(100k) -> Legendary(500k) -> Legendary II(900k) -> Legendary III(1.3M) ...
 #### Build 24
 Extended Atomic Era.\
 Increased tech costs of Information & Future Eras.

@@ -31,6 +31,10 @@
 					<GameSpeedType>GAMESPEED_QUICK</GameSpeedType>
 					<iThreshold>0</iThreshold>
 				</SpeedThreshold>
+				<SpeedThreshold>
+					<GameSpeedType>DX_GAMESPEED_BLITZ</GameSpeedType>
+					<iThreshold>0</iThreshold>
+				</SpeedThreshold>
 			</SpeedThresholds>
 		</CultureLevelInfo>
 		<CultureLevelInfo>
@@ -58,6 +62,10 @@
 					<GameSpeedType>GAMESPEED_QUICK</GameSpeedType>
 					<iThreshold>0</iThreshold>
 				</SpeedThreshold>
+				<SpeedThreshold>
+					<GameSpeedType>DX_GAMESPEED_BLITZ</GameSpeedType>
+					<iThreshold>0</iThreshold>
+				</SpeedThreshold>
 			</SpeedThresholds>
 		</CultureLevelInfo>
 		<CultureLevelInfo>
@@ -67,23 +75,27 @@
 			<SpeedThresholds>
 			  <SpeedThreshold>
 					<GameSpeedType>DX_GAMESPEED_ENDLESS</GameSpeedType>
-					<iThreshold>300</iThreshold>
+					<iThreshold>600</iThreshold>
 				</SpeedThreshold>
 				<SpeedThreshold>
 					<GameSpeedType>GAMESPEED_MARATHON</GameSpeedType>
-					<iThreshold>150</iThreshold>
+					<iThreshold>300</iThreshold>
 				</SpeedThreshold>
 				<SpeedThreshold>
 					<GameSpeedType>GAMESPEED_EPIC</GameSpeedType>
-					<iThreshold>75</iThreshold>
+					<iThreshold>150</iThreshold>
 				</SpeedThreshold>
 				<SpeedThreshold>
 					<GameSpeedType>GAMESPEED_NORMAL</GameSpeedType>
-					<iThreshold>50</iThreshold>
+					<iThreshold>100</iThreshold>
 				</SpeedThreshold>
 				<SpeedThreshold>
 					<GameSpeedType>GAMESPEED_QUICK</GameSpeedType>
-					<iThreshold>25</iThreshold>
+					<iThreshold>75</iThreshold>
+				</SpeedThreshold>
+				<SpeedThreshold>
+					<GameSpeedType>DX_GAMESPEED_BLITZ</GameSpeedType>
+					<iThreshold>50</iThreshold>
 				</SpeedThreshold>
 			</SpeedThresholds>
 		</CultureLevelInfo>
@@ -94,23 +106,27 @@
 			<SpeedThresholds>
 			  <SpeedThreshold>
 					<GameSpeedType>DX_GAMESPEED_ENDLESS</GameSpeedType>
-					<iThreshold>3000</iThreshold>
+					<iThreshold>6000</iThreshold>
 				</SpeedThreshold>
 				<SpeedThreshold>
 					<GameSpeedType>GAMESPEED_MARATHON</GameSpeedType>
-					<iThreshold>1500</iThreshold>
+					<iThreshold>3000</iThreshold>
 				</SpeedThreshold>
 				<SpeedThreshold>
 					<GameSpeedType>GAMESPEED_EPIC</GameSpeedType>
-					<iThreshold>750</iThreshold>
+					<iThreshold>1500</iThreshold>
 				</SpeedThreshold>
 				<SpeedThreshold>
 					<GameSpeedType>GAMESPEED_NORMAL</GameSpeedType>
-					<iThreshold>500</iThreshold>
+					<iThreshold>1000</iThreshold>
 				</SpeedThreshold>
 				<SpeedThreshold>
 					<GameSpeedType>GAMESPEED_QUICK</GameSpeedType>
-					<iThreshold>250</iThreshold>
+					<iThreshold>750</iThreshold>
+				</SpeedThreshold>
+				<SpeedThreshold>
+					<GameSpeedType>DX_GAMESPEED_BLITZ</GameSpeedType>
+					<iThreshold>500</iThreshold>
 				</SpeedThreshold>
 			</SpeedThresholds>
 		</CultureLevelInfo>
@@ -121,23 +137,27 @@
 			<SpeedThresholds>
 			  <SpeedThreshold>
 					<GameSpeedType>DX_GAMESPEED_ENDLESS</GameSpeedType>
-					<iThreshold>30000</iThreshold>
+					<iThreshold>60000</iThreshold>
 				</SpeedThreshold>
 				<SpeedThreshold>
 					<GameSpeedType>GAMESPEED_MARATHON</GameSpeedType>
-					<iThreshold>15000</iThreshold>
+					<iThreshold>30000</iThreshold>
 				</SpeedThreshold>
 				<SpeedThreshold>
 					<GameSpeedType>GAMESPEED_EPIC</GameSpeedType>
-					<iThreshold>7500</iThreshold>
+					<iThreshold>15000</iThreshold>
 				</SpeedThreshold>
 				<SpeedThreshold>
 					<GameSpeedType>GAMESPEED_NORMAL</GameSpeedType>
-					<iThreshold>5000</iThreshold>
+					<iThreshold>10000</iThreshold>
 				</SpeedThreshold>
 				<SpeedThreshold>
 					<GameSpeedType>GAMESPEED_QUICK</GameSpeedType>
-					<iThreshold>2500</iThreshold>
+					<iThreshold>7500</iThreshold>
+				</SpeedThreshold>
+				<SpeedThreshold>
+					<GameSpeedType>DX_GAMESPEED_BLITZ</GameSpeedType>
+					<iThreshold>5000</iThreshold>
 				</SpeedThreshold>
 			</SpeedThresholds>
 		</CultureLevelInfo>
@@ -148,23 +168,27 @@
 			<SpeedThresholds>
 			  <SpeedThreshold>
 					<GameSpeedType>DX_GAMESPEED_ENDLESS</GameSpeedType>
-					<iThreshold>300000</iThreshold>
+					<iThreshold>600000</iThreshold>
 				</SpeedThreshold>
 				<SpeedThreshold>
 					<GameSpeedType>GAMESPEED_MARATHON</GameSpeedType>
-					<iThreshold>150000</iThreshold>
+					<iThreshold>300000</iThreshold>
 				</SpeedThreshold>
 				<SpeedThreshold>
 					<GameSpeedType>GAMESPEED_EPIC</GameSpeedType>
-					<iThreshold>75000</iThreshold>
+					<iThreshold>150000</iThreshold>
 				</SpeedThreshold>
 				<SpeedThreshold>
 					<GameSpeedType>GAMESPEED_NORMAL</GameSpeedType>
-					<iThreshold>50000</iThreshold>
+					<iThreshold>100000</iThreshold>
 				</SpeedThreshold>
 				<SpeedThreshold>
 					<GameSpeedType>GAMESPEED_QUICK</GameSpeedType>
-					<iThreshold>25000</iThreshold>
+					<iThreshold>75000</iThreshold>
+				</SpeedThreshold>
+				<SpeedThreshold>
+					<GameSpeedType>DX_GAMESPEED_BLITZ</GameSpeedType>
+					<iThreshold>50000</iThreshold>
 				</SpeedThreshold>
 			</SpeedThresholds>
 		</CultureLevelInfo>
@@ -175,23 +199,151 @@
 			<SpeedThresholds>
 			  <SpeedThreshold>
 					<GameSpeedType>DX_GAMESPEED_ENDLESS</GameSpeedType>
-					<iThreshold>1800000</iThreshold>
+					<iThreshold>3000000</iThreshold>
 				</SpeedThreshold>
 				<SpeedThreshold>
 					<GameSpeedType>GAMESPEED_MARATHON</GameSpeedType>
-					<iThreshold>900000</iThreshold>
+					<iThreshold>1500000</iThreshold>
 				</SpeedThreshold>
 				<SpeedThreshold>
 					<GameSpeedType>GAMESPEED_EPIC</GameSpeedType>
-					<iThreshold>450000</iThreshold>
+					<iThreshold>750000</iThreshold>
 				</SpeedThreshold>
 				<SpeedThreshold>
 					<GameSpeedType>GAMESPEED_NORMAL</GameSpeedType>
-					<iThreshold>300000</iThreshold>
+					<iThreshold>500000</iThreshold>
 				</SpeedThreshold>
 				<SpeedThreshold>
 					<GameSpeedType>GAMESPEED_QUICK</GameSpeedType>
-					<iThreshold>150000</iThreshold>
+					<iThreshold>375000</iThreshold>
+				</SpeedThreshold>
+				<SpeedThreshold>
+					<GameSpeedType>DX_GAMESPEED_BLITZ</GameSpeedType>
+					<iThreshold>250000</iThreshold>
+				</SpeedThreshold>
+			</SpeedThresholds>
+		</CultureLevelInfo>
+		<CultureLevelInfo>
+			<Type>CULTURELEVEL_LEGENDARY2</Type>
+			<Description>Legendary II</Description>
+			<iCityDefenseModifier>125</iCityDefenseModifier>
+			<SpeedThresholds>
+			  <SpeedThreshold>
+					<GameSpeedType>DX_GAMESPEED_ENDLESS</GameSpeedType>
+					<iThreshold>5400000</iThreshold>
+				</SpeedThreshold>
+				<SpeedThreshold>
+					<GameSpeedType>GAMESPEED_MARATHON</GameSpeedType>
+					<iThreshold>2700000</iThreshold>
+				</SpeedThreshold>
+				<SpeedThreshold>
+					<GameSpeedType>GAMESPEED_EPIC</GameSpeedType>
+					<iThreshold>1350000</iThreshold>
+				</SpeedThreshold>
+				<SpeedThreshold>
+					<GameSpeedType>GAMESPEED_NORMAL</GameSpeedType>
+					<iThreshold>900000</iThreshold>
+				</SpeedThreshold>
+				<SpeedThreshold>
+					<GameSpeedType>GAMESPEED_QUICK</GameSpeedType>
+					<iThreshold>675000</iThreshold>
+				</SpeedThreshold>
+				<SpeedThreshold>
+					<GameSpeedType>DX_GAMESPEED_BLITZ</GameSpeedType>
+					<iThreshold>450000</iThreshold>
+				</SpeedThreshold>
+			</SpeedThresholds>
+		</CultureLevelInfo>
+		<CultureLevelInfo>
+			<Type>CULTURELEVEL_LEGENDARY3</Type>
+			<Description>Legendary III</Description>
+			<iCityDefenseModifier>150</iCityDefenseModifier>
+			<SpeedThresholds>
+			  <SpeedThreshold>
+					<GameSpeedType>DX_GAMESPEED_ENDLESS</GameSpeedType>
+					<iThreshold>7800000</iThreshold>
+				</SpeedThreshold>
+				<SpeedThreshold>
+					<GameSpeedType>GAMESPEED_MARATHON</GameSpeedType>
+					<iThreshold>3900000</iThreshold>
+				</SpeedThreshold>
+				<SpeedThreshold>
+					<GameSpeedType>GAMESPEED_EPIC</GameSpeedType>
+					<iThreshold>1950000</iThreshold>
+				</SpeedThreshold>
+				<SpeedThreshold>
+					<GameSpeedType>GAMESPEED_NORMAL</GameSpeedType>
+					<iThreshold>1300000</iThreshold>
+				</SpeedThreshold>
+				<SpeedThreshold>
+					<GameSpeedType>GAMESPEED_QUICK</GameSpeedType>
+					<iThreshold>975000</iThreshold>
+				</SpeedThreshold>
+				<SpeedThreshold>
+					<GameSpeedType>DX_GAMESPEED_BLITZ</GameSpeedType>
+					<iThreshold>650000</iThreshold>
+				</SpeedThreshold>
+			</SpeedThresholds>
+		</CultureLevelInfo>
+		<CultureLevelInfo>
+			<Type>CULTURELEVEL_LEGENDARY4</Type>
+			<Description>Legendary IV</Description>
+			<iCityDefenseModifier>175</iCityDefenseModifier>
+			<SpeedThresholds>
+			  <SpeedThreshold>
+					<GameSpeedType>DX_GAMESPEED_ENDLESS</GameSpeedType>
+					<iThreshold>10200000</iThreshold>
+				</SpeedThreshold>
+				<SpeedThreshold>
+					<GameSpeedType>GAMESPEED_MARATHON</GameSpeedType>
+					<iThreshold>5100000</iThreshold>
+				</SpeedThreshold>
+				<SpeedThreshold>
+					<GameSpeedType>GAMESPEED_EPIC</GameSpeedType>
+					<iThreshold>2550000</iThreshold>
+				</SpeedThreshold>
+				<SpeedThreshold>
+					<GameSpeedType>GAMESPEED_NORMAL</GameSpeedType>
+					<iThreshold>1700000</iThreshold>
+				</SpeedThreshold>
+				<SpeedThreshold>
+					<GameSpeedType>GAMESPEED_QUICK</GameSpeedType>
+					<iThreshold>1275000</iThreshold>
+				</SpeedThreshold>
+				<SpeedThreshold>
+					<GameSpeedType>DX_GAMESPEED_BLITZ</GameSpeedType>
+					<iThreshold>850000</iThreshold>
+				</SpeedThreshold>
+			</SpeedThresholds>
+		</CultureLevelInfo>
+		<CultureLevelInfo>
+			<Type>CULTURELEVEL_LEGENDARY5</Type>
+			<Description>Legendary V</Description>
+			<iCityDefenseModifier>200</iCityDefenseModifier>
+			<SpeedThresholds>
+			  <SpeedThreshold>
+					<GameSpeedType>DX_GAMESPEED_ENDLESS</GameSpeedType>
+					<iThreshold>12600000</iThreshold>
+				</SpeedThreshold>
+				<SpeedThreshold>
+					<GameSpeedType>GAMESPEED_MARATHON</GameSpeedType>
+					<iThreshold>6300000</iThreshold>
+				</SpeedThreshold>
+				<SpeedThreshold>
+					<GameSpeedType>GAMESPEED_EPIC</GameSpeedType>
+					<iThreshold>3150000</iThreshold>
+				</SpeedThreshold>
+				<SpeedThreshold>
+					<GameSpeedType>GAMESPEED_NORMAL</GameSpeedType>
+					<iThreshold>2100000</iThreshold>
+				</SpeedThreshold>
+				<SpeedThreshold>
+					<GameSpeedType>GAMESPEED_QUICK</GameSpeedType>
+					<iThreshold>1575000</iThreshold>
+				</SpeedThreshold>
+				<SpeedThreshold>
+					<GameSpeedType>DX_GAMESPEED_BLITZ</GameSpeedType>
+					<iThreshold>1050000</iThreshold>
 				</SpeedThreshold>
 			</SpeedThresholds>
 		</CultureLevelInfo>
