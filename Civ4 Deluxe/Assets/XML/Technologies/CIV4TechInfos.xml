@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" ?>
 <!-- edited with XMLSpy v2005 rel. 3 U (http://www.altova.com) by Soren Johnson (Firaxis Games) -->
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Jon Shafer (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
@@ -27,12 +27,12 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>8</iAsset>
+			<iAsset>64</iAsset>
 			<iPower>0</iPower>
 			<bRepeat>0</bRepeat>
-			<bTrade>1</bTrade>
+			<bTrade>0</bTrade>
 			<bDisable>0</bDisable>
-			<bGoodyTech>1</bGoodyTech>
+			<bGoodyTech>0</bGoodyTech>
 			<bExtraWaterSeeFrom>0</bExtraWaterSeeFrom>
 			<bMapCentering>0</bMapCentering>
 			<bMapVisible>0</bMapVisible>
@@ -2047,12 +2047,12 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>8</iAsset>
+			<iAsset>64</iAsset>
 			<iPower>0</iPower>
 			<bRepeat>0</bRepeat>
-			<bTrade>1</bTrade>
+			<bTrade>0</bTrade>
 			<bDisable>0</bDisable>
-			<bGoodyTech>1</bGoodyTech>
+			<bGoodyTech>0</bGoodyTech>
 			<bExtraWaterSeeFrom>0</bExtraWaterSeeFrom>
 			<bMapCentering>0</bMapCentering>
 			<bMapVisible>0</bMapVisible>
@@ -3778,7 +3778,7 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>8</iAsset>
+			<iAsset>64</iAsset>
 			<iPower>0</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>1</bTrade>
@@ -4992,7 +4992,7 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>8</iAsset>
+			<iAsset>64</iAsset>
 			<iPower>0</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>0</bTrade>
@@ -6064,7 +6064,7 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>8</iAsset>
+			<iAsset>64</iAsset>
 			<iPower>0</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>0</bTrade>
@@ -6259,6 +6259,75 @@
 			<Sound>AS2D_TECH_PRINTPRESS</Sound>
 			<SoundMP>AS2D_TECH_MP_PRINTPRESS</SoundMP>
 			<Button>,Art/Interface/Buttons/TechTree/Printing Press.dds,Art/Interface/Buttons/TechTree_Atlas.dds,6,11</Button>
+		</TechInfo>
+		<TechInfo>
+			<Type>TECH_COAL_MINING</Type>
+			<Description>Coal Mining</Description>
+			<Civilopedia>TXT_KEY_TECH_COAL_MINING_PEDIA</Civilopedia>
+			<Help/>
+			<Strategy>TXT_KEY_TECH_COAL_MINING_STRATEGY</Strategy>
+			<Advisor>ADVISOR_ECONOMY</Advisor>
+			<iAIWeight>0</iAIWeight>
+			<iAITradeModifier>0</iAITradeModifier>
+			<iCost>1350</iCost>
+			<iAdvancedStartCost>100</iAdvancedStartCost>
+			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
+			<Era>ERA_RENAISSANCE</Era>
+			<FirstFreeUnitClass>NONE</FirstFreeUnitClass>
+			<iFeatureProductionModifier>0</iFeatureProductionModifier>
+			<iWorkerSpeedModifier>0</iWorkerSpeedModifier>
+			<iTradeRoutes>0</iTradeRoutes>
+			<iHealth>0</iHealth>
+			<iHappiness>0</iHappiness>
+			<iFirstFreeTechs>0</iFirstFreeTechs>
+			<iAsset>8</iAsset>
+			<iPower>0</iPower>
+			<bRepeat>0</bRepeat>
+			<bTrade>1</bTrade>
+			<bDisable>0</bDisable>
+			<bGoodyTech>0</bGoodyTech>
+			<bExtraWaterSeeFrom>0</bExtraWaterSeeFrom>
+			<bMapCentering>0</bMapCentering>
+			<bMapVisible>0</bMapVisible>
+			<bMapTrading>0</bMapTrading>
+			<bTechTrading>0</bTechTrading>
+			<bGoldTrading>0</bGoldTrading>
+			<bOpenBordersTrading>0</bOpenBordersTrading>
+			<bDefensivePactTrading>0</bDefensivePactTrading>
+			<bPermanentAllianceTrading>0</bPermanentAllianceTrading>
+			<bVassalTrading>0</bVassalTrading>
+			<bBridgeBuilding>0</bBridgeBuilding>
+			<bIrrigation>0</bIrrigation>
+			<bIgnoreIrrigation>0</bIgnoreIrrigation>
+			<bWaterWork>0</bWaterWork>
+			<iGridX>25</iGridX>
+			<iGridY>7</iGridY>
+			<DomainExtraMoves/>
+			<CommerceFlexible/>
+			<TerrainTrades/>
+			<bRiverTrade>0</bRiverTrade>
+			<Flavors>
+				<Flavor>
+					<FlavorType>FLAVOR_RELIGION</FlavorType>
+					<iFlavor>3</iFlavor>
+				</Flavor>
+				<Flavor>
+					<FlavorType>FLAVOR_GOLD</FlavorType>
+					<iFlavor>2</iFlavor>
+				</Flavor>
+				<Flavor>
+					<FlavorType>FLAVOR_SCIENCE</FlavorType>
+					<iFlavor>5</iFlavor>
+				</Flavor>
+			</Flavors>
+			<OrPreReqs>
+				<PrereqTech>TECH_RENAISSANCE_LIFESTYLE</PrereqTech>
+			</OrPreReqs>
+			<AndPreReqs/>
+			<Quote>TXT_KEY_TECH_PLACEHOLDER_QUOTE</Quote>
+			<Sound/>
+			<SoundMP/>
+			<Button>,Art/Interface/Buttons/TechTree/CoalMining.dds</Button>
 		</TechInfo>
 		<TechInfo>
 			<Type>TECH_EDUCATION</Type>
@@ -7140,7 +7209,7 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>8</iAsset>
+			<iAsset>64</iAsset>
 			<iPower>0</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>0</bTrade>
@@ -7255,7 +7324,9 @@
 			<OrPreReqs>
 				<PrereqTech>TECH_INDUSTRIAL_LIFESTYLE</PrereqTech>
 			</OrPreReqs>
-			<AndPreReqs/>
+			<AndPreReqs>
+			  <PrereqTech>TECH_COAL_MINING</PrereqTech>
+			</AndPreReqs>
 			<Quote>TXT_KEY_TECH_STEAM_POWER_QUOTE</Quote>
 			<Sound>AS2D_TECH_STEAMPOWER</Sound>
 			<SoundMP>AS2D_TECH_MP_STEAMPOWER</SoundMP>
@@ -8267,6 +8338,75 @@
 			<Button>,Art/Interface/Buttons/TechTree/Combustion.dds,Art/Interface/Buttons/TechTree_Atlas.dds,3,2</Button>
 		</TechInfo>
 		<TechInfo>
+			<Type>TECH_ALUMINIUM_EXTRACTION</Type>
+			<Description>Aluminium Extraction</Description>
+			<Civilopedia>TXT_KEY_TECH_ALUMINIUM_EXTRACTION_PEDIA</Civilopedia>
+			<Help/>
+			<Strategy>TXT_KEY_TECH_ALUMINIUM_EXTRACTION_STRATEGY</Strategy>
+			<Advisor>ADVISOR_ECONOMY</Advisor>
+			<iAIWeight>0</iAIWeight>
+			<iAITradeModifier>0</iAITradeModifier>
+			<iCost>5400</iCost>
+			<iAdvancedStartCost>100</iAdvancedStartCost>
+			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
+			<Era>ERA_INDUSTRIAL</Era>
+			<FirstFreeUnitClass>NONE</FirstFreeUnitClass>
+			<iFeatureProductionModifier>0</iFeatureProductionModifier>
+			<iWorkerSpeedModifier>0</iWorkerSpeedModifier>
+			<iTradeRoutes>0</iTradeRoutes>
+			<iHealth>0</iHealth>
+			<iHappiness>0</iHappiness>
+			<iFirstFreeTechs>0</iFirstFreeTechs>
+			<iAsset>8</iAsset>
+			<iPower>2</iPower>
+			<bRepeat>0</bRepeat>
+			<bTrade>1</bTrade>
+			<bDisable>0</bDisable>
+			<bGoodyTech>0</bGoodyTech>
+			<bExtraWaterSeeFrom>0</bExtraWaterSeeFrom>
+			<bMapCentering>0</bMapCentering>
+			<bMapVisible>0</bMapVisible>
+			<bMapTrading>0</bMapTrading>
+			<bTechTrading>0</bTechTrading>
+			<bGoldTrading>0</bGoldTrading>
+			<bOpenBordersTrading>0</bOpenBordersTrading>
+			<bDefensivePactTrading>0</bDefensivePactTrading>
+			<bPermanentAllianceTrading>0</bPermanentAllianceTrading>
+			<bVassalTrading>0</bVassalTrading>
+			<bBridgeBuilding>0</bBridgeBuilding>
+			<bIrrigation>0</bIrrigation>
+			<bIgnoreIrrigation>0</bIgnoreIrrigation>
+			<bWaterWork>0</bWaterWork>
+			<iGridX>32</iGridX>
+			<iGridY>7</iGridY>
+			<DomainExtraMoves/>
+			<CommerceFlexible/>
+			<TerrainTrades/>
+			<bRiverTrade>0</bRiverTrade>
+			<Flavors>
+				<Flavor>
+					<FlavorType>FLAVOR_MILITARY</FlavorType>
+					<iFlavor>5</iFlavor>
+				</Flavor>
+				<Flavor>
+					<FlavorType>FLAVOR_SCIENCE</FlavorType>
+					<iFlavor>3</iFlavor>
+				</Flavor>
+				<Flavor>
+					<FlavorType>FLAVOR_CULTURE</FlavorType>
+					<iFlavor>9</iFlavor>
+				</Flavor>
+			</Flavors>
+			<OrPreReqs>
+				<PrereqTech>TECH_ELECTRICITY</PrereqTech>
+			</OrPreReqs>
+			<AndPreReqs/>
+			<Quote>TXT_KEY_TECH_PLACEHOLDER_QUOTE</Quote>
+			<Sound/>
+			<SoundMP/>
+			<Button>,Art/Interface/Buttons/TechTree/AluminiumExtract.dds</Button>
+		</TechInfo>
+		<TechInfo>
 			<Type>TECH_RADIO</Type>
 			<Description>TXT_KEY_TECH_RADIO</Description>
 			<Civilopedia>TXT_KEY_TECH_RADIO_PEDIA</Civilopedia>
@@ -8355,7 +8495,7 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>8</iAsset>
+			<iAsset>64</iAsset>
 			<iPower>0</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>0</bTrade>
@@ -8393,6 +8533,7 @@
 			<AndPreReqs>
 			  <PrereqTech>TECH_FLIGHT</PrereqTech>
 			  <PrereqTech>TECH_INDUSTRIALISM</PrereqTech>
+			  <PrereqTech>TECH_ALUMINIUM_EXTRACTION</PrereqTech>
 			</AndPreReqs>
 			<Quote>TXT_KEY_TECH_ERA_UNLOCK_QUOTE</Quote>
 			<Sound/>
@@ -9928,7 +10069,7 @@
 			<iHealth>0</iHealth>
 			<iHappiness>0</iHappiness>
 			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>8</iAsset>
+			<iAsset>64</iAsset>
 			<iPower>0</iPower>
 			<bRepeat>0</bRepeat>
 			<bTrade>0</bTrade>
@@ -10307,7 +10448,9 @@
 			<OrPreReqs>
 				<PrereqTech>TECH_SUPERCONDUCTORS</PrereqTech>
 			</OrPreReqs>
-			<AndPreReqs/>
+			<AndPreReqs>
+			  <PrereqTech>TECH_ECOLOGY</PrereqTech>
+			</AndPreReqs>
 			<Quote>TXT_KEY_TECH_GENETICS_QUOTE</Quote>
 			<Sound>AS2D_TECH_GENETICS</Sound>
 			<SoundMP>AS2D_TECH_MP_GENETICS</SoundMP>

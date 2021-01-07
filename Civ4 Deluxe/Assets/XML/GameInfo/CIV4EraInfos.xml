@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" ?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Alex Mantzaris (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- Copyright Firaxis Games 2005 -->
@@ -79,7 +79,7 @@
 			<iStartingDefenseUnits>0</iStartingDefenseUnits>
 			<iStartingWorkerUnits>0</iStartingWorkerUnits>
 			<iStartingExploreUnits>1</iStartingExploreUnits>
-			<iStartingGold>0</iStartingGold>
+			<iStartingGold>10</iStartingGold>
 			<iFreePopulation>0</iFreePopulation>
 			<iStartPercent>0</iStartPercent>
 			<iGrowthPercent>100</iGrowthPercent>
@@ -131,7 +131,7 @@
 			<iStartingDefenseUnits>1</iStartingDefenseUnits>
 			<iStartingWorkerUnits>1</iStartingWorkerUnits>
 			<iStartingExploreUnits>1</iStartingExploreUnits>
-			<iStartingGold>10</iStartingGold>
+			<iStartingGold>50</iStartingGold>
 			<iFreePopulation>0</iFreePopulation>
 			<iStartPercent>10</iStartPercent>
 			<iGrowthPercent>100</iGrowthPercent>
@@ -198,7 +198,7 @@
 			<iStartingDefenseUnits>2</iStartingDefenseUnits>
 			<iStartingWorkerUnits>1</iStartingWorkerUnits>
 			<iStartingExploreUnits>1</iStartingExploreUnits>
-			<iStartingGold>25</iStartingGold>
+			<iStartingGold>100</iStartingGold>
 			<iFreePopulation>0</iFreePopulation>
 			<iStartPercent>25</iStartPercent>
 			<iGrowthPercent>100</iGrowthPercent>
@@ -266,7 +266,7 @@
 			<iStartingDefenseUnits>2</iStartingDefenseUnits>
 			<iStartingWorkerUnits>1</iStartingWorkerUnits>
 			<iStartingExploreUnits>1</iStartingExploreUnits>
-			<iStartingGold>50</iStartingGold>
+			<iStartingGold>200</iStartingGold>
 			<iFreePopulation>1</iFreePopulation>
 			<iStartPercent>37</iStartPercent>
 			<iGrowthPercent>90</iGrowthPercent>
@@ -333,7 +333,7 @@
 			<iStartingDefenseUnits>3</iStartingDefenseUnits>
 			<iStartingWorkerUnits>2</iStartingWorkerUnits>
 			<iStartingExploreUnits>2</iStartingExploreUnits>
-			<iStartingGold>100</iStartingGold>
+			<iStartingGold>300</iStartingGold>
 			<iFreePopulation>2</iFreePopulation>
 			<iStartPercent>50</iStartPercent>
 			<iGrowthPercent>80</iGrowthPercent>
@@ -397,7 +397,7 @@
 			<iStartingDefenseUnits>3</iStartingDefenseUnits>
 			<iStartingWorkerUnits>2</iStartingWorkerUnits>
 			<iStartingExploreUnits>2</iStartingExploreUnits>
-			<iStartingGold>200</iStartingGold>
+			<iStartingGold>450</iStartingGold>
 			<iFreePopulation>3</iFreePopulation>
 			<iStartPercent>65</iStartPercent>
 			<iGrowthPercent>70</iGrowthPercent>
@@ -459,7 +459,7 @@
 			<iStartingDefenseUnits>3</iStartingDefenseUnits>
 			<iStartingWorkerUnits>2</iStartingWorkerUnits>
 			<iStartingExploreUnits>2</iStartingExploreUnits>
-			<iStartingGold>300</iStartingGold>
+			<iStartingGold>700</iStartingGold>
 			<iFreePopulation>4</iFreePopulation>
 			<iStartPercent>65</iStartPercent>
 			<iGrowthPercent>70</iGrowthPercent>
@@ -521,7 +521,7 @@
 			<iStartingDefenseUnits>3</iStartingDefenseUnits>
 			<iStartingWorkerUnits>3</iStartingWorkerUnits>
 			<iStartingExploreUnits>2</iStartingExploreUnits>
-			<iStartingGold>400</iStartingGold>
+			<iStartingGold>1000</iStartingGold>
 			<iFreePopulation>4</iFreePopulation>
 			<iStartPercent>80</iStartPercent>
 			<iGrowthPercent>60</iGrowthPercent>

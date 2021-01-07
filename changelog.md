@@ -1,5 +1,8 @@
 # Changelog
 ## Pre-Release
+### 2021/1/7
+#### Build 26
+Added 4 Prehistoric buildings.
 ### 2021/1/6
 #### Build 25
 Added Blitz Speed.\

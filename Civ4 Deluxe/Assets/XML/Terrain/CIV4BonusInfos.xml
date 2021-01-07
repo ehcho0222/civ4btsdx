@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" ?>
 <!-- edited with XMLSpy v2005 rel. 3 U (http://www.altova.com) by Soren Johnson (Firaxis Games) -->
 <!-- Sid Meier's Civilization 4 -->
 <!-- Copyright Firaxis Games 2005 -->
@@ -13,7 +13,7 @@
 			<Civilopedia>TXT_KEY_BONUS_ALUMINUM_PEDIA</Civilopedia>
 			<BonusClassType>BONUSCLASS_MODERN</BonusClassType>
 			<ArtDefineTag>ART_DEF_BONUS_ALUMINUM</ArtDefineTag>
-			<TechReveal>TECH_ELECTRICITY</TechReveal>
+			<TechReveal>TECH_ALUMINIUM_EXTRACTION</TechReveal>
 			<TechCityTrade>TECH_MINING</TechCityTrade>
 			<TechObsolete>NONE</TechObsolete>
 			<YieldChanges>
@@ -70,7 +70,7 @@
 			<Civilopedia>TXT_KEY_BONUS_COAL_PEDIA</Civilopedia>
 			<BonusClassType>BONUSCLASS_GENERAL</BonusClassType>
 			<ArtDefineTag>ART_DEF_BONUS_COAL</ArtDefineTag>
-			<TechReveal>TECH_STEAM_POWER</TechReveal>
+			<TechReveal>TECH_COAL_MINING</TechReveal>
 			<TechCityTrade>TECH_MINING</TechCityTrade>
 			<TechObsolete>NONE</TechObsolete>
 			<YieldChanges>
