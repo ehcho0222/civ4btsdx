@@ -1,5 +1,9 @@
 # Changelog
 ## Pre-Release
+### 2021/1/8
+#### Build 27
+Added 4 Gatherers, Stone Knapper, and Captured Fire.\
+Added Fire as a resource.
 ### 2021/1/7
 #### Build 26
 Added 4 Prehistoric buildings.

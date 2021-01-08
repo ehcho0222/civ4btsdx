@@ -275,7 +275,7 @@
 			<Type>BUILD_PLANTATION</Type>
 			<Description>TXT_KEY_BUILD_PLANTATION</Description>
 			<Help/>
-			<PrereqTech>TECH_CALENDAR</PrereqTech>
+			<PrereqTech>TECH_ORCHARDRY</PrereqTech>
 			<iTime>500</iTime>
 			<iCost>0</iCost>
 			<bKill>0</bKill>

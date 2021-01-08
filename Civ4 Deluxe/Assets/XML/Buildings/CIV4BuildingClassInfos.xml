@@ -55,6 +55,78 @@
 			<VictoryThresholds/>
 		</BuildingClassInfo>
 		<BuildingClassInfo>
+			<Type>BUILDINGCLASS_FRUIT_GATHERER</Type>
+			<Description>Fruit Gatherer</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>1</iExtraPlayerInstances>
+			<bNoLimit>1</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_FRUIT_GATHERER</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+		<BuildingClassInfo>
+			<Type>BUILDINGCLASS_BERRY_GATHERER</Type>
+			<Description>Berry Gatherer</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>1</iExtraPlayerInstances>
+			<bNoLimit>1</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_BERRY_GATHERER</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+		<BuildingClassInfo>
+			<Type>BUILDINGCLASS_STICK_GATHERER</Type>
+			<Description>Stick Gatherer</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>1</iExtraPlayerInstances>
+			<bNoLimit>1</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_STICK_GATHERER</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+		<BuildingClassInfo>
+			<Type>BUILDINGCLASS_GRASS_GATHERER</Type>
+			<Description>Grass Gatherer</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>1</iExtraPlayerInstances>
+			<bNoLimit>1</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_GRASS_GATHERER</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+		<BuildingClassInfo>
+			<Type>BUILDINGCLASS_STONE_KNAPPER</Type>
+			<Description>Stone Knapper</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>-1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>1</iExtraPlayerInstances>
+			<bNoLimit>1</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_STONE_KNAPPER</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+		<BuildingClassInfo>
+			<Type>BUILDINGCLASS_CAPTURED_FIRE</Type>
+			<Description>Stone Knapper</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>0</iExtraPlayerInstances>
+			<bNoLimit>0</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_CAPTURED_FIRE</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+		<BuildingClassInfo>
 			<Type>BUILDINGCLASS_PALACE</Type>
 			<Description>TXT_KEY_BUILDING_PALACE</Description>
 			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
