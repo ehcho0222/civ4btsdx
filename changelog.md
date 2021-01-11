@@ -1,5 +1,8 @@
 # Changelog
 ## Pre-Release
+### 2021/1/11
+#### Build 29
+Reverted Build 28 because it caused the game to crash.
 ### 2021/1/10
 #### Build 28
 Incorporated TAB.
