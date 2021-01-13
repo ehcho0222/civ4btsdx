@@ -107,11 +107,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -208,11 +209,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -301,11 +303,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -398,11 +401,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -499,11 +503,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -597,11 +602,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -699,11 +705,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -804,11 +811,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -921,11 +929,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -1020,11 +1029,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -1123,11 +1133,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -1220,11 +1231,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -1338,11 +1350,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -1444,11 +1457,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -1551,11 +1565,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -1642,11 +1657,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -1796,11 +1812,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -1892,11 +1909,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -1990,11 +2008,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -2077,11 +2096,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -2164,11 +2184,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -2265,11 +2286,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -2355,11 +2377,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -2466,11 +2489,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -2568,11 +2592,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -2661,11 +2686,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -2787,11 +2813,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -2893,11 +2920,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -3005,11 +3033,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -3104,11 +3133,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -3210,11 +3240,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -3304,11 +3335,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -3400,11 +3432,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -3493,11 +3526,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -3604,11 +3638,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>
@@ -4319,11 +4354,12 @@
 			<FreeTechs/>
 			<DisableTechs/>
 			<InitialCivics>
-				<CivicType>CIVIC_DESPOTISM</CivicType>
+				<CivicType>CIVIC_BAND_SOCIETY</CivicType>
 				<CivicType>CIVIC_BARBARISM</CivicType>
-				<CivicType>CIVIC_TRIBALISM</CivicType>
-				<CivicType>CIVIC_DECENTRALIZATION</CivicType>
-				<CivicType>CIVIC_PAGANISM</CivicType>
+				<CivicType>CIVIC_UNSKILLED_LABOR</CivicType>
+				<CivicType>CIVIC_COMMUNALISM</CivicType>
+				<CivicType>CIVIC_NO_RELIGION</CivicType>
+				<CivicType>CIVIC_NO_CURRENCY</CivicType>
 			</InitialCivics>
 			<Leaders>
 				<Leader>

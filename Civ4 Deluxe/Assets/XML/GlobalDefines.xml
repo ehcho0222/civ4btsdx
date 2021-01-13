@@ -251,7 +251,7 @@
 	</Define>
 	<Define>
 		<DefineName>MAX_CIVIC_OPTIONS</DefineName>
-		<iDefineIntVal>5</iDefineIntVal>
+		<iDefineIntVal>6</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>BASE_CIVIC_ANARCHY_LENGTH</DefineName>
@@ -1660,15 +1660,15 @@
 	</Define>
 	<Define>
 		<DefineName>USE_MODDERS_PLAYEROPTION_1</DefineName>
-		<iDefineIntVal>0</iDefineIntVal>
+		<iDefineIntVal>1</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>USE_MODDERS_PLAYEROPTION_2</DefineName>
-		<iDefineIntVal>0</iDefineIntVal>
+		<iDefineIntVal>1</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>USE_MODDERS_PLAYEROPTION_3</DefineName>
-		<iDefineIntVal>0</iDefineIntVal>
+		<iDefineIntVal>1</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>CITY_AIR_UNIT_CAPACITY</DefineName>

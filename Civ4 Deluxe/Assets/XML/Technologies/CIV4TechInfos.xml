@@ -9654,76 +9654,8 @@
 			<Button>,Art/Interface/Buttons/TechTree/Arpa.dds</Button>
 		</TechInfo>
 		<TechInfo>
-			<Type>TECH_FIBER_OPTICS</Type>
-			<Description>TXT_KEY_TECH_FIBER_OPTICS</Description>
-			<Civilopedia>TXT_KEY_TECH_FIBER_OPTICS_PEDIA</Civilopedia>
-			<Help/>
-			<Strategy>TXT_KEY_TECH_FIBER_OPTICS_STRATEGY</Strategy>
-			<Advisor>ADVISOR_SCIENCE</Advisor>
-			<iAIWeight>0</iAIWeight>
-			<iAITradeModifier>10</iAITradeModifier>
-			<iCost>11000</iCost>
-			<iAdvancedStartCost>100</iAdvancedStartCost>
-			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
-			<Era>DX_ERA_ATOMIC</Era>
-			<FirstFreeUnitClass>NONE</FirstFreeUnitClass>
-			<iFeatureProductionModifier>0</iFeatureProductionModifier>
-			<iWorkerSpeedModifier>0</iWorkerSpeedModifier>
-			<iTradeRoutes>0</iTradeRoutes>
-			<iHealth>0</iHealth>
-			<iHappiness>0</iHappiness>
-			<iFirstFreeTechs>0</iFirstFreeTechs>
-			<iAsset>48</iAsset>
-			<iPower>0</iPower>
-			<bRepeat>0</bRepeat>
-			<bTrade>1</bTrade>
-			<bDisable>0</bDisable>
-			<bGoodyTech>0</bGoodyTech>
-			<bExtraWaterSeeFrom>0</bExtraWaterSeeFrom>
-			<bMapCentering>0</bMapCentering>
-			<bMapVisible>0</bMapVisible>
-			<bMapTrading>0</bMapTrading>
-			<bTechTrading>0</bTechTrading>
-			<bGoldTrading>0</bGoldTrading>
-			<bOpenBordersTrading>0</bOpenBordersTrading>
-			<bDefensivePactTrading>0</bDefensivePactTrading>
-			<bPermanentAllianceTrading>0</bPermanentAllianceTrading>
-			<bVassalTrading>0</bVassalTrading>
-			<bBridgeBuilding>0</bBridgeBuilding>
-			<bIrrigation>0</bIrrigation>
-			<bIgnoreIrrigation>0</bIgnoreIrrigation>
-			<bWaterWork>0</bWaterWork>
-			<iGridX>37</iGridX>
-			<iGridY>9</iGridY>
-			<DomainExtraMoves/>
-			<CommerceFlexible/>
-			<TerrainTrades/>
-			<bRiverTrade>0</bRiverTrade>
-			<Flavors>
-				<Flavor>
-					<FlavorType>FLAVOR_PRODUCTION</FlavorType>
-					<iFlavor>1</iFlavor>
-				</Flavor>
-				<Flavor>
-					<FlavorType>FLAVOR_SCIENCE</FlavorType>
-					<iFlavor>9</iFlavor>
-				</Flavor>
-			</Flavors>
-			<OrPreReqs>
-				<PrereqTech>TECH_COMPUTERS</PrereqTech>
-			</OrPreReqs>
-			<AndPreReqs>
-			  <PrereqTech>TECH_LASER</PrereqTech>
-			  <PrereqTech>TECH_MASS_MEDIA</PrereqTech>
-			</AndPreReqs>
-			<Quote>TXT_KEY_TECH_FIBER_OPTICS_QUOTE</Quote>
-			<Sound>AS2D_TECH_FIBER_OPTICS</Sound>
-			<SoundMP>AS2D_TECH_MP_FIBER_OPTICS</SoundMP>
-			<Button>,Art/Interface/Buttons/TechTree/FiberOptics.dds,Art/Interface/Buttons/TechTree_Atlas.dds,8,8</Button>
-		</TechInfo>
-		<TechInfo>
 			<Type>TECH_COMPUTER_CHIP</Type>
-			<Description>Computer Chip</Description>
+			<Description>Microprocessor</Description>
 			<Civilopedia>TXT_KEY_TECH_COMPUTER_CHIP_PEDIA</Civilopedia>
 			<Help/>
 			<Strategy>TXT_KEY_TECH_COMPUTER_CHIP_STRATEGY</Strategy>
@@ -9976,7 +9908,6 @@
 				<PrereqTech>TECH_ARPA</PrereqTech>
 			</OrPreReqs>
 			<AndPreReqs>
-			  <PrereqTech>TECH_FIBER_OPTICS</PrereqTech>
 			  <PrereqTech>TECH_COMPUTER_CHIP</PrereqTech>
 			</AndPreReqs>
 			<Quote>TXT_KEY_TECH_PLACEHOLDER_QUOTE</Quote>
@@ -10113,6 +10044,71 @@
 			<Sound/>
 			<SoundMP/>
 			<Button>,Art/Interface/Buttons/TechTree/Information.dds</Button>
+		</TechInfo>
+		<TechInfo>
+			<Type>TECH_FIBER_OPTICS</Type>
+			<Description>TXT_KEY_TECH_FIBER_OPTICS</Description>
+			<Civilopedia>TXT_KEY_TECH_FIBER_OPTICS_PEDIA</Civilopedia>
+			<Help/>
+			<Strategy>TXT_KEY_TECH_FIBER_OPTICS_STRATEGY</Strategy>
+			<Advisor>ADVISOR_SCIENCE</Advisor>
+			<iAIWeight>0</iAIWeight>
+			<iAITradeModifier>10</iAITradeModifier>
+			<iCost>16400</iCost>
+			<iAdvancedStartCost>100</iAdvancedStartCost>
+			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
+			<Era>DX_ERA_INFORMATION</Era>
+			<FirstFreeUnitClass>NONE</FirstFreeUnitClass>
+			<iFeatureProductionModifier>0</iFeatureProductionModifier>
+			<iWorkerSpeedModifier>0</iWorkerSpeedModifier>
+			<iTradeRoutes>0</iTradeRoutes>
+			<iHealth>0</iHealth>
+			<iHappiness>0</iHappiness>
+			<iFirstFreeTechs>0</iFirstFreeTechs>
+			<iAsset>48</iAsset>
+			<iPower>0</iPower>
+			<bRepeat>0</bRepeat>
+			<bTrade>1</bTrade>
+			<bDisable>0</bDisable>
+			<bGoodyTech>0</bGoodyTech>
+			<bExtraWaterSeeFrom>0</bExtraWaterSeeFrom>
+			<bMapCentering>0</bMapCentering>
+			<bMapVisible>0</bMapVisible>
+			<bMapTrading>0</bMapTrading>
+			<bTechTrading>0</bTechTrading>
+			<bGoldTrading>0</bGoldTrading>
+			<bOpenBordersTrading>0</bOpenBordersTrading>
+			<bDefensivePactTrading>0</bDefensivePactTrading>
+			<bPermanentAllianceTrading>0</bPermanentAllianceTrading>
+			<bVassalTrading>0</bVassalTrading>
+			<bBridgeBuilding>0</bBridgeBuilding>
+			<bIrrigation>0</bIrrigation>
+			<bIgnoreIrrigation>0</bIgnoreIrrigation>
+			<bWaterWork>0</bWaterWork>
+			<iGridX>40</iGridX>
+			<iGridY>7</iGridY>
+			<DomainExtraMoves/>
+			<CommerceFlexible/>
+			<TerrainTrades/>
+			<bRiverTrade>0</bRiverTrade>
+			<Flavors>
+				<Flavor>
+					<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+					<iFlavor>1</iFlavor>
+				</Flavor>
+				<Flavor>
+					<FlavorType>FLAVOR_SCIENCE</FlavorType>
+					<iFlavor>9</iFlavor>
+				</Flavor>
+			</Flavors>
+			<OrPreReqs>
+				<PrereqTech>TECH_INFORMATION_LIFESTYLE</PrereqTech>
+			</OrPreReqs>
+			<AndPreReqs/>
+			<Quote>TXT_KEY_TECH_FIBER_OPTICS_QUOTE</Quote>
+			<Sound>AS2D_TECH_FIBER_OPTICS</Sound>
+			<SoundMP>AS2D_TECH_MP_FIBER_OPTICS</SoundMP>
+			<Button>,Art/Interface/Buttons/TechTree/FiberOptics.dds,Art/Interface/Buttons/TechTree_Atlas.dds,8,8</Button>
 		</TechInfo>
 		<TechInfo>
 			<Type>TECH_SUPERCONDUCTORS</Type>

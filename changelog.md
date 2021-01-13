@@ -1,5 +1,8 @@
 # Changelog
 ## Pre-Release
+### 2021/1/13
+#### Build 30
+Added 11 new Civics so that there are 6 Categories with 6 Civics in each Category.
 ### 2021/1/11
 #### Build 29
 Reverted Build 28 because it caused the game to crash.
