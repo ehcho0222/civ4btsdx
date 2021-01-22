@@ -1,5 +1,9 @@
 # Changelog
 ## Pre-Release
+### 2021/1/14
+#### Build 31
+Monasteries never go obsolete.\
+Removed cycle from Tech Tree.
 ### 2021/1/13
 #### Build 30
 Added 11 new Civics so that there are 6 Categories with 6 Civics in each Category.

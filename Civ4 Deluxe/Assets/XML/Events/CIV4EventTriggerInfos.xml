@@ -106,6 +106,10 @@
 				<Text>TXT_KEY_EVENTTRIGGER_CITY_RUINS</Text>
 			</WorldNewsTexts>
 			<TriggerTexts>
+			  <TriggerText>
+					<Text>TXT_KEY_EVENT_TRIGGER_CITY_RUINS_ANCIENT_1</Text>
+					<Era>DX_ERA_PREHISTORIC</Era>
+				</TriggerText>
 				<TriggerText>
 					<Text>TXT_KEY_EVENT_TRIGGER_CITY_RUINS_ANCIENT_1</Text>
 					<Era>ERA_ANCIENT</Era>
@@ -129,6 +133,10 @@
 				<TriggerText>
 					<Text>TXT_KEY_EVENT_TRIGGER_CITY_RUINS_INDUSTRIAL_1</Text>
 					<Era>DX_ERA_ATOMIC</Era>
+				</TriggerText>
+				<TriggerText>
+					<Text>TXT_KEY_EVENT_TRIGGER_CITY_RUINS_INDUSTRIAL_1</Text>
+					<Era>DX_ERA_INFORMATION</Era>
 				</TriggerText>
 				<TriggerText>
 					<Text>TXT_KEY_EVENT_TRIGGER_CITY_RUINS_INDUSTRIAL_1</Text>
@@ -2432,6 +2440,10 @@
 				<Text>TXT_KEY_EVENTTRIGGER_JOYOUS_WEDDING</Text>
 			</WorldNewsTexts>
 			<TriggerTexts>
+			  <TriggerText>
+					<Text>TXT_KEY_EVENT_TRIGGER_JOYOUS_WEDDING_1</Text>
+					<Era>DX_ERA_PREHISTORIC</Era>
+				</TriggerText>
 				<TriggerText>
 					<Text>TXT_KEY_EVENT_TRIGGER_JOYOUS_WEDDING_1</Text>
 					<Era>ERA_ANCIENT</Era>
@@ -2455,6 +2467,10 @@
 				<TriggerText>
 					<Text>TXT_KEY_EVENT_TRIGGER_JOYOUS_WEDDING_3</Text>
 					<Era>DX_ERA_ATOMIC</Era>
+				</TriggerText>
+				<TriggerText>
+					<Text>TXT_KEY_EVENT_TRIGGER_JOYOUS_WEDDING_3</Text>
+					<Era>DX_ERA_INFORMATION</Era>
 				</TriggerText>
 				<TriggerText>
 					<Text>TXT_KEY_EVENT_TRIGGER_JOYOUS_WEDDING_3</Text>
@@ -2538,6 +2554,10 @@
 				<Text>TXT_KEY_EVENTTRIGGER_WEDDING_FEUD</Text>
 			</WorldNewsTexts>
 			<TriggerTexts>
+			  <TriggerText>
+					<Text>TXT_KEY_EVENT_TRIGGER_WEDDING_FEUD_1</Text>
+					<Era>DX_ERA_PREHISTORIC</Era>
+				</TriggerText>
 				<TriggerText>
 					<Text>TXT_KEY_EVENT_TRIGGER_WEDDING_FEUD_1</Text>
 					<Era>ERA_ANCIENT</Era>
@@ -2561,6 +2581,10 @@
 				<TriggerText>
 					<Text>TXT_KEY_EVENT_TRIGGER_WEDDING_FEUD_3</Text>
 					<Era>DX_ERA_ATOMIC</Era>
+				</TriggerText>
+				<TriggerText>
+					<Text>TXT_KEY_EVENT_TRIGGER_WEDDING_FEUD_3</Text>
+					<Era>DX_ERA_INFORMATION</Era>
 				</TriggerText>
 				<TriggerText>
 					<Text>TXT_KEY_EVENT_TRIGGER_WEDDING_FEUD_3</Text>

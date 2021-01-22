@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Firaxis (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Route Infos -->
+<Civ4RouteInfos xmlns="x-schema:CIV4MiscSchema.xml">
+	<RouteInfos>
+		<fZBias>3</fZBias>
+		<RouteInfo>
+			<Type>ROUTE_ROAD</Type>
+			<Description>TXT_KEY_ROUTE_ROAD</Description>
+			<iValue>1</iValue>
+			<iMovement>40</iMovement>
+			<iFlatMovement>40</iFlatMovement>
+			<BonusType>NONE</BonusType>
+			<Yields/>
+			<TechMovementChanges>
+				<TechMovementChange>
+					<PrereqTech>TECH_CONSTRUCTION</PrereqTech>
+					<iMovementChange>-10</iMovementChange>
+				</TechMovementChange>
+				<TechMovementChange>
+					<PrereqTech>TECH_ENGINEERING</PrereqTech>
+					<iMovementChange>-6</iMovementChange>
+				</TechMovementChange>
+				<TechMovementChange>
+					<PrereqTech>TECH_REPLACEABLE_PARTS</PrereqTech>
+					<iMovementChange>-4</iMovementChange>
+				</TechMovementChange>
+			</TechMovementChanges>
+			<Button>Art/Interface/Buttons/Builds/BuildRoad.dds</Button>
+		</RouteInfo>
+		<RouteInfo>
+			<Type>ROUTE_RAILROAD</Type>
+			<Description>TXT_KEY_ROUTE_RAILROAD</Description>
+			<iValue>2</iValue>
+			<iMovement>15</iMovement>
+			<iFlatMovement>15</iFlatMovement>
+			<BonusType>BONUS_COAL</BonusType>
+			<Yields/>
+			<TechMovementChanges>
+			  <TechMovementChange>
+					<PrereqTech>TECH_ARPA</PrereqTech>
+					<iMovementChange>-3</iMovementChange>
+				</TechMovementChange>
+				<TechMovementChange>
+					<PrereqTech>TECH_ROBOTICS</PrereqTech>
+					<iMovementChange>-2</iMovementChange>
+				</TechMovementChange>
+			</TechMovementChanges>
+			<Button>Art/Interface/Buttons/Builds/BuildRailroad.dds</Button>
+		</RouteInfo>
+	</RouteInfos>
+</Civ4RouteInfos>

@@ -4163,10 +4163,10 @@
 					<iFlavor>9</iFlavor>
 				</Flavor>
 			</Flavors>
-			<OrPreReqs/>
-			<AndPreReqs>
+			<OrPreReqs>
 			  <PrereqTech>TECH_AESTHETICS</PrereqTech>
-			</AndPreReqs>
+			</OrPreReqs>
+			<AndPreReqs/>
 			<Quote>TXT_KEY_TECH_RELIGION_QUOTE</Quote>
 			<Sound/>
 			<SoundMP/>
@@ -4675,10 +4675,10 @@
 					<iFlavor>9</iFlavor>
 				</Flavor>
 			</Flavors>
-			<OrPreReqs/>
-			<AndPreReqs>
+			<OrPreReqs>
 			  <PrereqTech>TECH_LITERATURE</PrereqTech>
-			</AndPreReqs>
+			</OrPreReqs>
+			<AndPreReqs/>
 			<Quote>TXT_KEY_TECH_RELIGION_QUOTE</Quote>
 			<Sound/>
 			<SoundMP/>
@@ -4838,7 +4838,7 @@
 		</TechInfo>
 		<TechInfo>
 			<Type>TECH_CONCRETE</Type>
-			<Description>Glass Making</Description>
+			<Description>Concrete</Description>
 			<Civilopedia>TXT_KEY_TECH_CONCRETE_PEDIA</Civilopedia>
 			<Help/>
 			<Strategy>TXT_KEY_TECH_CONCRETE_STRATEGY</Strategy>
@@ -5335,7 +5335,7 @@
 		</TechInfo>
 		<TechInfo>
 			<Type>TECH_MUSIC</Type>
-			<Description>TXT_KEY_TECH_MUSIC</Description>
+			<Description>Music Theory</Description>
 			<Civilopedia>TXT_KEY_TECH_MUSIC_PEDIA</Civilopedia>
 			<Help/>
 			<Strategy>TXT_KEY_TECH_MUSIC_STRATEGY</Strategy>
@@ -10033,12 +10033,11 @@
 				</Flavor>
 			</Flavors>
 			<OrPreReqs>
-			  <PrereqTech>TECH_FIBER_OPTICS</PrereqTech>
 			  <PrereqTech>TECH_TERMINAL</PrereqTech>
 			</OrPreReqs>
 			<AndPreReqs>
-			  <PrereqTech>TECH_REFRIGERATION</PrereqTech>
-			  <PrereqTech>TECH_ECOLOGY</PrereqTech>
+			  <PrereqTech>TECH_ARPANET</PrereqTech>
+			  <PrereqTech>TECH_FISSION</PrereqTech>
 			</AndPreReqs>
 			<Quote>TXT_KEY_TECH_ERA_UNLOCK_QUOTE</Quote>
 			<Sound/>

@@ -147,7 +147,7 @@
 	</Define>
 	<Define>
 		<DefineName>RECON_VISIBILITY_RANGE</DefineName>
-		<iDefineIntVal>5</iDefineIntVal>
+		<iDefineIntVal>4</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>PLOT_VISIBILITY_RANGE</DefineName>
@@ -279,11 +279,11 @@
 	</Define>
 	<Define>
 		<DefineName>NUM_UNIT_AND_TECH_PREREQS</DefineName>
-		<iDefineIntVal>3</iDefineIntVal>
+		<iDefineIntVal>4</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>NUM_BUILDING_AND_TECH_PREREQS</DefineName>
-		<iDefineIntVal>3</iDefineIntVal>
+		<iDefineIntVal>4</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>BASE_RESEARCH_RATE</DefineName>
@@ -763,11 +763,11 @@
 	</Define>
 	<Define>
 		<DefineName>MIN_REVOLUTION_TURNS</DefineName>
-		<iDefineIntVal>5</iDefineIntVal>
+		<iDefineIntVal>2</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>MIN_CONVERSION_TURNS</DefineName>
-		<iDefineIntVal>5</iDefineIntVal>
+		<iDefineIntVal>2</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>OCCUPATION_CULTURE_PERCENT_THRESHOLD</DefineName>
