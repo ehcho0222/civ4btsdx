@@ -1,5 +1,10 @@
 # Changelog
 ## Pre-Release
+### 2021/1/29
+#### Build 32
+Changed some LSystem.\
+Added 16 Techs in Information Era.\
+Added original tech-tree images for reference.
 ### 2021/1/14
 #### Build 31
 Monasteries never go obsolete.\

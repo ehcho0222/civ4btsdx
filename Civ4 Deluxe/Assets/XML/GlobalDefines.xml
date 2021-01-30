@@ -71,7 +71,7 @@
 	</Define>
 	<Define>
 		<DefineName>STANDARD_HANDICAP_QUICK</DefineName>
-		<DefineTextVal>HANDICAP_CHIEFTAIN</DefineTextVal>
+		<DefineTextVal>HANDICAP_NOBLE</DefineTextVal>
 	</Define>
 	<Define>
 		<DefineName>STANDARD_GAMESPEED</DefineName>

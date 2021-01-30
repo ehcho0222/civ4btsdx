@@ -12,11 +12,11 @@
 			<Strategy>TXT_KEY_PROCESS_WEALTH_STRATEGY</Strategy>
 			<TechPrereq>TECH_SHELTER</TechPrereq>
 			<ProductionToCommerceModifiers>
-				<iProductionToCommerceModifier>25</iProductionToCommerceModifier>
+				<iProductionToCommerceModifier>30</iProductionToCommerceModifier>
 				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
 				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
 			</ProductionToCommerceModifiers>
-			<Button>Art/Interface/Buttons/Process/ProcessWealth.dds</Button>
+			<Button>Art/Interface/Buttons/Process/processwealth1.dds</Button>
 		</ProcessInfo>
 		<ProcessInfo>
 			<Type>PROCESS_WEALTH</Type>
@@ -24,11 +24,11 @@
 			<Strategy>TXT_KEY_PROCESS_WEALTH_STRATEGY</Strategy>
 			<TechPrereq>TECH_CURRENCY</TechPrereq>
 			<ProductionToCommerceModifiers>
-				<iProductionToCommerceModifier>50</iProductionToCommerceModifier>
+				<iProductionToCommerceModifier>45</iProductionToCommerceModifier>
 				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
 				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
 			</ProductionToCommerceModifiers>
-			<Button>Art/Interface/Buttons/Process/ProcessWealth.dds</Button>
+			<Button>Art/Interface/Buttons/Process/processwealth2.dds</Button>
 		</ProcessInfo>
 		<ProcessInfo>
 			<Type>PROCESS_WEALTHL</Type>
@@ -36,7 +36,7 @@
 			<Strategy>TXT_KEY_PROCESS_WEALTH_STRATEGY</Strategy>
 			<TechPrereq>TECH_ECONOMICS</TechPrereq>
 			<ProductionToCommerceModifiers>
-				<iProductionToCommerceModifier>65</iProductionToCommerceModifier>
+				<iProductionToCommerceModifier>60</iProductionToCommerceModifier>
 				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
 				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
 			</ProductionToCommerceModifiers>
@@ -64,7 +64,7 @@
 				<iProductionToCommerceModifier>50</iProductionToCommerceModifier>
 				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
 			</ProductionToCommerceModifiers>
-			<Button>Art/Interface/Buttons/Process/ProcessResearch.dds</Button>
+			<Button>Art/Interface/Buttons/Process/processresearch1.dds</Button>
 		</ProcessInfo>
 		<ProcessInfo>
 			<Type>PROCESS_RESEARCHL</Type>
@@ -76,7 +76,7 @@
 				<iProductionToCommerceModifier>65</iProductionToCommerceModifier>
 				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
 			</ProductionToCommerceModifiers>
-			<Button>Art/Interface/Buttons/Process/ProcessResearch.dds</Button>
+			<Button>Art/Interface/Buttons/Process/processresearch2.dds</Button>
 		</ProcessInfo>
 		<ProcessInfo>
 			<Type>PROCESS_CULTURES</Type>
@@ -100,7 +100,7 @@
 				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
 				<iProductionToCommerceModifier>50</iProductionToCommerceModifier>
 			</ProductionToCommerceModifiers>
-			<Button>Art/Interface/Buttons/Process/ProcessCulture.dds</Button>
+			<Button>Art/Interface/Buttons/Process/processculture1.dds</Button>
 		</ProcessInfo>
 		<ProcessInfo>
 			<Type>PROCESS_CULTUREL</Type>
@@ -112,7 +112,7 @@
 				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
 				<iProductionToCommerceModifier>65</iProductionToCommerceModifier>
 			</ProductionToCommerceModifiers>
-			<Button>Art/Interface/Buttons/Process/ProcessCulture.dds</Button>
+			<Button>Art/Interface/Buttons/Process/processculture2.dds</Button>
 		</ProcessInfo>
 	</ProcessInfos>
 </Civ4ProcessInfo>

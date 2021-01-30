@@ -11,7 +11,7 @@
 			<Type>CIVIC_BAND_SOCIETY</Type>
 			<Description>Band Society</Description>
 			<Civilopedia>TXT_KEY_CIVIC_DESPOTISM_PEDIA</Civilopedia>
-			<Strategy>TXT_KEY_CIVIC_DESPOTISM_STRATEGY</Strategy>
+			<Strategy>-10% to Science and Culture</Strategy>
 			<Button>,Art/Interface/Buttons/Civics/Despotism.dds,Art/Interface/Buttons/Civics_Civilizations_Religions_Atlas.dds,5,1</Button>
 			<TechPrereq>NONE</TechPrereq>
 			<iAnarchyLength>1</iAnarchyLength>
@@ -488,7 +488,7 @@
 			<Type>CIVIC_CONDUCT</Type>
 			<Description>Conduct</Description>
 			<Civilopedia>TXT_KEY_CIVIC_BARBARISM_PEDIA</Civilopedia>
-			<Strategy>TXT_KEY_CIVIC_BARBARISM_STRATEGY</Strategy>
+			<Strategy>+1 Free Experience to Newly Trained Units</Strategy>
 			<Button>,Art/Interface/Buttons/Civics/Barbarism.dds,Art/Interface/Buttons/Civics_Civilizations_Religions_Atlas.dds,1,1</Button>
 			<TechPrereq>TECH_CHIEFTAINS</TechPrereq>
 			<iAnarchyLength>1</iAnarchyLength>
@@ -840,7 +840,7 @@
 			<Type>CIVIC_UNSKILLED_LABOR</Type>
 			<Description>Unskilled Labor</Description>
 			<Civilopedia>TXT_KEY_CIVIC_TRIBALISM_PEDIA</Civilopedia>
-			<Strategy>TXT_KEY_CIVIC_TRIBALISM_STRATEGY</Strategy>
+			<Strategy>-15% to Production</Strategy>
 			<Button>,Art/Interface/Buttons/Civics/Tribalism.dds,Art/Interface/Buttons/Civics_Civilizations_Religions_Atlas.dds,7,3</Button>
 			<TechPrereq>NONE</TechPrereq>
 			<iAnarchyLength>1</iAnarchyLength>
@@ -1330,7 +1330,7 @@
 			<Type>CIVIC_DECENTRALIZATION</Type>
 			<Description>TXT_KEY_CIVIC_DECENTRALIZATION</Description>
 			<Civilopedia>TXT_KEY_CIVIC_DECENTRALIZATION_PEDIA</Civilopedia>
-			<Strategy>TXT_KEY_CIVIC_DECENTRALIZATION_STRATEGY</Strategy>
+			<Strategy>+5% to all Commerce</Strategy>
 			<Button>,Art/Interface/Buttons/Civics/Decentralization.dds,Art/Interface/Buttons/Civics_Civilizations_Religions_Atlas.dds,4,1</Button>
 			<TechPrereq>TECH_SEDENTARY_LIFESTYLE</TechPrereq>
 			<iAnarchyLength>1</iAnarchyLength>
@@ -1702,7 +1702,7 @@
 			<Type>CIVIC_NO_RELIGION</Type>
 			<Description>No Religion</Description>
 			<Civilopedia>TXT_KEY_CIVIC_PAGANISM_PEDIA</Civilopedia>
-			<Strategy>TXT_KEY_CIVIC_PAGANISM_STRATEGY</Strategy>
+			<Strategy>No State Religion</Strategy>
 			<Button>,Art/Interface/Buttons/Civics/Paganism.dds,Art/Interface/Buttons/Civics_Civilizations_Religions_Atlas.dds,4,2</Button>
 			<TechPrereq>NONE</TechPrereq>
 			<iAnarchyLength>1</iAnarchyLength>
@@ -2101,7 +2101,7 @@
 			<Type>CIVIC_NO_CURRENCY</Type>
 			<Description>No Currency</Description>
 			<Civilopedia>TXT_KEY_CIVIC_FREE_RELIGION_PEDIA</Civilopedia>
-			<Strategy>TXT_KEY_CIVIC_FREE_RELIGION_STRATEGY</Strategy>
+			<Strategy>-25% Gold Income</Strategy>
 			<Button>,Art/Interface/Buttons/TechTree/Currency.dds</Button>
 			<TechPrereq>NONE</TechPrereq>
 			<iAnarchyLength>1</iAnarchyLength>
@@ -2170,8 +2170,8 @@
 			<Type>CIVIC_BARTER</Type>
 			<Description>Barter</Description>
 			<Civilopedia>TXT_KEY_CIVIC_FREE_RELIGION_PEDIA</Civilopedia>
-			<Strategy>TXT_KEY_CIVIC_FREE_RELIGION_STRATEGY</Strategy>
-			<Button>,Art/Interface/Buttons/TechTree/Currency.dds</Button>
+			<Strategy>-15% Gold Income</Strategy>
+			<Button>,Art/Interface/Buttons/Civics/Barter.dds</Button>
 			<TechPrereq>TECH_SEDENTARY_LIFESTYLE</TechPrereq>
 			<iAnarchyLength>1</iAnarchyLength>
 			<Upkeep>NONE</Upkeep>
@@ -2236,11 +2236,11 @@
 		</CivicInfo>
 		<CivicInfo>
 			<CivicOptionType>CIVICOPTION_CURRENCY</CivicOptionType>
-			<Type>CIVIC_METAL_MONEY</Type>
-			<Description>Metal Money</Description>
+			<Type>CIVIC_COINAGE</Type>
+			<Description>Coinage</Description>
 			<Civilopedia>TXT_KEY_CIVIC_FREE_RELIGION_PEDIA</Civilopedia>
-			<Strategy>TXT_KEY_CIVIC_FREE_RELIGION_STRATEGY</Strategy>
-			<Button>,Art/Interface/Buttons/TechTree/Currency.dds</Button>
+			<Strategy>-5% Gold Income</Strategy>
+			<Button>,Art/Interface/Buttons/Civics/Coinage.dds</Button>
 			<TechPrereq>TECH_CURRENCY</TechPrereq>
 			<iAnarchyLength>1</iAnarchyLength>
 			<Upkeep>UPKEEP_LOW</Upkeep>
@@ -2308,7 +2308,7 @@
 			<Type>CIVIC_PAPER_MONEY</Type>
 			<Description>Paper Money</Description>
 			<Civilopedia>TXT_KEY_CIVIC_FREE_RELIGION_PEDIA</Civilopedia>
-			<Strategy>TXT_KEY_CIVIC_FREE_RELIGION_STRATEGY</Strategy>
+			<Strategy>+5% Gold Income</Strategy>
 			<Button>,Art/Interface/Buttons/TechTree/Currency.dds</Button>
 			<TechPrereq>TECH_PAPER</TechPrereq>
 			<iAnarchyLength>1</iAnarchyLength>
@@ -2377,7 +2377,7 @@
 			<Type>CIVIC_FIAT</Type>
 			<Description>FIAT Money</Description>
 			<Civilopedia>TXT_KEY_CIVIC_FREE_RELIGION_PEDIA</Civilopedia>
-			<Strategy>TXT_KEY_CIVIC_FREE_RELIGION_STRATEGY</Strategy>
+			<Strategy>+10% Gold Income, +10% to all Commerce</Strategy>
 			<Button>,Art/Interface/Buttons/TechTree/Currency.dds</Button>
 			<TechPrereq>TECH_CORPORATION</TechPrereq>
 			<iAnarchyLength>1</iAnarchyLength>
@@ -2450,9 +2450,9 @@
 			<Type>CIVIC_CREDIT_CURRENCY</Type>
 			<Description>Credit Currency</Description>
 			<Civilopedia>TXT_KEY_CIVIC_FREE_RELIGION_PEDIA</Civilopedia>
-			<Strategy>TXT_KEY_CIVIC_FREE_RELIGION_STRATEGY</Strategy>
+			<Strategy>+10% Gold Income, +15% to all Commerce, +5% to Science and Culture</Strategy>
 			<Button>,Art/Interface/Buttons/TechTree/Currency.dds</Button>
-			<TechPrereq>TECH_COMPUTERS</TechPrereq>
+			<TechPrereq>TECH_NETWORK</TechPrereq>
 			<iAnarchyLength>1</iAnarchyLength>
 			<Upkeep>UPKEEP_MEDIUM</Upkeep>
 			<iAIWeight>0</iAIWeight>
