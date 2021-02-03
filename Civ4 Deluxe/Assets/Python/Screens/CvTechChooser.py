@@ -164,19 +164,19 @@ class CvTechChooser:
 			iY = 6
 			
 			if ( gc.getTeam(gc.getPlayer(self.iCivSelected).getTeam()).isHasTech(i) ):
-				screen.setPanelColor(szTechRecord, 85, 150, 87)
+				screen.setPanelColor(szTechRecord, 102, 153, 102)
 				self.aiCurrentState.append(CIV_HAS_TECH)
 			elif ( gc.getPlayer(self.iCivSelected).getCurrentResearch() == i ):
-				screen.setPanelColor(szTechRecord, 104, 158, 165)
+				screen.setPanelColor(szTechRecord, 102, 153, 153)
 				self.aiCurrentState.append(CIV_IS_RESEARCHING)
 			elif ( gc.getPlayer(self.iCivSelected).isResearchingTech(i) ):
-				screen.setPanelColor(szTechRecord, 104, 158, 165)
+				screen.setPanelColor(szTechRecord, 102, 153, 153)
 				self.aiCurrentState.append(CIV_IS_RESEARCHING)
 			elif ( gc.getPlayer(self.iCivSelected).canEverResearch(i) ):
-				screen.setPanelColor(szTechRecord, 100, 104, 160)
+				screen.setPanelColor(szTechRecord, 102, 102, 153)
 				self.aiCurrentState.append(CIV_NO_RESEARCH)
 			else:
-				screen.setPanelColor(szTechRecord, 206, 65, 69)
+				screen.setPanelColor(szTechRecord, 204, 51, 51)
 				self.aiCurrentState.append(CIV_TECH_AVAILABLE)
 
 			szTechID = "TechID" + str(i)
@@ -697,15 +697,15 @@ class CvTechChooser:
 				screen.setActivation( szTechID, ActivationTypes.ACTIVATE_MIMICPARENTFOCUS )
 
 				if ( gc.getTeam(gc.getPlayer(self.iCivSelected).getTeam()).isHasTech(i) ):
-					screen.setPanelColor(szTechRecord, 85, 150, 87)
+					screen.setPanelColor(szTechRecord, 102, 153, 102)
 				elif ( gc.getPlayer(self.iCivSelected).getCurrentResearch() == i ):
-					screen.setPanelColor(szTechRecord, 104, 158, 165)
+					screen.setPanelColor(szTechRecord, 102, 153, 153)
 				elif ( gc.getPlayer(self.iCivSelected).isResearchingTech(i) ):
-					screen.setPanelColor(szTechRecord, 104, 158, 165)
+					screen.setPanelColor(szTechRecord, 102, 153, 153)
 				elif ( gc.getPlayer(self.iCivSelected).canEverResearch(i) ):
-					screen.setPanelColor(szTechRecord, 100, 104, 160)
+					screen.setPanelColor(szTechRecord, 102, 102, 153)
 				else:
-					screen.setPanelColor(szTechRecord, 206, 65, 69)
+					screen.setPanelColor(szTechRecord, 204, 53, 53)
 
 	# Will draw the arrows
 	def drawArrows (self):

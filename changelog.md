@@ -1,5 +1,8 @@
 # Changelog
 ## Pre-Release
+### 2021/2/3
+#### Build 33
+Used Empty.nif for buildings that does not need 3D models.
 ### 2021/1/29
 #### Build 32
 Changed some LSystem.\

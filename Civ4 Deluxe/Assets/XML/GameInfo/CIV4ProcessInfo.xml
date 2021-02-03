@@ -7,8 +7,8 @@
 <Civ4ProcessInfo xmlns="x-schema:CIV4GameInfoSchema.xml">
 	<ProcessInfos>
 	  <ProcessInfo>
-			<Type>PROCESS_WEALTHS</Type>
-			<Description>Weak Wealth</Description>
+			<Type>PROCESS_WEALTH1</Type>
+			<Description>Wealth (30%)</Description>
 			<Strategy>TXT_KEY_PROCESS_WEALTH_STRATEGY</Strategy>
 			<TechPrereq>TECH_SHELTER</TechPrereq>
 			<ProductionToCommerceModifiers>
@@ -19,8 +19,8 @@
 			<Button>Art/Interface/Buttons/Process/processwealth1.dds</Button>
 		</ProcessInfo>
 		<ProcessInfo>
-			<Type>PROCESS_WEALTH</Type>
-			<Description>TXT_KEY_PROCESS_WEALTH</Description>
+			<Type>PROCESS_WEALTH2</Type>
+			<Description>Wealth (45%)</Description>
 			<Strategy>TXT_KEY_PROCESS_WEALTH_STRATEGY</Strategy>
 			<TechPrereq>TECH_CURRENCY</TechPrereq>
 			<ProductionToCommerceModifiers>
@@ -31,8 +31,8 @@
 			<Button>Art/Interface/Buttons/Process/processwealth2.dds</Button>
 		</ProcessInfo>
 		<ProcessInfo>
-			<Type>PROCESS_WEALTHL</Type>
-			<Description>Strong Wealth</Description>
+			<Type>PROCESS_WEALTH3</Type>
+			<Description>Wealth (60%)</Description>
 			<Strategy>TXT_KEY_PROCESS_WEALTH_STRATEGY</Strategy>
 			<TechPrereq>TECH_ECONOMICS</TechPrereq>
 			<ProductionToCommerceModifiers>
@@ -43,76 +43,112 @@
 			<Button>Art/Interface/Buttons/Process/ProcessWealth.dds</Button>
 		</ProcessInfo>
 		<ProcessInfo>
-			<Type>PROCESS_RESEARCHS</Type>
-			<Description>Weak Research</Description>
+			<Type>PROCESS_WEALTH4</Type>
+			<Description>Wealth (75%)</Description>
+			<Strategy>TXT_KEY_PROCESS_WEALTH_STRATEGY</Strategy>
+			<TechPrereq>TECH_ATOMIC_LIFESTYLE</TechPrereq>
+			<ProductionToCommerceModifiers>
+				<iProductionToCommerceModifier>75</iProductionToCommerceModifier>
+				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
+				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
+			</ProductionToCommerceModifiers>
+			<Button>Art/Interface/Buttons/Process/processwealth3.dds</Button>
+		</ProcessInfo>
+		<ProcessInfo>
+			<Type>PROCESS_RESEARCH1</Type>
+			<Description>Research (30%)</Description>
 			<Strategy>TXT_KEY_PROCESS_RESEARCH_STRATEGY</Strategy>
 			<TechPrereq>TECH_ORAL_TRADITION</TechPrereq>
 			<ProductionToCommerceModifiers>
 				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
-				<iProductionToCommerceModifier>25</iProductionToCommerceModifier>
+				<iProductionToCommerceModifier>30</iProductionToCommerceModifier>
 				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
 			</ProductionToCommerceModifiers>
 			<Button>Art/Interface/Buttons/Process/ProcessResearch.dds</Button>
 		</ProcessInfo>
 		<ProcessInfo>
-			<Type>PROCESS_RESEARCH</Type>
-			<Description>TXT_KEY_PROCESS_RESEARCH</Description>
+			<Type>PROCESS_RESEARCH2</Type>
+			<Description>Research (45%)</Description>
 			<Strategy>TXT_KEY_PROCESS_RESEARCH_STRATEGY</Strategy>
-			<TechPrereq>TECH_ALPHABET</TechPrereq>
+			<TechPrereq>TECH_MATHEMATICS</TechPrereq>
 			<ProductionToCommerceModifiers>
 				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
-				<iProductionToCommerceModifier>50</iProductionToCommerceModifier>
+				<iProductionToCommerceModifier>45</iProductionToCommerceModifier>
 				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
 			</ProductionToCommerceModifiers>
 			<Button>Art/Interface/Buttons/Process/processresearch1.dds</Button>
 		</ProcessInfo>
 		<ProcessInfo>
-			<Type>PROCESS_RESEARCHL</Type>
-			<Description>Strong Research</Description>
+			<Type>PROCESS_RESEARCH3</Type>
+			<Description>Research (60%)</Description>
 			<Strategy>TXT_KEY_PROCESS_RESEARCH_STRATEGY</Strategy>
-			<TechPrereq>TECH_SCIENTIFIC_METHOD</TechPrereq>
+			<TechPrereq>TECH_EDUCATION</TechPrereq>
 			<ProductionToCommerceModifiers>
 				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
-				<iProductionToCommerceModifier>65</iProductionToCommerceModifier>
+				<iProductionToCommerceModifier>60</iProductionToCommerceModifier>
 				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
 			</ProductionToCommerceModifiers>
 			<Button>Art/Interface/Buttons/Process/processresearch2.dds</Button>
 		</ProcessInfo>
 		<ProcessInfo>
-			<Type>PROCESS_CULTURES</Type>
-			<Description>Weak Culture</Description>
+			<Type>PROCESS_RESEARCH4</Type>
+			<Description>Research (75%)</Description>
+			<Strategy>TXT_KEY_PROCESS_RESEARCH_STRATEGY</Strategy>
+			<TechPrereq>TECH_COMPUTERS</TechPrereq>
+			<ProductionToCommerceModifiers>
+				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
+				<iProductionToCommerceModifier>75</iProductionToCommerceModifier>
+				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
+			</ProductionToCommerceModifiers>
+			<Button>Art/Interface/Buttons/Process/processresearch3.dds</Button>
+		</ProcessInfo>
+		<ProcessInfo>
+			<Type>PROCESS_CULTURE1</Type>
+			<Description>Culture (30%)</Description>
 			<Strategy>TXT_KEY_PROCESS_CULTURE_STRATEGY</Strategy>
 			<TechPrereq>TECH_PREHISTORIC_MUSIC</TechPrereq>
 			<ProductionToCommerceModifiers>
 				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
 				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
-				<iProductionToCommerceModifier>25</iProductionToCommerceModifier>
+				<iProductionToCommerceModifier>30</iProductionToCommerceModifier>
 			</ProductionToCommerceModifiers>
 			<Button>Art/Interface/Buttons/Process/ProcessCulture.dds</Button>
 		</ProcessInfo>
 		<ProcessInfo>
-			<Type>PROCESS_CULTURE</Type>
-			<Description>TXT_KEY_PROCESS_CULTURE</Description>
+			<Type>PROCESS_CULTURE2</Type>
+			<Description>Culture (45%)</Description>
 			<Strategy>TXT_KEY_PROCESS_CULTURE_STRATEGY</Strategy>
-			<TechPrereq>TECH_MUSIC</TechPrereq>
+			<TechPrereq>TECH_AESTHETICS</TechPrereq>
 			<ProductionToCommerceModifiers>
 				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
 				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
-				<iProductionToCommerceModifier>50</iProductionToCommerceModifier>
+				<iProductionToCommerceModifier>45</iProductionToCommerceModifier>
 			</ProductionToCommerceModifiers>
 			<Button>Art/Interface/Buttons/Process/processculture1.dds</Button>
 		</ProcessInfo>
 		<ProcessInfo>
-			<Type>PROCESS_CULTUREL</Type>
-			<Description>Strong Culture</Description>
+			<Type>PROCESS_CULTURE3</Type>
+			<Description>Culture (60%)</Description>
+			<Strategy>TXT_KEY_PROCESS_CULTURE_STRATEGY</Strategy>
+			<TechPrereq>TECH_LIBERALISM</TechPrereq>
+			<ProductionToCommerceModifiers>
+				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
+				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
+				<iProductionToCommerceModifier>60</iProductionToCommerceModifier>
+			</ProductionToCommerceModifiers>
+			<Button>Art/Interface/Buttons/Process/processculture2.dds</Button>
+		</ProcessInfo>
+		<ProcessInfo>
+			<Type>PROCESS_CULTURE4</Type>
+			<Description>Culture (75%)</Description>
 			<Strategy>TXT_KEY_PROCESS_CULTURE_STRATEGY</Strategy>
 			<TechPrereq>TECH_MASS_MEDIA</TechPrereq>
 			<ProductionToCommerceModifiers>
 				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
 				<iProductionToCommerceModifier>0</iProductionToCommerceModifier>
-				<iProductionToCommerceModifier>65</iProductionToCommerceModifier>
+				<iProductionToCommerceModifier>75</iProductionToCommerceModifier>
 			</ProductionToCommerceModifiers>
-			<Button>Art/Interface/Buttons/Process/processculture2.dds</Button>
+			<Button>Art/Interface/Buttons/Process/processculture3.dds</Button>
 		</ProcessInfo>
 	</ProcessInfos>
 </Civ4ProcessInfo>

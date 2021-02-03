@@ -80,18 +80,8 @@
 				<City>TXT_KEY_CITY_NAME_COLUMBUS</City>
 				<City>TXT_KEY_CITY_NAME_LE_BAM</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_SUPERMARKET</BuildingClassType>
-					<BuildingType>BUILDING_AMERICAN_MALL</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_MARINE</UnitClassType>
-					<UnitType>UNIT_AMERICAN_NAVY_SEAL</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -182,18 +172,8 @@
 				<City>TXT_KEY_CITY_NAME_CASABLANCA</City>
 				<City>TXT_KEY_CITY_NAME_MARRAKECH</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_LIBRARY</BuildingClassType>
-					<BuildingType>BUILDING_ARABIAN_MADRASSA</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_KNIGHT</UnitClassType>
-					<UnitType>UNIT_ARABIA_CAMELARCHER</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -276,18 +256,8 @@
 				<City>TXT_KEY_CITY_NAME_AYOTZINCO</City>
 				<City>TXT_KEY_CITY_NAME_IZTAPAM</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_COURTHOUSE</BuildingClassType>
-					<BuildingType>BUILDING_AZTEC_SACRIFICIAL_ALTAR</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_SWORDSMAN</UnitClassType>
-					<UnitType>UNIT_AZTEC_JAGUAR</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -374,18 +344,8 @@
 				<City>TXT_KEY_CITY_NAME_RIBLAH</City>
 				<City>TXT_KEY_CITY_NAME_TAYMA</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_COLOSSEUM</BuildingClassType>
-					<BuildingType>BUILDING_BABYLON_GARDEN</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_ARCHER</UnitClassType>
-					<UnitType>UNIT_BABYLON_BOWMAN</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -476,18 +436,8 @@
 				<City>TXT_KEY_CITY_NAME_NAISSUS</City>
 				<City>TXT_KEY_CITY_NAME_CHERSON</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_THEATRE</BuildingClassType>
-					<BuildingType>BUILDING_BYZANTINE_HIPPODROME</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_KNIGHT</UnitClassType>
-					<UnitType>UNIT_BYZANTINE_CATAPHRACT</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -575,18 +525,8 @@
 				<City>TXT_KEY_CITY_NAME_KOSSYRA</City>
 				<City>TXT_KEY_CITY_NAME_ZAMA</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_HARBOR</BuildingClassType>
-					<BuildingType>BUILDING_CARTHAGE_COTHON</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_HORSE_ARCHER</UnitClassType>
-					<UnitType>UNIT_CARTHAGE_NUMIDIAN_CAVALRY</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -678,18 +618,8 @@
 				<City>TXT_KEY_CITY_NAME_TYLIS</City>
 				<City>TXT_KEY_CITY_NAME_ANCYRA</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_WALLS</BuildingClassType>
-					<BuildingType>BUILDING_CELTIC_DUN</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_SWORDSMAN</UnitClassType>
-					<UnitType>UNIT_CELTIC_GALLIC_WARRIOR</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -784,18 +714,8 @@
 				<City>TXT_KEY_CITY_NAME_WEIFANG</City>
 				<City>TXT_KEY_CITY_NAME_XIKANG</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_THEATRE</BuildingClassType>
-					<BuildingType>BUILDING_CHINESE_PAVILLION</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_CROSSBOWMAN</UnitClassType>
-					<UnitType>UNIT_CHINA_CHOKONU</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -902,18 +822,8 @@
 				<City>TXT_KEY_CITY_NAME_SEMNA</City>
 				<City>TXT_KEY_CITY_NAME_AMARA</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_OBELISK</BuildingClassType>
-					<BuildingType>BUILDING_EGYPTIAN_OBELISK</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_CHARIOT</UnitClassType>
-					<UnitType>UNIT_EGYPT_WARCHARIOT</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -1002,18 +912,8 @@
 				<City>TXT_KEY_CITY_NAME_WINCHESTER</City>
 				<City>TXT_KEY_CITY_NAME_HULL</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_BANK</BuildingClassType>
-					<BuildingType>BUILDING_ENGLISH_STOCK_EXCHANGE</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_RIFLEMAN</UnitClassType>
-					<UnitType>UNIT_ENGLISH_REDCOAT</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -1106,18 +1006,8 @@
 				<City>TXT_KEY_CITY_NAME_HAWILA_ASSARAW</City>
 				<City>TXT_KEY_CITY_NAME_WEQRO</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_OBELISK</BuildingClassType>
-					<BuildingType>BUILDING_ETHIOPIAN_STELE</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_MUSKETMAN</UnitClassType>
-					<UnitType>UNIT_ETHIOPIAN_OROMO_WARRIOR</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -1204,18 +1094,8 @@
 				<City>TXT_KEY_CITY_NAME_BOURGES</City>
 				<City>TXT_KEY_CITY_NAME_CALAIS</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_OBSERVATORY</BuildingClassType>
-					<BuildingType>BUILDING_FRENCH_SALON</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_MUSKETMAN</UnitClassType>
-					<UnitType>UNIT_FRENCH_MUSKETEER</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -1323,18 +1203,8 @@
 				<City>TXT_KEY_CITY_NAME_HILDESHEIM</City>
 				<City>TXT_KEY_CITY_NAME_ERLANGEN</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_FACTORY</BuildingClassType>
-					<BuildingType>BUILDING_GERMAN_ASSEMBLY_PLANT</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_TANK</UnitClassType>
-					<UnitType>UNIT_GERMAN_PANZER</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -1430,18 +1300,8 @@
 				<City>TXT_KEY_CITY_NAME_NAFPLION</City>
 				<City>TXT_KEY_CITY_NAME_APOLYTON</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_COLOSSEUM</BuildingClassType>
-					<BuildingType>BUILDING_GREEK_ODEON</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_AXEMAN</UnitClassType>
-					<UnitType>UNIT_GREEK_PHALANX</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -1538,18 +1398,8 @@
 				<City>TXT_KEY_CITY_NAME_PASSAU</City>
 				<City>TXT_KEY_CITY_NAME_HAGENAU</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_COURTHOUSE</BuildingClassType>
-					<BuildingType>BUILDING_HOLY_ROMAN_RATHAUS</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_PIKEMAN</UnitClassType>
-					<UnitType>UNIT_HOLY_ROMAN_LANDSKNECHT</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -1630,18 +1480,8 @@
 				<City>TXT_KEY_CITY_NAME_PAJATEN</City>
 				<City>TXT_KEY_CITY_NAME_CHUCUITO</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_GRANARY</BuildingClassType>
-					<BuildingType>BUILDING_INCAN_TERRACE</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_WARRIOR</UnitClassType>
-					<UnitType>UNIT_INCAN_QUECHUA</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -1785,18 +1625,8 @@
 				<City>TXT_KEY_CITY_NAME_IMPHAL</City>
 				<City>TXT_KEY_CITY_NAME_CHANDIGARH</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_JAIL</BuildingClassType>
-					<BuildingType>BUILDING_INDIAN_MAUSOLEUM</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_WORKER</UnitClassType>
-					<UnitType>UNIT_INDIAN_FAST_WORKER</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -1882,18 +1712,8 @@
 				<City>TXT_KEY_CITY_NAME_KOCHI</City>
 				<City>TXT_KEY_CITY_NAME_NAHA</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_COAL_PLANT</BuildingClassType>
-					<BuildingType>BUILDING_JAPANESE_SHALE_PLANT</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_MACEMAN</UnitClassType>
-					<UnitType>UNIT_JAPAN_SAMURAI</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -1981,18 +1801,8 @@
 				<City>TXT_KEY_CITY_NAME_LOVEK</City>
 				<City>TXT_KEY_CITY_NAME_UDONG</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_AQUEDUCT</BuildingClassType>
-					<BuildingType>BUILDING_KHMER_BARAY</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_WAR_ELEPHANT</UnitClassType>
-					<UnitType>UNIT_KHMER_BALLISTA_ELEPHANT</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -2069,18 +1879,8 @@
 				<City>TXT_KEY_CITY_NAME_KUMGANG</City>
 				<City>TXT_KEY_CITY_NAME_OIJONGBU</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_UNIVERSITY</BuildingClassType>
-					<BuildingType>BUILDING_KOREAN_SEOWON</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_CATAPULT</UnitClassType>
-					<UnitType>UNIT_KOREAN_HWACHA</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -2157,18 +1957,8 @@
 				<City>TXT_KEY_CITY_NAME_BAMBOUK</City>
 				<City>TXT_KEY_CITY_NAME_KIRINA</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_FORGE</BuildingClassType>
-					<BuildingType>BUILDING_MALI_MINT</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_ARCHER</UnitClassType>
-					<UnitType>UNIT_MALI_SKIRMISHER</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -2259,18 +2049,8 @@
 				<City>TXT_KEY_CITY_NAME_UTALTAN</City>
 				<City>TXT_KEY_CITY_NAME_MANI</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_COLOSSEUM</BuildingClassType>
-					<BuildingType>BUILDING_MAYA_BALL_COURT</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_SPEARMAN</UnitClassType>
-					<UnitType>UNIT_MAYA_HOLKAN</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -2350,18 +2130,8 @@
 				<City>TXT_KEY_CITY_NAME_NALAYH</City>
 				<City>TXT_KEY_CITY_NAME_TES</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_STABLE</BuildingClassType>
-					<BuildingType>BUILDING_MONGOL_GER</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_HORSE_ARCHER</UnitClassType>
-					<UnitType>UNIT_MONGOL_KESHIK</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -2462,18 +2232,8 @@
 				<City>TXT_KEY_CITY_NAME_KETCHIKAN</City>
 				<City>TXT_KEY_CITY_NAME_KUUJJUAQ</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_OBELISK</BuildingClassType>
-					<BuildingType>BUILDING_NATIVE_AMERICA_TOTEM</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_AXEMAN</UnitClassType>
-					<UnitType>UNIT_NATIVE_AMERICA_DOG_SOLDIER</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -2565,18 +2325,8 @@
 				<City>TXT_KEY_CITY_NAME_LELYSTAD</City>
 				<City>TXT_KEY_CITY_NAME_ALMERE</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_LEVEE</BuildingClassType>
-					<BuildingType>BUILDING_NETHERLANDS_DIKE</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_GALLEON</UnitClassType>
-					<UnitType>UNIT_NETHERLANDS_OOSTINDIEVAARDER</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -2659,18 +2409,8 @@
 				<City>TXT_KEY_CITY_NAME_BITLIS</City>
 				<City>TXT_KEY_CITY_NAME_MARMARIS</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_AQUEDUCT</BuildingClassType>
-					<BuildingType>BUILDING_OTTOMAN_HAMMAM</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_MUSKETMAN</UnitClassType>
-					<UnitType>UNIT_OTTOMAN_JANISSARY</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -2786,18 +2526,8 @@
 				<City>TXT_KEY_CITY_NAME_PATIGRBANA</City>
 				<City>TXT_KEY_CITY_NAME_PHRADA</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_GROCER</BuildingClassType>
-					<BuildingType>BUILDING_PERSIAN_APOTHECARY</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_CHARIOT</UnitClassType>
-					<UnitType>UNIT_PERSIA_IMMORTAL</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -2893,18 +2623,8 @@
 				<City>TXT_KEY_CITY_NAME_GOA</City>
 				<City>TXT_KEY_CITY_NAME_MACAO</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_CUSTOM_HOUSE</BuildingClassType>
-					<BuildingType>BUILDING_PORTUGAL_FEITORIA</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_CARAVEL</UnitClassType>
-					<UnitType>UNIT_PORTUGAL_CARRACK</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -3006,18 +2726,8 @@
 				<City>TXT_KEY_CITY_NAME_CASTRUMNOVUM</City>
 				<City>TXT_KEY_CITY_NAME_HADRIA</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_MARKET</BuildingClassType>
-					<BuildingType>BUILDING_ROMAN_FORUM</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_SWORDSMAN</UnitClassType>
-					<UnitType>UNIT_ROME_PRAETORIAN</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -3106,18 +2816,8 @@
 				<City>TXT_KEY_CITY_NAME_SUZDAL</City>
 				<City>TXT_KEY_CITY_NAME_MAGNITOGORSK</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_LABORATORY</BuildingClassType>
-					<BuildingType>BUILDING_RUSSIAN_RESEARCH_INSTITUTE</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_CAVALRY</UnitClassType>
-					<UnitType>UNIT_RUSSIA_COSSACK</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -3213,18 +2913,8 @@
 				<City>TXT_KEY_CITY_NAME_LAS_PALMAS</City>
 				<City>TXT_KEY_CITY_NAME_TENERIFE</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_CASTLE</BuildingClassType>
-					<BuildingType>BUILDING_SPANISH_CITADEL</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_CUIRASSIER</UnitClassType>
-					<UnitType>UNIT_SPANISH_CONQUISTADOR</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -3308,18 +2998,8 @@
 				<City>TXT_KEY_CITY_NAME_JEMDET_NASR</City>
 				<City>TXT_KEY_CITY_NAME_UBAID</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_COURTHOUSE</BuildingClassType>
-					<BuildingType>BUILDING_SUMERIAN_ZIGGURAT</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_AXEMAN</UnitClassType>
-					<UnitType>UNIT_SUMERIAN_VULTURE</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -3405,18 +3085,8 @@
 				<City>TXT_KEY_CITY_NAME_VINLAND</City>
 				<City>TXT_KEY_CITY_NAME_THUNDERFALL</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_LIGHTHOUSE</BuildingClassType>
-					<BuildingType>BUILDING_VIKING_TRADING_POST</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_MACEMAN</UnitClassType>
-					<UnitType>UNIT_VIKING_BESERKER</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
@@ -3499,18 +3169,8 @@
 				<City>TXT_KEY_CITY_NAME_LOBAMBA</City>
 				<City>TXT_KEY_CITY_NAME_QUNU</City>
 			</Cities>
-			<Buildings>
-				<Building>
-					<BuildingClassType>BUILDINGCLASS_BARRACKS</BuildingClassType>
-					<BuildingType>BUILDING_ZULU_IKHANDA</BuildingType>
-				</Building>
-			</Buildings>
-			<Units>
-				<Unit>
-					<UnitClassType>UNITCLASS_SPEARMAN</UnitClassType>
-					<UnitType>UNIT_ZULU_IMPI</UnitType>
-				</Unit>
-			</Units>
+			<Buildings/>
+			<Units/>
 			<FreeUnitClasses>
 				<FreeUnitClass>
 					<UnitClassType>UNITCLASS_SETTLER</UnitClassType>

@@ -28332,7 +28332,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_DREAMER_PEDIA</Civilopedia>
 			<Strategy>This Prehistoric Era Building is goodfor Early-game Science.</Strategy>
 			<Advisor>ADVISOR_SCIENCE</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_PALACE</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_DREAMER</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
@@ -28508,7 +28508,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_ORAL_TRADITION_PEDIA</Civilopedia>
 			<Strategy>This Prehistoric Era Building is good for Early-game Science.</Strategy>
 			<Advisor>ADVISOR_SCIENCE</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_PALACE</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_ORAL_TRADITION</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
@@ -28684,7 +28684,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_ORAL_TRADITION_PEDIA</Civilopedia>
 			<Strategy>This Prehistoric Era Building is good for Early-game Science.</Strategy>
 			<Advisor>ADVISOR_CULTURE</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_PALACE</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_MYTH_FIRE</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
@@ -28866,7 +28866,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_ORAL_TRADITION_PEDIA</Civilopedia>
 			<Strategy>This Prehistoric Era Building is good for Early-game Science.</Strategy>
 			<Advisor>ADVISOR_CULTURE</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_PALACE</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_MYTH_PLANT</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
@@ -29048,7 +29048,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_ORAL_TRADITION_PEDIA</Civilopedia>
 			<Strategy>This Prehistoric Era Building is good for Early-game Science.</Strategy>
 			<Advisor>ADVISOR_CULTURE</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_PALACE</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_MYTH_ANIMAL</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
@@ -29230,7 +29230,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_ORAL_TRADITION_PEDIA</Civilopedia>
 			<Strategy>This Prehistoric Era Building is good for Early-game Science.</Strategy>
 			<Advisor>ADVISOR_CULTURE</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_PALACE</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_MYTH_WATER</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
@@ -29412,7 +29412,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_INSTRUMENT_MAKER_PEDIA</Civilopedia>
 			<Strategy>This Prehistoric Era Building is goodfor Early-game Culture.</Strategy>
 			<Advisor>ADVISOR_CULTURE</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_PALACE</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_WOODWIND_INSTRUMENT_MAKER</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
@@ -29588,7 +29588,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_INSTRUMENT_MAKER_PEDIA</Civilopedia>
 			<Strategy>This Prehistoric Era Building is goodfor Early-game Culture.</Strategy>
 			<Advisor>ADVISOR_CULTURE</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_PALACE</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_DRUMSTICK_MAKER</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
@@ -29764,7 +29764,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_INSTRUMENT_MAKER_PEDIA</Civilopedia>
 			<Strategy>This Medieval Era Building is an advanced form of 2 Instrument Makers.</Strategy>
 			<Advisor>ADVISOR_CULTURE</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_PALACE</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_INSTRUMENT_WORKSHOP</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
@@ -29940,7 +29940,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_INSTRUMENT_MAKER_PEDIA</Civilopedia>
 			<Strategy>This Prehistoric Era Building boosts Food growth.</Strategy>
 			<Advisor>ADVISOR_GROWTH</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_PALACE</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_FRUIT_GATHERER</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
@@ -30120,7 +30120,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_INSTRUMENT_MAKER_PEDIA</Civilopedia>
 			<Strategy>This Prehistoric Era Building boosts Food growth.</Strategy>
 			<Advisor>ADVISOR_GROWTH</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_PALACE</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_BERRY_GATHERER</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
@@ -30300,7 +30300,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_INSTRUMENT_MAKER_PEDIA</Civilopedia>
 			<Strategy>This Prehistoric Era Building boosts the productivity of the city.</Strategy>
 			<Advisor>ADVISOR_ECONOMY</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_PALACE</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_STICK_GATHERER</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
@@ -30480,7 +30480,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_INSTRUMENT_MAKER_PEDIA</Civilopedia>
 			<Strategy>This Prehistoric Era Building boosts the productivity of the city, and also slightly boosts Food yield.</Strategy>
 			<Advisor>ADVISOR_ECONOMY</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_PALACE</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_GRASS_GATHERER</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
@@ -30660,7 +30660,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_INSTRUMENT_MAKER_PEDIA</Civilopedia>
 			<Strategy>This Prehistoric Era Building boosts the productivity of the city.</Strategy>
 			<Advisor>ADVISOR_ECONOMY</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_PALACE</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_STONE_KNAPPER</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
@@ -30840,7 +30840,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_INSTRUMENT_MAKER_PEDIA</Civilopedia>
 			<Strategy>This Prehistoric Era Building enhances almost all yields.</Strategy>
 			<Advisor>ADVISOR_ECONOMY</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_PALACE</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_CAPTURED_FIRE</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
@@ -31028,7 +31028,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_INSTRUMENT_MAKER_PEDIA</Civilopedia>
 			<Strategy>This Prehistoric Era Building boosts the growth and health of the city.</Strategy>
 			<Advisor>ADVISOR_GROWTH</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_PALACE</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_HERB_GATHERER</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
@@ -31208,7 +31208,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_INSTRUMENT_MAKER_PEDIA</Civilopedia>
 			<Strategy>This Prehistoric Era Building makes new population consume only 90% of stored food.</Strategy>
 			<Advisor>ADVISOR_GROWTH</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_PALACE</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_STORAGE_PIT</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
@@ -31222,7 +31222,7 @@
 			<VictoryPrereq>NONE</VictoryPrereq>
 			<FreeStartEra>ERA_ANCIENT</FreeStartEra>
 			<MaxStartEra>NONE</MaxStartEra>
-			<ObsoleteTech>TECH_CLASSICAL_GATEWAY</ObsoleteTech>
+			<ObsoleteTech>TECH_POTTERY</ObsoleteTech>
 			<PrereqTech>TECH_SHELTER</PrereqTech>
 			<TechTypes/>
 			<Bonus>NONE</Bonus>
@@ -31388,7 +31388,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_ORAL_TRADITION_PEDIA</Civilopedia>
 			<Strategy>This Building is an upgraded form of Folklore.</Strategy>
 			<Advisor>ADVISOR_CULTURE</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_PALACE</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_MYTH_FIRE</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
@@ -31568,7 +31568,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_ORAL_TRADITION_PEDIA</Civilopedia>
 			<Strategy>This Building is an upgraded form of Folklore.</Strategy>
 			<Advisor>ADVISOR_CULTURE</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_PALACE</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_MYTH_PLANT</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
@@ -31748,7 +31748,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_ORAL_TRADITION_PEDIA</Civilopedia>
 			<Strategy>This Building is an upgraded form of Folklore.</Strategy>
 			<Advisor>ADVISOR_CULTURE</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_PALACE</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_MYTH_ANIMAL</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
@@ -31928,7 +31928,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_ORAL_TRADITION_PEDIA</Civilopedia>
 			<Strategy>This Building is an upgraded form of Folklore.</Strategy>
 			<Advisor>ADVISOR_CULTURE</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_PALACE</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_MYTH_WATER</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
@@ -32108,7 +32108,7 @@
 			<Civilopedia>TXT_KEY_BUILDING_INSTRUMENT_MAKER_PEDIA</Civilopedia>
 			<Strategy>This Prehistoric Era Building boosts the productivity of the city.</Strategy>
 			<Advisor>ADVISOR_ECONOMY</Advisor>
-			<ArtDefineTag>ART_DEF_BUILDING_PALACE</ArtDefineTag>
+			<ArtDefineTag>ART_DEF_BUILDING_STONE_TOOL_MAKER</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
