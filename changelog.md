@@ -1,4 +1,9 @@
 # Changelog
+## Pre-Alpha
+### 2021/2/12(Build 34)
+Buffed many terrain yields.\
+Buffed Monument, Palace & Theatre.\
+People now require 3 Food per population.
 ## Pre-Release
 ### 2021/2/3
 #### Build 33

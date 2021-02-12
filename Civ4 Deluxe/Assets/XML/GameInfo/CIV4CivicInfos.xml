@@ -9,9 +9,9 @@
 	<CivicInfo>
 			<CivicOptionType>CIVICOPTION_GOVERNMENT</CivicOptionType>
 			<Type>CIVIC_BAND_SOCIETY</Type>
-			<Description>Band Society</Description>
-			<Civilopedia>TXT_KEY_CIVIC_DESPOTISM_PEDIA</Civilopedia>
-			<Strategy>-10% to Science and Culture</Strategy>
+			<Description>TXT_KEY_CIVIC_BAND_SOCIETY</Description>
+			<Civilopedia>TXT_KEY_CIVIC_BAND_SOCIETY_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_CIVIC_BAND_SOCIETY_STRATEGY</Strategy>
 			<Button>,Art/Interface/Buttons/Civics/Despotism.dds,Art/Interface/Buttons/Civics_Civilizations_Religions_Atlas.dds,5,1</Button>
 			<TechPrereq>NONE</TechPrereq>
 			<iAnarchyLength>1</iAnarchyLength>
@@ -486,9 +486,9 @@
 		<CivicInfo>
 			<CivicOptionType>CIVICOPTION_LEGAL</CivicOptionType>
 			<Type>CIVIC_CONDUCT</Type>
-			<Description>Conduct</Description>
-			<Civilopedia>TXT_KEY_CIVIC_BARBARISM_PEDIA</Civilopedia>
-			<Strategy>+1 Free Experience to Newly Trained Units</Strategy>
+			<Description>TXT_KEY_CIVIC_CONDUCT</Description>
+			<Civilopedia>TXT_KEY_CIVIC_CONDUCT_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_CIVIC_CONDUCT_STRATEGY</Strategy>
 			<Button>,Art/Interface/Buttons/Civics/Barbarism.dds,Art/Interface/Buttons/Civics_Civilizations_Religions_Atlas.dds,1,1</Button>
 			<TechPrereq>TECH_CHIEFTAINS</TechPrereq>
 			<iAnarchyLength>1</iAnarchyLength>
@@ -838,9 +838,9 @@
 		<CivicInfo>
 			<CivicOptionType>CIVICOPTION_LABOR</CivicOptionType>
 			<Type>CIVIC_UNSKILLED_LABOR</Type>
-			<Description>Unskilled Labor</Description>
-			<Civilopedia>TXT_KEY_CIVIC_TRIBALISM_PEDIA</Civilopedia>
-			<Strategy>-15% to Production</Strategy>
+			<Description>TXT_KEY_CIVIC_UNSKILLED_LABOR</Description>
+			<Civilopedia>TXT_KEY_CIVIC_UNSKILLED_LABOR_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_CIVIC_UNSKILLED_LABOR_STRATEGY</Strategy>
 			<Button>,Art/Interface/Buttons/Civics/Tribalism.dds,Art/Interface/Buttons/Civics_Civilizations_Religions_Atlas.dds,7,3</Button>
 			<TechPrereq>NONE</TechPrereq>
 			<iAnarchyLength>1</iAnarchyLength>
@@ -1200,7 +1200,7 @@
 			<Button>,Art/Interface/Buttons/Civics/Emancipation.dds,Art/Interface/Buttons/Civics_Civilizations_Religions_Atlas.dds,6,1</Button>
 			<TechPrereq>TECH_DEMOCRACY</TechPrereq>
 			<iAnarchyLength>1</iAnarchyLength>
-			<Upkeep>UPKEEP_LOW</Upkeep>
+			<Upkeep>NONE</Upkeep>
 			<iAIWeight>0</iAIWeight>
 			<iGreatPeopleRateModifier>0</iGreatPeopleRateModifier>
 			<iGreatGeneralRateModifier>0</iGreatGeneralRateModifier>
@@ -1259,8 +1259,8 @@
 		<CivicInfo>
 			<CivicOptionType>CIVICOPTION_ECONOMY</CivicOptionType>
 			<Type>CIVIC_COMMUNALISM</Type>
-			<Description>Communalism</Description>
-			<Civilopedia>TXT_KEY_CIVIC_DECENTRALIZATION_PEDIA</Civilopedia>
+			<Description>TXT_KEY_CIVIC_COMMUNALISM</Description>
+			<Civilopedia>TXT_KEY_CIVIC_COMMUNALISM_PEDIA</Civilopedia>
 			<Strategy>TXT_KEY_CIVIC_DECENTRALIZATION_STRATEGY</Strategy>
 			<Button>,Art/Interface/Buttons/Civics/Decentralization.dds,Art/Interface/Buttons/Civics_Civilizations_Religions_Atlas.dds,4,1</Button>
 			<TechPrereq>NONE</TechPrereq>
@@ -1330,7 +1330,7 @@
 			<Type>CIVIC_DECENTRALIZATION</Type>
 			<Description>TXT_KEY_CIVIC_DECENTRALIZATION</Description>
 			<Civilopedia>TXT_KEY_CIVIC_DECENTRALIZATION_PEDIA</Civilopedia>
-			<Strategy>+5% to all Commerce</Strategy>
+			<Strategy>TXT_KEY_CIVIC_NEW_DECENTRALIZATION_STRATEGY</Strategy>
 			<Button>,Art/Interface/Buttons/Civics/Decentralization.dds,Art/Interface/Buttons/Civics_Civilizations_Religions_Atlas.dds,4,1</Button>
 			<TechPrereq>TECH_SEDENTARY_LIFESTYLE</TechPrereq>
 			<iAnarchyLength>1</iAnarchyLength>
@@ -1533,7 +1533,7 @@
 			<Button>,Art/Interface/Buttons/Civics/State_Property.dds,Art/Interface/Buttons/Civics_Civilizations_Religions_Atlas.dds,5,3</Button>
 			<TechPrereq>TECH_UTOPIA</TechPrereq>
 			<iAnarchyLength>1</iAnarchyLength>
-			<Upkeep>UPKEEP_LOW</Upkeep>
+			<Upkeep>NONE</Upkeep>
 			<iAIWeight>0</iAIWeight>
 			<iGreatPeopleRateModifier>0</iGreatPeopleRateModifier>
 			<iGreatGeneralRateModifier>0</iGreatGeneralRateModifier>
@@ -1619,7 +1619,7 @@
 			<Button>,Art/Interface/Buttons/Civics/Environmentalism.dds,Art/Interface/Buttons/Civics_Civilizations_Religions_Atlas.dds,7,1</Button>
 			<TechPrereq>TECH_MEDICINE</TechPrereq>
 			<iAnarchyLength>1</iAnarchyLength>
-			<Upkeep>UPKEEP_MEDIUM</Upkeep>
+			<Upkeep>UPKEEP_HIGH</Upkeep>
 			<iAIWeight>0</iAIWeight>
 			<iGreatPeopleRateModifier>0</iGreatPeopleRateModifier>
 			<iGreatGeneralRateModifier>0</iGreatGeneralRateModifier>
@@ -1700,9 +1700,9 @@
 		<CivicInfo>
 			<CivicOptionType>CIVICOPTION_RELIGION</CivicOptionType>
 			<Type>CIVIC_NO_RELIGION</Type>
-			<Description>No Religion</Description>
+			<Description>TXT_KEY_CIVIC_NO_RELIGION</Description>
 			<Civilopedia>TXT_KEY_CIVIC_PAGANISM_PEDIA</Civilopedia>
-			<Strategy>No State Religion</Strategy>
+			<Strategy>TXT_KEY_CIVIC_NO_RELIGION_STRATEGY</Strategy>
 			<Button>,Art/Interface/Buttons/Civics/Paganism.dds,Art/Interface/Buttons/Civics_Civilizations_Religions_Atlas.dds,4,2</Button>
 			<TechPrereq>NONE</TechPrereq>
 			<iAnarchyLength>1</iAnarchyLength>

@@ -12,12 +12,12 @@
 			<Civilopedia>TXT_KEY_TERRAIN_GRASS_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_TERRAIN_GRASS</ArtDefineTag>
 			<Yields>
-				<iYield>2</iYield>
+				<iYield>3</iYield>
 				<iYield>0</iYield>
 				<iYield>0</iYield>
 			</Yields>
 			<RiverYieldChange>
-				<iYield>0</iYield>
+				<iYield>1</iYield>
 				<iYield>0</iYield>
 				<iYield>1</iYield>
 			</RiverYieldChange>
@@ -168,12 +168,12 @@
 			<Civilopedia>TXT_KEY_TERRAIN_PLAINS_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_TERRAIN_PLAINS</ArtDefineTag>
 			<Yields>
-				<iYield>1</iYield>
+				<iYield>2</iYield>
 				<iYield>1</iYield>
 				<iYield>0</iYield>
 			</Yields>
 			<RiverYieldChange>
-				<iYield>0</iYield>
+				<iYield>1</iYield>
 				<iYield>0</iYield>
 				<iYield>1</iYield>
 			</RiverYieldChange>
@@ -325,7 +325,7 @@
 			<ArtDefineTag>ART_DEF_TERRAIN_DESERT</ArtDefineTag>
 			<Yields/>
 			<RiverYieldChange>
-				<iYield>0</iYield>
+				<iYield>1</iYield>
 				<iYield>0</iYield>
 				<iYield>1</iYield>
 			</RiverYieldChange>
@@ -477,11 +477,11 @@
 			<ArtDefineTag>ART_DEF_TERRAIN_TUNDRA</ArtDefineTag>
 			<Yields>
 				<iYield>1</iYield>
-				<iYield>0</iYield>
+				<iYield>1</iYield>
 				<iYield>0</iYield>
 			</Yields>
 			<RiverYieldChange>
-				<iYield>0</iYield>
+				<iYield>1</iYield>
 				<iYield>0</iYield>
 				<iYield>1</iYield>
 			</RiverYieldChange>
@@ -491,7 +491,7 @@
 			<bFound>1</bFound>
 			<bFoundCoast>0</bFoundCoast>
 			<bFoundFreshWater>0</bFoundFreshWater>
-			<iMovement>2</iMovement>
+			<iMovement>1</iMovement>
 			<iSeeFrom>1</iSeeFrom>
 			<iSeeThrough>1</iSeeThrough>
 			<iBuildModifier>25</iBuildModifier>
@@ -639,7 +639,7 @@
 			<bFound>1</bFound>
 			<bFoundCoast>0</bFoundCoast>
 			<bFoundFreshWater>0</bFoundFreshWater>
-			<iMovement>2</iMovement>
+			<iMovement>1</iMovement>
 			<iSeeFrom>1</iSeeFrom>
 			<iSeeThrough>1</iSeeThrough>
 			<iBuildModifier>50</iBuildModifier>
@@ -943,7 +943,7 @@
 			<bFound>0</bFound>
 			<bFoundCoast>0</bFoundCoast>
 			<bFoundFreshWater>0</bFoundFreshWater>
-			<iMovement>2</iMovement>
+			<iMovement>1</iMovement>
 			<iSeeFrom>0</iSeeFrom>
 			<iSeeThrough>0</iSeeThrough>
 			<iBuildModifier>0</iBuildModifier>
@@ -1091,7 +1091,7 @@
 			<bFound>0</bFound>
 			<bFoundCoast>0</bFoundCoast>
 			<bFoundFreshWater>0</bFoundFreshWater>
-			<iMovement>3</iMovement>
+			<iMovement>1</iMovement>
 			<iSeeFrom>0</iSeeFrom>
 			<iSeeThrough>0</iSeeThrough>
 			<iBuildModifier>0</iBuildModifier>
@@ -1238,7 +1238,7 @@
 			<bFound>0</bFound>
 			<bFoundCoast>0</bFoundCoast>
 			<bFoundFreshWater>0</bFoundFreshWater>
-			<iMovement>2</iMovement>
+			<iMovement>1</iMovement>
 			<iSeeFrom>0</iSeeFrom>
 			<iSeeThrough>0</iSeeThrough>
 			<iBuildModifier>0</iBuildModifier>

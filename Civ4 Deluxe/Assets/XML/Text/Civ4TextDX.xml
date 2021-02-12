@@ -2,28 +2,29 @@
 <Civ4GameText xmlns="http://www.firaxis.com">
   <TEXT>
      <Tag>TXT_KEY_GAMESPEED_ENDLESS</Tag>
-     <English>Endless</English>
-     <French>Endless</French>
-     <German>Endless</German>
-     <Italian>Endless</Italian>
-     <Spanish>Endless</Spanish>
+     <English>Eternity</English>
+     <French>éternel</French>
+     <German>Eternity</German>
+     <Italian>Eternity</Italian>
+     <Spanish>Eternity</Spanish>
    </TEXT>
    <TEXT>
      <Tag>TXT_KEY_GAMESPEED_ENDLESS_HELP</Tag>
-     <English>Endless speed is twice as slow as Marathon.</English>
-     <French>Endless speed is twice as slow as Marathon.</French>
-     <German>Endless speed is twice as slow as Marathon.</German>
-     <Italian>Endless speed is twice as slow as Marathon.</Italian>
-     <Spanish>Endless speed is twice as slow as Marathon.</Spanish>
+     <English>Eternity speed is twice as slow as Marathon.</English>
+     <French>La vitesse de éternel est deux fois plus lente que celle du marathon.</French>
+     <German>Eternity speed is twice as slow as Marathon.</German>
+     <Italian>Eternity speed is twice as slow as Marathon.</Italian>
+     <Spanish>Eternity speed is twice as slow as Marathon.</Spanish>
    </TEXT>
    <TEXT>
      <Tag>TXT_KEY_CIVIC_WE_LOVE_CHIEFTAIN</Tag>
      <English>We Love the Chieftain Day</English>
-     <French>We Love the Chieftain Day</French>
+     <French>Nous aimons le jour du chef</French>
      <German>We Love the Chieftain Day</German>
      <Italian>We Love the Chieftain Day</Italian>
      <Spanish>We Love the Chieftain Day</Spanish>
    </TEXT>
+   <!-- Eras -->
   <TEXT>
      <Tag>TXT_KEY_ERA_PREHISTORIC</Tag>
      <English>Prehistoric</English>
@@ -50,12 +51,13 @@
    </TEXT>
    <TEXT>
      <Tag>TXT_KEY_ERA_PREHISTORIC_STRATEGY</Tag>
-     <English>Prehistoric Era</English>
-     <French>Prehistoric Era</French>
-     <German>Prehistoric Era</German>
-     <Italian>Prehistoric Era</Italian>
-     <Spanish>Prehistoric Era</Spanish>
+     <English>The first Era in this game.</English>
+     <French>The first Era in this game.</French>
+     <German>The first Era in this game.</German>
+     <Italian>The first Era in this game.</Italian>
+     <Spanish>The first Era in this game.</Spanish>
    </TEXT>
+   <!-- Tech Names -->
    <TEXT>
      <Tag>TXT_KEY_TECH_NOMADIC_LIFESTYLE</Tag>
      <English>Nomadic Lifestyle</English>
@@ -377,6 +379,23 @@
      <Spanish>Islam</Spanish>
    </TEXT>
    <TEXT>
+     <Tag>TXT_KEY_TECH_BARTER</Tag>
+     <English>Barter</English>
+     <French>Barter</French>
+     <German>Barter</German>
+     <Italian>Barter</Italian>
+     <Spanish>Barter</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_TRADE</Tag>
+     <English>Trade</English>
+     <French>Trade</French>
+     <German>Trade</German>
+     <Italian>Trade</Italian>
+     <Spanish>Trade</Spanish>
+   </TEXT>
+   <!-- Sid's Tip -->
+   <TEXT>
      <Tag>TXT_KEY_TECH_NOMADIC_LIFESTYLE_STRATEGY</Tag>
      <English>Nomadic Lifestyle is the first technology.It gates almost all other technologies.</English>
      <French>Nomadic Lifestyle is the first technology.It gates almost all other technologies.</French>
@@ -512,6 +531,7 @@
      <Italian>Islam is one of the three religions in Medieval Era.</Italian>
      <Spanish>Islam is one of the three religions in Medieval Era.</Spanish>
    </TEXT>
+   <!-- Civilopedia -->
    <TEXT>
      <Tag>TXT_KEY_TECH_NOMADIC_LIFESTYLE_PEDIA</Tag>
      <English>When humans first evolved, they made temporary structures and moved often.</English>
@@ -530,13 +550,21 @@
    </TEXT>
    <TEXT>
      <Tag>TXT_KEY_TECH_SIMPLE_TOOLS_PEDIA</Tag>
-     <English>.</English>
-     <French>.</French>
-     <German>.</German>
-     <Italian>.</Italian>
-     <Spanish>.</Spanish>
+     <English>The first tools were made from striking rocks. The earliest evidence of stone tools, also called Oldowan tools, were from 3.4 million years ago. The stone tool evolved over millions of years, until it was finally replaced with metal tools.</English>
+     <French>The first tools were made from striking rocks. The earliest evidence of stone tools, also called Oldowan tools, were from 3.4 million years ago. The stone tool evolved over millions of years, until it was finally replaced with metal tools.</French>
+     <German>The first tools were made from striking rocks. The earliest evidence of stone tools, also called Oldowan tools, were from 3.4 million years ago. The stone tool evolved over millions of years, until it was finally replaced with metal tools.</German>
+     <Italian>The first tools were made from striking rocks. The earliest evidence of stone tools, also called Oldowan tools, were from 3.4 million years ago. The stone tool evolved over millions of years, until it was finally replaced with metal tools.</Italian>
+     <Spanish>The first tools were made from striking rocks. The earliest evidence of stone tools, also called Oldowan tools, were from 3.4 million years ago. The stone tool evolved over millions of years, until it was finally replaced with metal tools.</Spanish>
    </TEXT>
     <TEXT>
+     <Tag>TXT_KEY_TECH_NOMADIC_LIFESTYLE_PEDIA</Tag>
+     <English>In the early years of human history, people lived in temporary structures. As the tribe grew larger, nomadic life would not produce enough food to sustain them. Sedentism, together with farming, helped people settle down and thrive.</English>
+     <French>In the early years of human history, people lived in temporary structures. As the tribe grew larger, nomadic life would not produce enough food to sustain them. Sedentism, together with farming, helped people settle down and thrive.</French>
+     <German>In the early years of human history, people lived in temporary structures. As the tribe grew larger, nomadic life would not produce enough food to sustain them. Sedentism, together with farming, helped people settle down and thrive.</German>
+     <Italian>In the early years of human history, people lived in temporary structures. As the tribe grew larger, nomadic life would not produce enough food to sustain them. Sedentism, together with farming, helped people settle down and thrive.</Italian>
+     <Spanish>In the early years of human history, people lived in temporary structures. As the tribe grew larger, nomadic life would not produce enough food to sustain them. Sedentism, together with farming, helped people settle down and thrive.</Spanish>
+   </TEXT>
+   <TEXT>
      <Tag>TXT_KEY_TECH_SEDENTARY_LIFESTYLE_PEDIA</Tag>
      <English>In the early years of human history, people lived in temporary structures. As the tribe grew larger, nomadic life would not produce enough food to sustain them. Sedentism, together with farming, helped people settle down and thrive.</English>
      <French>In the early years of human history, people lived in temporary structures. As the tribe grew larger, nomadic life would not produce enough food to sustain them. Sedentism, together with farming, helped people settle down and thrive.</French>
@@ -551,6 +579,46 @@
      <German>Classical Antiquity refers to the period of Greco-Roman history. It extends back to 8th century BC when Rome was founded, and continued until 476 AD.</German>
      <Italian>Classical Antiquity refers to the period of Greco-Roman history. It extends back to 8th century BC when Rome was founded, and continued until 476 AD.</Italian>
      <Spanish>Classical Antiquity refers to the period of Greco-Roman history. It extends back to 8th century BC when Rome was founded, and continued until 476 AD.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_MEDIEVAL_LIFESTYLE_PEDIA</Tag>
+     <English>Middle Ages refers to the period from 5th to 15th century. During middle ages, Christianity was the predominant religion in Europe, and church became the most powerful organization.</English>
+     <French>Middle Ages refers to the period from 5th to 15th century. During middle ages, Christianity was the predominant religion in Europe, and church became the most powerful organization.</French>
+     <German>Middle Ages refers to the period from 5th to 15th century. During middle ages, Christianity was the predominant religion in Europe, and church became the most powerful organization.</German>
+     <Italian>Middle Ages refers to the period from 5th to 15th century. During middle ages, Christianity was the predominant religion in Europe, and church became the most powerful organization.</Italian>
+     <Spanish>Middle Ages refers to the period from 5th to 15th century. During middle ages, Christianity was the predominant religion in Europe, and church became the most powerful organization.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_RENAISSANCE_LIFESTYLE_PEDIA</Tag>
+     <English>After Middle Ages ended, there was a movement to the rebirth of the Greco-Roman culture. Humanity experienced many breakthrough in culture and exploration in the following centuries.</English>
+     <French>After Middle Ages ended, there was a movement to the rebirth of the Greco-Roman culture. Humanity experienced many breakthrough in culture and exploration in the following centuries.</French>
+     <German>After Middle Ages ended, there was a movement to the rebirth of the Greco-Roman culture. Humanity experienced many breakthrough in culture and exploration in the following centuries.</German>
+     <Italian>After Middle Ages ended, there was a movement to the rebirth of the Greco-Roman culture. Humanity experienced many breakthrough in culture and exploration in the following centuries.</Italian>
+     <Spanish>After Middle Ages ended, there was a movement to the rebirth of the Greco-Roman culture. Humanity experienced many breakthrough in culture and exploration in the following centuries.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_INDUSTRIAL_LIFESTYLE_PEDIA</Tag>
+     <English>Industrial Revolution was started in Europe in the 18th century, following the invention of steam engine. In this era, urbanization started as population increased sharply and gravitated towards cities.</English>
+     <French>Industrial Revolution was started in Europe in the 18th century, following the invention of steam engine. In this era, urbanization started as population increased sharply and gravitated towards cities.</French>
+     <German>Industrial Revolution was started in Europe in the 18th century, following the invention of steam engine. In this era, urbanization started as population increased sharply and gravitated towards cities.</German>
+     <Italian>Industrial Revolution was started in Europe in the 18th century, following the invention of steam engine. In this era, urbanization started as population increased sharply and gravitated towards cities.</Italian>
+     <Spanish>Industrial Revolution was started in Europe in the 18th century, following the invention of steam engine. In this era, urbanization started as population increased sharply and gravitated towards cities.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_ATOMIC_LIFESTYLE_PEDIA</Tag>
+     <English>Atomic Age refers to the period covering almost the entire 20th century. This name came from humanity getting knowledge about structure and potential power of atoms. The World Wars also happened during this era.</English>
+     <French>Atomic Age refers to the period covering almost the entire 20th century. This name came from humanity getting knowledge about structure and potential power of atoms. The World Wars also happened during this era.</French>
+     <German>Atomic Age refers to the period covering almost the entire 20th century. This name came from humanity getting knowledge about structure and potential power of atoms. The World Wars also happened during this era.</German>
+     <Italian>Atomic Age refers to the period covering almost the entire 20th century. This name came from humanity getting knowledge about structure and potential power of atoms. The World Wars also happened during this era.</Italian>
+     <Spanish>Atomic Age refers to the period covering almost the entire 20th century. This name came from humanity getting knowledge about structure and potential power of atoms. The World Wars also happened during this era.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_INFORMATION_LIFESTYLE_PEDIA</Tag>
+     <English>Information Age started in 1990s by widespread use of computers, and it is being continued till now. This era is characterized by increased dependence on Internet and high-tech machinery.</English>
+     <French>Information Age started in 1990s by widespread use of computers, and it is being continued till now. This era is characterized by increased dependence on Internet and high-tech machinery.</French>
+     <German>Information Age started in 1990s by widespread use of computers, and it is being continued till now. This era is characterized by increased dependence on Internet and high-tech machinery.</German>
+     <Italian>Information Age started in 1990s by widespread use of computers, and it is being continued till now. This era is characterized by increased dependence on Internet and high-tech machinery.</Italian>
+     <Spanish>Information Age started in 1990s by widespread use of computers, and it is being continued till now. This era is characterized by increased dependence on Internet and high-tech machinery.</Spanish>
    </TEXT>
    <TEXT>
      <Tag>TXT_KEY_TECH_WORSHIPPING_PEDIA</Tag>
@@ -568,6 +636,7 @@
      <Italian>This tech allows you to found a Religion. It is not required for any other techs.</Italian>
      <Spanish>This tech allows you to found a Religion. It is not required for any other techs.</Spanish>
    </TEXT>
+   <!-- Quotes -->
    <TEXT>
      <Tag>TXT_KEY_TECH_PLACEHOLDER_QUOTE</Tag>
      <English>.</English>
@@ -599,5 +668,143 @@
      <German>You have unlocked a new Era.</German>
      <Italian>You have unlocked a new Era.</Italian>
      <Spanish>You have unlocked a new Era.</Spanish>
+   </TEXT>
+   <!-- Buildings -->
+   <TEXT>
+     <Tag>TXT_KEY_BUILDING_EARLY_MARKET</Tag>
+     <English>Early Market</English>
+     <French>Early Market</French>
+     <German>Early Market</German>
+     <Italian>Early Market</Italian>
+     <Spanish>Early Market</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_BUILDING_EARLY_GROCER</Tag>
+     <English>Early Grocer</English>
+     <French>Early Grocer</French>
+     <German>Early Grocer</German>
+     <Italian>Early Grocer</Italian>
+     <Spanish>Early Grocer</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_BUILDING_PUBLIC_SCHOOL</Tag>
+     <English>Public School</English>
+     <French>Public School</French>
+     <German>Public School</German>
+     <Italian>Public School</Italian>
+     <Spanish>Public School</Spanish>
+   </TEXT>
+   <!-- Civics -->
+   <TEXT>
+     <Tag>TXT_KEY_CIVIC_BAND_SOCIETY</Tag>
+     <English>Band Society</English>
+     <French>Band Society</French>
+     <German>Band Society</German>
+     <Italian>Band Society</Italian>
+     <Spanish>Band Society</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_CIVIC_BAND_SOCIETY_PEDIA</Tag>
+     <English>In the early years of human race, people lived in small groups called &quot;Bands.&quot; These groups had a size of about 30-40 people, and the members cooperated with each other.</English>
+     <French>In the early years of human race, people lived in small groups called &quot;Bands.&quot; These groups had a size of about 30-40 people, and the members cooperated with each other.</French>
+     <German>In the early years of human race, people lived in small groups called &quot;Bands.&quot; These groups had a size of about 30-40 people, and the members cooperated with each other.</German>
+     <Italian>In the early years of human race, people lived in small groups called &quot;Bands.&quot; These groups had a size of about 30-40 people, and the members cooperated with each other.</Italian>
+     <Spanish>In the early years of human race, people lived in small groups called &quot;Bands.&quot; These groups had a size of about 30-40 people, and the members cooperated with each other.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_BAND_SOCIETY_STRATEGY</Tag>
+     <English>-10% to Science and Culture</English>
+     <French>-10% to Science and Culture</French>
+     <German>-10% to Science and Culture</German>
+     <Italian>-10% to Science and Culture</Italian>
+     <Spanish>-10% to Science and Culture</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_CIVIC_CONDUCT</Tag>
+     <English>Conduct</English>
+     <French>Conduct</French>
+     <German>Conduct</German>
+     <Italian>Conduct</Italian>
+     <Spanish>Conduct</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_CIVIC_CONDUCT_PEDIA</Tag>
+     <English>The first form of law was called  &quot;Codes of Conduct.&quot; .It contained many basic rules. This form of law was developed in the Stone Age. It was used until an established version of code, namely the Hammmurabi Code, was written.</English>
+     <French>The first form of law was called  &quot;Codes of Conduct.&quot; .It contained many basic rules. This form of law was developed in the Stone Age. It was used until an established version of code, namely the Hammmurabi Code, was written.</French>
+     <German>The first form of law was called  &quot;Codes of Conduct.&quot; .It contained many basic rules. This form of law was developed in the Stone Age. It was used until an established version of code, namely the Hammmurabi Code, was written.</German>
+     <Italian>The first form of law was called  &quot;Codes of Conduct.&quot; .It contained many basic rules. This form of law was developed in the Stone Age. It was used until an established version of code, namely the Hammmurabi Code, was written.</Italian>
+     <Spanish>The first form of law was called  &quot;Codes of Conduct.&quot; .It contained many basic rules. This form of law was developed in the Stone Age. It was used until an established version of code, namely the Hammmurabi Code, was written.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_CIVIC_CONDUCT_STRATEGY</Tag>
+     <English>+1 Free Experience to Newly Trained Units</English>
+     <French>+1 Free Experience to Newly Trained Units</French>
+     <German>+1 Free Experience to Newly Trained Units</German>
+     <Italian>+1 Free Experience to Newly Trained Units</Italian>
+     <Spanish>+1 Free Experience to Newly Trained Units</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_CIVIC_UNSKILLED_LABOR</Tag>
+     <English>Unskilled Labor</English>
+     <French>Unskilled Labor</French>
+     <German>Unskilled Labor</German>
+     <Italian>Unskilled Labor</Italian>
+     <Spanish>Unskilled Labor</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_CIVIC_UNSKILLED_LABOR_PEDIA</Tag>
+     <English>Before workforce was specialized, people worked in arbitrary workplaces, often not matching their talents. It was the most simple way to divide workforce, but the productivity was not very high.</English>
+     <French>Before workforce was specialized, people worked in arbitrary workplaces, often not matching their talents. It was the most simple way to divide workforce, but the productivity was not very high.</French>
+     <German>Before workforce was specialized, people worked in arbitrary workplaces, often not matching their talents. It was the most simple way to divide workforce, but the productivity was not very high.</German>
+     <Italian>Before workforce was specialized, people worked in arbitrary workplaces, often not matching their talents. It was the most simple way to divide workforce, but the productivity was not very high.</Italian>
+     <Spanish>Before workforce was specialized, people worked in arbitrary workplaces, often not matching their talents. It was the most simple way to divide workforce, but the productivity was not very high.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_CIVIC_UNSKILLED_LABOR_STRATEGY</Tag>
+     <English>-15% to Production</English>
+     <French>-15% to Production</French>
+     <German>-15% to Production</German>
+     <Italian>-15% to Production</Italian>
+     <Spanish>-15% to Production</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_CIVIC_COMMUNALISM</Tag>
+     <English>Communalism</English>
+     <French>Communalism</French>
+     <German>Communalism</German>
+     <Italian>Communalism</Italian>
+     <Spanish>Communalism</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_CIVIC_COMMUNALISM_PEDIA</Tag>
+     <English>Communalism refers to the most primitive economy, where people shared most or all of their goods.</English>
+     <French>Communalism refers to the most primitive economy, where people shared most or all of their goods.</French>
+     <German>Communalism refers to the most primitive economy, where people shared most or all of their goods.</German>
+     <Italian>Communalism refers to the most primitive economy, where people shared most or all of their goods.</Italian>
+     <Spanish>Communalism refers to the most primitive economy, where people shared most or all of their goods.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_CIVIC_NEW_DECENTRALIZATION_STRATEGY</Tag>
+     <English>+1 Free Experience to Newly Trained Units</English>
+     <French>+1 Free Experience to Newly Trained Units</French>
+     <German>+1 Free Experience to Newly Trained Units</German>
+     <Italian>+1 Free Experience to Newly Trained Units</Italian>
+     <Spanish>+1 Free Experience to Newly Trained Units</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_CIVIC_NO_RELIGION</Tag>
+     <English>No Religion</English>
+     <French>No Religion</French>
+     <German>No Religion</German>
+     <Italian>No Religion</Italian>
+     <Spanish>No Religion</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_CIVIC_NO_RELIGION_STRATEGY</Tag>
+     <English>No State Religion</English>
+     <French>No State Religion</French>
+     <German>No State Religion</German>
+     <Italian>No State Religion</Italian>
+     <Spanish>No State Religion</Spanish>
    </TEXT>
  </Civ4GameText>

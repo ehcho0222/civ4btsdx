@@ -118,7 +118,7 @@
 			<Civilopedia>TXT_KEY_FEATURE_JUNGLE_PEDIA</Civilopedia>
 			<ArtDefineTag>ART_DEF_FEATURE_JUNGLE</ArtDefineTag>
 			<YieldChanges>
-				<iYieldChange>-1</iYieldChange>
+				<iYieldChange>0</iYieldChange>
 				<iYieldChange>0</iYieldChange>
 				<iYieldChange>0</iYieldChange>
 			</YieldChanges>

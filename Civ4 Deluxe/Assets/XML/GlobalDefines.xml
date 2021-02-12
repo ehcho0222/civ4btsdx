@@ -335,15 +335,15 @@
 	</Define>
 	<Define>
 		<DefineName>BASE_CITY_GROWTH_THRESHOLD</DefineName>
-		<iDefineIntVal>50</iDefineIntVal>
+		<iDefineIntVal>60</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>CITY_GROWTH_MULTIPLIER</DefineName>
-		<iDefineIntVal>20</iDefineIntVal>
+		<iDefineIntVal>40</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>FOOD_CONSUMPTION_PER_POPULATION</DefineName>
-		<iDefineIntVal>2</iDefineIntVal>
+		<iDefineIntVal>3</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>NEW_HURRY_MODIFIER</DefineName>
@@ -727,7 +727,7 @@
 	</Define>
 	<Define>
 		<DefineName>GLOBAL_WARMING_PROB</DefineName>
-		<iDefineIntVal>20</iDefineIntVal>
+		<iDefineIntVal>1</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>GLOBAL_WARMING_FOREST</DefineName>
@@ -943,7 +943,7 @@
 	</Define>
 	<Define>
 		<DefineName>BASE_CAPTURE_GOLD</DefineName>
-		<iDefineIntVal>20</iDefineIntVal>
+		<iDefineIntVal>50</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>CAPTURE_GOLD_PER_POPULATION</DefineName>
@@ -1041,7 +1041,7 @@
 		<!-- the maximum percentage of a city that can be wonders, regular buildings, etc -->
 
 		<DefineName>GAME_CITY_SIZE_MAX_PERCENT_UNIQUE</DefineName>
-		<fDefineFloatVal>0.6</fDefineFloatVal>
+		<fDefineFloatVal>0.45</fDefineFloatVal>
 	</Define>
 	<!-- this is the way to tweak city size when METHOD_EXPONENTIAL is chosen in the above define -->
 
@@ -1103,7 +1103,7 @@
 	</Define>
 	<Define>
 		<DefineName>WE_LOVE_THE_KING_POPULATION_MIN_POPULATION</DefineName>
-		<iDefineIntVal>6</iDefineIntVal>
+		<iDefineIntVal>7</iDefineIntVal>
 	</Define>
 	<Define>
 		<DefineName>PLOT_SIZE</DefineName>
