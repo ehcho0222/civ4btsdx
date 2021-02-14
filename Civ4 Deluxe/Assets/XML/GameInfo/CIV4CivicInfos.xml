@@ -193,13 +193,22 @@
 			<YieldModifiers/>
 			<CapitalYieldModifiers/>
 			<TradeYieldModifiers/>
-			<CommerceModifiers/>
+			<CommerceModifiers>
+			  <iCommerce>5</iCommerce>
+			  <iCommerce>-5</iCommerce>
+			  <iCommerce>5</iCommerce>
+			</CommerceModifiers>
 			<CapitalCommerceModifiers/>
 			<SpecialistExtraCommerces/>
 			<Hurrys/>
 			<SpecialBuildingNotRequireds/>
 			<SpecialistValids/>
-			<BuildingHappinessChanges/>
+			<BuildingHappinessChanges>
+				<BuildingHappinessChange>
+					<BuildingType>BUILDINGCLASS_THEATRE</BuildingType>
+					<iHappinessChange>2</iHappinessChange>
+				</BuildingHappinessChange>
+			</BuildingHappinessChanges>
 			<BuildingHealthChanges/>
 			<FeatureHappinessChanges/>
 			<ImprovementYieldChanges/>
@@ -258,7 +267,11 @@
 			<YieldModifiers/>
 			<CapitalYieldModifiers/>
 			<TradeYieldModifiers/>
-			<CommerceModifiers/>
+			<CommerceModifiers>
+			  <iCommerce>0</iCommerce>
+			  <iCommerce>2</iCommerce>
+			  <iCommerce>2</iCommerce>
+			</CommerceModifiers>
 			<CapitalCommerceModifiers/>
 			<SpecialistExtraCommerces>
 				<iCommerce>0</iCommerce>

@@ -24,7 +24,7 @@
 			<bNoBarbCities>0</bNoBarbCities>
 			<iAdvancedStartPoints>600</iAdvancedStartPoints>
 			<iStartingUnitMultiplier>1</iStartingUnitMultiplier>
-			<iStartingDefenseUnits>0</iStartingDefenseUnits>
+			<iStartingDefenseUnits>2</iStartingDefenseUnits>
 			<iStartingWorkerUnits>0</iStartingWorkerUnits>
 			<iStartingExploreUnits>1</iStartingExploreUnits>
 			<iStartingGold>0</iStartingGold>
@@ -56,7 +56,7 @@
 				</CitySoundscape>
 				<CitySoundscape>
 					<CitySizeType>CITYSIZE_MEDIUM</CitySizeType>
-					<SoundscapeScript>ASSS_CITY_ANCIENT_SMALL_SELECT_AMB</SoundscapeScript>
+					<SoundscapeScript>ASSS_CITY_ANCIENT_LARGE_SELECT_AMB</SoundscapeScript>
 				</CitySoundscape>
 				<CitySoundscape>
 					<CitySizeType>CITYSIZE_LARGE</CitySizeType>
@@ -76,23 +76,23 @@
 			<bNoBarbCities>0</bNoBarbCities>
 			<iAdvancedStartPoints>600</iAdvancedStartPoints>
 			<iStartingUnitMultiplier>1</iStartingUnitMultiplier>
-			<iStartingDefenseUnits>0</iStartingDefenseUnits>
+			<iStartingDefenseUnits>2</iStartingDefenseUnits>
 			<iStartingWorkerUnits>0</iStartingWorkerUnits>
 			<iStartingExploreUnits>1</iStartingExploreUnits>
 			<iStartingGold>10</iStartingGold>
 			<iFreePopulation>0</iFreePopulation>
 			<iStartPercent>10</iStartPercent>
-			<iGrowthPercent>100</iGrowthPercent>
-			<iTrainPercent>100</iTrainPercent>
-			<iConstructPercent>100</iConstructPercent>
-			<iCreatePercent>100</iCreatePercent>
-			<iResearchPercent>100</iResearchPercent>
-			<iBuildPercent>100</iBuildPercent>
-			<iImprovementPercent>100</iImprovementPercent>
-			<iGreatPeoplePercent>100</iGreatPeoplePercent>
-			<iCulturePercent>100</iCulturePercent>
-			<iAnarchyPercent>50</iAnarchyPercent>
-			<iEventChancePerTurn>1</iEventChancePerTurn>
+			<iGrowthPercent>95</iGrowthPercent>
+			<iTrainPercent>95</iTrainPercent>
+			<iConstructPercent>95</iConstructPercent>
+			<iCreatePercent>95</iCreatePercent>
+			<iResearchPercent>95</iResearchPercent>
+			<iBuildPercent>95</iBuildPercent>
+			<iImprovementPercent>95</iImprovementPercent>
+			<iGreatPeoplePercent>95</iGreatPeoplePercent>
+			<iCulturePercent>95</iCulturePercent>
+			<iAnarchyPercent>55</iAnarchyPercent>
+			<iEventChancePerTurn>2</iEventChancePerTurn>
 			<iSoundtrackSpace>0</iSoundtrackSpace>
 			<bFirstSoundtrackFirst>0</bFirstSoundtrackFirst>
 			<EraInfoSoundtracks>
@@ -108,7 +108,7 @@
 				</CitySoundscape>
 				<CitySoundscape>
 					<CitySizeType>CITYSIZE_MEDIUM</CitySizeType>
-					<SoundscapeScript>ASSS_CITY_ANCIENT_SMALL_SELECT_AMB</SoundscapeScript>
+					<SoundscapeScript>ASSS_CITY_ANCIENT_LARGE_SELECT_AMB</SoundscapeScript>
 				</CitySoundscape>
 				<CitySoundscape>
 					<CitySizeType>CITYSIZE_LARGE</CitySizeType>
@@ -128,23 +128,23 @@
 			<bNoBarbCities>0</bNoBarbCities>
 			<iAdvancedStartPoints>1200</iAdvancedStartPoints>
 			<iStartingUnitMultiplier>1</iStartingUnitMultiplier>
-			<iStartingDefenseUnits>1</iStartingDefenseUnits>
+			<iStartingDefenseUnits>3</iStartingDefenseUnits>
 			<iStartingWorkerUnits>1</iStartingWorkerUnits>
 			<iStartingExploreUnits>1</iStartingExploreUnits>
 			<iStartingGold>50</iStartingGold>
 			<iFreePopulation>0</iFreePopulation>
 			<iStartPercent>20</iStartPercent>
-			<iGrowthPercent>100</iGrowthPercent>
-			<iTrainPercent>100</iTrainPercent>
-			<iConstructPercent>100</iConstructPercent>
-			<iCreatePercent>100</iCreatePercent>
+			<iGrowthPercent>90</iGrowthPercent>
+			<iTrainPercent>90</iTrainPercent>
+			<iConstructPercent>90</iConstructPercent>
+			<iCreatePercent>90</iCreatePercent>
 			<iResearchPercent>90</iResearchPercent>
-			<iBuildPercent>100</iBuildPercent>
-			<iImprovementPercent>100</iImprovementPercent>
-			<iGreatPeoplePercent>100</iGreatPeoplePercent>
-			<iCulturePercent>100</iCulturePercent>
+			<iBuildPercent>90</iBuildPercent>
+			<iImprovementPercent>90</iImprovementPercent>
+			<iGreatPeoplePercent>90</iGreatPeoplePercent>
+			<iCulturePercent>90</iCulturePercent>
 			<iAnarchyPercent>50</iAnarchyPercent>
-			<iEventChancePerTurn>2</iEventChancePerTurn>
+			<iEventChancePerTurn>3</iEventChancePerTurn>
 			<iSoundtrackSpace>400</iSoundtrackSpace>
 			<bFirstSoundtrackFirst>0</bFirstSoundtrackFirst>
 			<EraInfoSoundtracks>
@@ -171,19 +171,19 @@
 			<CitySoundscapes>
 				<CitySoundscape>
 					<CitySizeType>CITYSIZE_SMALL</CitySizeType>
-					<SoundscapeScript>ASSS_CITY_ANCIENT_SMALL_SELECT_AMB</SoundscapeScript>
+					<SoundscapeScript>ASSS_CITY_MIDDLE_SMALL_SELECT_AMB</SoundscapeScript>
 				</CitySoundscape>
 				<CitySoundscape>
 					<CitySizeType>CITYSIZE_MEDIUM</CitySizeType>
-					<SoundscapeScript>ASSS_CITY_ANCIENT_SMALL_SELECT_AMB</SoundscapeScript>
+					<SoundscapeScript>ASSS_CITY_MIDDLE_SMALL_SELECT_AMB</SoundscapeScript>
 				</CitySoundscape>
 				<CitySoundscape>
 					<CitySizeType>CITYSIZE_LARGE</CitySizeType>
-					<SoundscapeScript>ASSS_CITY_ANCIENT_LARGE_SELECT_AMB</SoundscapeScript>
+					<SoundscapeScript>ASSS_CITY_MIDDLE_LARGE_SELECT_AMB</SoundscapeScript>
 				</CitySoundscape>
 			</CitySoundscapes>
-			<AudioUnitVictoryScript>AS2D_VICTORY_EARLY</AudioUnitVictoryScript>
-			<AudioUnitDefeatScript>AS2D_LOSS_EARLY</AudioUnitDefeatScript>
+			<AudioUnitVictoryScript>AS2D_VICTORY_MIDDLE</AudioUnitVictoryScript>
+			<AudioUnitDefeatScript>AS2D_LOSS_MIDDLE</AudioUnitDefeatScript>
 		</EraInfo>
 		<EraInfo>
 			<Type>ERA_MEDIEVAL</Type>
@@ -195,22 +195,22 @@
 			<bNoBarbCities>0</bNoBarbCities>
 			<iAdvancedStartPoints>1800</iAdvancedStartPoints>
 			<iStartingUnitMultiplier>2</iStartingUnitMultiplier>
-			<iStartingDefenseUnits>2</iStartingDefenseUnits>
+			<iStartingDefenseUnits>3</iStartingDefenseUnits>
 			<iStartingWorkerUnits>1</iStartingWorkerUnits>
 			<iStartingExploreUnits>1</iStartingExploreUnits>
 			<iStartingGold>100</iStartingGold>
-			<iFreePopulation>0</iFreePopulation>
-			<iStartPercent>30</iStartPercent>
-			<iGrowthPercent>100</iGrowthPercent>
-			<iTrainPercent>100</iTrainPercent>
-			<iConstructPercent>100</iConstructPercent>
-			<iCreatePercent>100</iCreatePercent>
-			<iResearchPercent>80</iResearchPercent>
-			<iBuildPercent>100</iBuildPercent>
-			<iImprovementPercent>100</iImprovementPercent>
-			<iGreatPeoplePercent>100</iGreatPeoplePercent>
-			<iCulturePercent>100</iCulturePercent>
-			<iAnarchyPercent>40</iAnarchyPercent>
+			<iFreePopulation>1</iFreePopulation>
+			<iStartPercent>27</iStartPercent>
+			<iGrowthPercent>85</iGrowthPercent>
+			<iTrainPercent>85</iTrainPercent>
+			<iConstructPercent>85</iConstructPercent>
+			<iCreatePercent>85</iCreatePercent>
+			<iResearchPercent>85</iResearchPercent>
+			<iBuildPercent>85</iBuildPercent>
+			<iImprovementPercent>85</iImprovementPercent>
+			<iGreatPeoplePercent>85</iGreatPeoplePercent>
+			<iCulturePercent>85</iCulturePercent>
+			<iAnarchyPercent>50</iAnarchyPercent>
 			<iEventChancePerTurn>4</iEventChancePerTurn>
 			<iSoundtrackSpace>200</iSoundtrackSpace>
 			<bFirstSoundtrackFirst>0</bFirstSoundtrackFirst>
@@ -263,23 +263,23 @@
 			<bNoBarbCities>0</bNoBarbCities>
 			<iAdvancedStartPoints>2700</iAdvancedStartPoints>
 			<iStartingUnitMultiplier>2</iStartingUnitMultiplier>
-			<iStartingDefenseUnits>2</iStartingDefenseUnits>
+			<iStartingDefenseUnits>4</iStartingDefenseUnits>
 			<iStartingWorkerUnits>1</iStartingWorkerUnits>
-			<iStartingExploreUnits>1</iStartingExploreUnits>
+			<iStartingExploreUnits>2</iStartingExploreUnits>
 			<iStartingGold>200</iStartingGold>
-			<iFreePopulation>1</iFreePopulation>
-			<iStartPercent>40</iStartPercent>
-			<iGrowthPercent>90</iGrowthPercent>
-			<iTrainPercent>90</iTrainPercent>
-			<iConstructPercent>90</iConstructPercent>
-			<iCreatePercent>90</iCreatePercent>
-			<iResearchPercent>70</iResearchPercent>
-			<iBuildPercent>90</iBuildPercent>
-			<iImprovementPercent>90</iImprovementPercent>
-			<iGreatPeoplePercent>90</iGreatPeoplePercent>
-			<iCulturePercent>90</iCulturePercent>
-			<iAnarchyPercent>40</iAnarchyPercent>
-			<iEventChancePerTurn>4</iEventChancePerTurn>
+			<iFreePopulation>2</iFreePopulation>
+			<iStartPercent>35</iStartPercent>
+			<iGrowthPercent>80</iGrowthPercent>
+			<iTrainPercent>80</iTrainPercent>
+			<iConstructPercent>80</iConstructPercent>
+			<iCreatePercent>80</iCreatePercent>
+			<iResearchPercent>80</iResearchPercent>
+			<iBuildPercent>80</iBuildPercent>
+			<iImprovementPercent>80</iImprovementPercent>
+			<iGreatPeoplePercent>80</iGreatPeoplePercent>
+			<iCulturePercent>80</iCulturePercent>
+			<iAnarchyPercent>45</iAnarchyPercent>
+			<iEventChancePerTurn>5</iEventChancePerTurn>
 			<iSoundtrackSpace>160</iSoundtrackSpace>
 			<bFirstSoundtrackFirst>0</bFirstSoundtrackFirst>
 			<EraInfoSoundtracks>
@@ -330,22 +330,22 @@
 			<bNoBarbCities>0</bNoBarbCities>
 			<iAdvancedStartPoints>4000</iAdvancedStartPoints>
 			<iStartingUnitMultiplier>3</iStartingUnitMultiplier>
-			<iStartingDefenseUnits>3</iStartingDefenseUnits>
+			<iStartingDefenseUnits>4</iStartingDefenseUnits>
 			<iStartingWorkerUnits>2</iStartingWorkerUnits>
-			<iStartingExploreUnits>2</iStartingExploreUnits>
+			<iStartingExploreUnits>1</iStartingExploreUnits>
 			<iStartingGold>300</iStartingGold>
-			<iFreePopulation>2</iFreePopulation>
-			<iStartPercent>50</iStartPercent>
-			<iGrowthPercent>80</iGrowthPercent>
-			<iTrainPercent>80</iTrainPercent>
-			<iConstructPercent>80</iConstructPercent>
-			<iCreatePercent>80</iCreatePercent>
-			<iResearchPercent>60</iResearchPercent>
-			<iBuildPercent>80</iBuildPercent>
-			<iImprovementPercent>80</iImprovementPercent>
-			<iGreatPeoplePercent>80</iGreatPeoplePercent>
-			<iCulturePercent>80</iCulturePercent>
-			<iAnarchyPercent>34</iAnarchyPercent>
+			<iFreePopulation>3</iFreePopulation>
+			<iStartPercent>45</iStartPercent>
+			<iGrowthPercent>75</iGrowthPercent>
+			<iTrainPercent>75</iTrainPercent>
+			<iConstructPercent>75</iConstructPercent>
+			<iCreatePercent>75</iCreatePercent>
+			<iResearchPercent>75</iResearchPercent>
+			<iBuildPercent>75</iBuildPercent>
+			<iImprovementPercent>75</iImprovementPercent>
+			<iGreatPeoplePercent>75</iGreatPeoplePercent>
+			<iCulturePercent>75</iCulturePercent>
+			<iAnarchyPercent>40</iAnarchyPercent>
 			<iEventChancePerTurn>6</iEventChancePerTurn>
 			<iSoundtrackSpace>120</iSoundtrackSpace>
 			<bFirstSoundtrackFirst>0</bFirstSoundtrackFirst>
@@ -394,23 +394,23 @@
 			<bNoBarbCities>1</bNoBarbCities>
 			<iAdvancedStartPoints>5500</iAdvancedStartPoints>
 			<iStartingUnitMultiplier>3</iStartingUnitMultiplier>
-			<iStartingDefenseUnits>3</iStartingDefenseUnits>
+			<iStartingDefenseUnits>4</iStartingDefenseUnits>
 			<iStartingWorkerUnits>2</iStartingWorkerUnits>
 			<iStartingExploreUnits>2</iStartingExploreUnits>
 			<iStartingGold>450</iStartingGold>
-			<iFreePopulation>3</iFreePopulation>
-			<iStartPercent>60</iStartPercent>
+			<iFreePopulation>4</iFreePopulation>
+			<iStartPercent>55</iStartPercent>
 			<iGrowthPercent>70</iGrowthPercent>
 			<iTrainPercent>70</iTrainPercent>
 			<iConstructPercent>70</iConstructPercent>
 			<iCreatePercent>70</iCreatePercent>
-			<iResearchPercent>50</iResearchPercent>
+			<iResearchPercent>70</iResearchPercent>
 			<iBuildPercent>70</iBuildPercent>
 			<iImprovementPercent>70</iImprovementPercent>
 			<iGreatPeoplePercent>70</iGreatPeoplePercent>
 			<iCulturePercent>70</iCulturePercent>
-			<iAnarchyPercent>34</iAnarchyPercent>
-			<iEventChancePerTurn>8</iEventChancePerTurn>
+			<iAnarchyPercent>35</iAnarchyPercent>
+			<iEventChancePerTurn>7</iEventChancePerTurn>
 			<iSoundtrackSpace>80</iSoundtrackSpace>
 			<bFirstSoundtrackFirst>0</bFirstSoundtrackFirst>
 			<EraInfoSoundtracks>
@@ -456,22 +456,22 @@
 			<bNoBarbCities>1</bNoBarbCities>
 			<iAdvancedStartPoints>7000</iAdvancedStartPoints>
 			<iStartingUnitMultiplier>3</iStartingUnitMultiplier>
-			<iStartingDefenseUnits>3</iStartingDefenseUnits>
+			<iStartingDefenseUnits>5</iStartingDefenseUnits>
 			<iStartingWorkerUnits>2</iStartingWorkerUnits>
 			<iStartingExploreUnits>2</iStartingExploreUnits>
 			<iStartingGold>700</iStartingGold>
-			<iFreePopulation>4</iFreePopulation>
-			<iStartPercent>73</iStartPercent>
-			<iGrowthPercent>70</iGrowthPercent>
-			<iTrainPercent>70</iTrainPercent>
-			<iConstructPercent>70</iConstructPercent>
-			<iCreatePercent>70</iCreatePercent>
-			<iResearchPercent>50</iResearchPercent>
-			<iBuildPercent>70</iBuildPercent>
-			<iImprovementPercent>70</iImprovementPercent>
-			<iGreatPeoplePercent>70</iGreatPeoplePercent>
-			<iCulturePercent>70</iCulturePercent>
-			<iAnarchyPercent>34</iAnarchyPercent>
+			<iFreePopulation>5</iFreePopulation>
+			<iStartPercent>70</iStartPercent>
+			<iGrowthPercent>65</iGrowthPercent>
+			<iTrainPercent>65</iTrainPercent>
+			<iConstructPercent>65</iConstructPercent>
+			<iCreatePercent>65</iCreatePercent>
+			<iResearchPercent>65</iResearchPercent>
+			<iBuildPercent>65</iBuildPercent>
+			<iImprovementPercent>65</iImprovementPercent>
+			<iGreatPeoplePercent>65</iGreatPeoplePercent>
+			<iCulturePercent>65</iCulturePercent>
+			<iAnarchyPercent>30</iAnarchyPercent>
 			<iEventChancePerTurn>8</iEventChancePerTurn>
 			<iSoundtrackSpace>80</iSoundtrackSpace>
 			<bFirstSoundtrackFirst>0</bFirstSoundtrackFirst>
@@ -518,23 +518,23 @@
 			<bNoBarbCities>1</bNoBarbCities>
 			<iAdvancedStartPoints>8500</iAdvancedStartPoints>
 			<iStartingUnitMultiplier>3</iStartingUnitMultiplier>
-			<iStartingDefenseUnits>3</iStartingDefenseUnits>
-			<iStartingWorkerUnits>3</iStartingWorkerUnits>
+			<iStartingDefenseUnits>5</iStartingDefenseUnits>
+			<iStartingWorkerUnits>2</iStartingWorkerUnits>
 			<iStartingExploreUnits>2</iStartingExploreUnits>
 			<iStartingGold>1000</iStartingGold>
-			<iFreePopulation>4</iFreePopulation>
-			<iStartPercent>82</iStartPercent>
+			<iFreePopulation>6</iFreePopulation>
+			<iStartPercent>85</iStartPercent>
 			<iGrowthPercent>60</iGrowthPercent>
 			<iTrainPercent>60</iTrainPercent>
 			<iConstructPercent>60</iConstructPercent>
 			<iCreatePercent>60</iCreatePercent>
-			<iResearchPercent>40</iResearchPercent>
+			<iResearchPercent>60</iResearchPercent>
 			<iBuildPercent>60</iBuildPercent>
 			<iImprovementPercent>60</iImprovementPercent>
 			<iGreatPeoplePercent>60</iGreatPeoplePercent>
 			<iCulturePercent>60</iCulturePercent>
-			<iAnarchyPercent>34</iAnarchyPercent>
-			<iEventChancePerTurn>10</iEventChancePerTurn>
+			<iAnarchyPercent>25</iAnarchyPercent>
+			<iEventChancePerTurn>9</iEventChancePerTurn>
 			<iSoundtrackSpace>40</iSoundtrackSpace>
 			<bFirstSoundtrackFirst>0</bFirstSoundtrackFirst>
 			<EraInfoSoundtracks>

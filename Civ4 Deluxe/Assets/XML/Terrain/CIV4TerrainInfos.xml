@@ -13,7 +13,7 @@
 			<ArtDefineTag>ART_DEF_TERRAIN_GRASS</ArtDefineTag>
 			<Yields>
 				<iYield>3</iYield>
-				<iYield>0</iYield>
+				<iYield>1</iYield>
 				<iYield>0</iYield>
 			</Yields>
 			<RiverYieldChange>
@@ -169,7 +169,7 @@
 			<ArtDefineTag>ART_DEF_TERRAIN_PLAINS</ArtDefineTag>
 			<Yields>
 				<iYield>2</iYield>
-				<iYield>1</iYield>
+				<iYield>2</iYield>
 				<iYield>0</iYield>
 			</Yields>
 			<RiverYieldChange>
