@@ -267,6 +267,102 @@
      <Spanish>Classical Lifestyle</Spanish>
    </TEXT>
    <TEXT>
+    <Tag>TXT_KEY_TECH_MONASTICISM</Tag>
+    <English>Monasticism</English>
+    <French>Monasticism</French>
+    <German>Monasticism</German>
+    <Italian>Monasticism</Italian>
+    <Spanish>Monasticism</Spanish>
+   </TEXT>
+   <TEXT>
+    <Tag>TXT_KEY_TECH_BALLISTICS</Tag>
+    <English>Ballistics</English>
+    <French>Ballistics</French>
+    <German>Ballistics</German>
+    <Italian>Ballistics</Italian>
+    <Spanish>Ballistics</Spanish>
+   </TEXT>
+   <TEXT>
+    <Tag>TXT_KEY_TECH_CONSCRIPTION</Tag>
+    <English>Conscription</English>
+    <French>Conscription</French>
+    <German>Conscription</German>
+    <Italian>Conscription</Italian>
+    <Spanish>Conscription</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_ANCIENT_DEMOCRACY</Tag>
+     <English>Ancient Democracy</English>
+     <French>Ancient Democracy</French>
+     <German>Ancient Democracy</German>
+     <Italian>Ancient Democracy</Italian>
+     <Spanish>Ancient Democracy</Spanish>
+   </TEXT>
+   <TEXT>
+    <Tag>TXT_KEY_TECH_DIPLOMACY</Tag>
+    <English>Diplomacy</English>
+    <French>Diplomacy</French>
+    <German>Diplomacy</German>
+    <Italian>Diplomacy</Italian>
+    <Spanish>Diplomacy</Spanish>
+   </TEXT>
+   <TEXT>
+    <Tag>TXT_KEY_TECH_DEFENSIVE_TACTICS</Tag>
+    <English>Defensive Tactics</English>
+    <French>Defensive Tactics</French>
+    <German>Defensive Tactics</German>
+    <Italian>Defensive Tactics</Italian>
+    <Spanish>Defensive Tactics</Spanish>
+   </TEXT>
+    <TEXT>
+    <Tag>TXT_KEY_TECH_SABRE</Tag>
+    <English>Sabre</English>
+    <French>Sabre</French>
+    <German>Sabre</German>
+    <Italian>Sabre</Italian>
+    <Spanish>Sabre</Spanish>
+   </TEXT>
+  <TEXT>
+    <Tag>TXT_KEY_TECH_ARMOR</Tag>
+    <English>Armor</English>
+    <French>Armor</French>
+    <German>Armor</German>
+    <Italian>Armor</Italian>
+    <Spanish>Armor</Spanish>
+   </TEXT>
+   <TEXT>
+    <Tag>TXT_KEY_TECH_OFFENSIVE_TACTICS</Tag>
+    <English>Offensive Tactics</English>
+    <French>Offensive Tactics</French>
+    <German>Offensive Tactics</German>
+    <Italian>Offensive Tactics</Italian>
+    <Spanish>Offensive Tactics</Spanish>
+   </TEXT>
+   <TEXT>
+    <Tag>TXT_KEY_TECH_REPUBLIC</Tag>
+    <English>Republic</English>
+    <French>Republic</French>
+    <German>Republic</German>
+    <Italian>Republic</Italian>
+    <Spanish>Republic</Spanish>
+   </TEXT>
+   <TEXT>
+    <Tag>TXT_KEY_TECH_CIVIL_MILITARY_CONSTRUCTION</Tag>
+    <English>Civil Military Construction</English>
+    <French>Civil Military Construction</French>
+    <German>Civil Military Construction</German>
+    <Italian>Civil Military Construction</Italian>
+    <Spanish>Civil Military Construction</Spanish>
+   </TEXT>
+   <TEXT>
+    <Tag>TXT_KEY_TECH_PAVED_ROADS</Tag>
+    <English>Paved Roads</English>
+    <French>Paved Roads</French>
+    <German>Paved Roads</German>
+    <Italian>Paved Roads</Italian>
+    <Spanish>Paved Roads</Spanish>
+   </TEXT>
+   <TEXT>
      <Tag>TXT_KEY_TECH_MEDIEVAL_LIFESTYLE</Tag>
      <English>Medieval Lifestyle</English>
      <French>Medieval Lifestyle</French>
@@ -289,6 +385,14 @@
      <German>Industrial Lifestyle</German>
      <Italian>Industrial Lifestyle</Italian>
      <Spanish>Industrial Lifestyle</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_DX_TECH_DEMOCRACY</Tag>
+     <English>Representative Democracy</English>
+     <French>Representative Democracy</French>
+     <German>Representative Democracy</German>
+     <Italian>Representative Democracy</Italian>
+     <Spanish>Representative Democracy</Spanish>
    </TEXT>
    <TEXT>
      <Tag>TXT_KEY_TECH_ATOMIC_LIFESTYLE</Tag>
