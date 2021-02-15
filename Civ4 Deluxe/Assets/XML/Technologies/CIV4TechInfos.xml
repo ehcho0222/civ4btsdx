@@ -4139,7 +4139,7 @@
 			<Quote>TXT_KEY_TECH_RELIGION_QUOTE</Quote>
 			<Sound/>
 			<SoundMP/>
-			<Button>,Art/Interface/Buttons/TechTree/jewish.dds</Button>
+			<Button>,Art/Interface/Buttons/TechTree/IcoJewish.dds</Button>
 		</TechInfo>
 		<TechInfo>
 			<Type>TECH_CLASSICAL_GATEWAY</Type>
@@ -5012,7 +5012,7 @@
 			<Quote>TXT_KEY_TECH_RELIGION_QUOTE</Quote>
 			<Sound/>
 			<SoundMP/>
-			<Button>,Art/Interface/Buttons/TechTree/hinduism.dds</Button>
+			<Button>,Art/Interface/Buttons/TechTree/IcoHindu.dds</Button>
 		</TechInfo>
 		<TechInfo>
 			<Type>TECH_MONASTICISM</Type>
@@ -5473,7 +5473,7 @@
 			<Quote>TXT_KEY_TECH_RELIGION_QUOTE</Quote>
 			<Sound/>
 			<SoundMP/>
-			<Button>,Art/Interface/Buttons/TechTree/buddhism.dds</Button>
+			<Button>,Art/Interface/Buttons/TechTree/IcoBuddhism.dds</Button>
 		</TechInfo>
 		<TechInfo>
 			<Type>TECH_CONFUCIANISM</Type>
@@ -5536,7 +5536,7 @@
 			<Quote>TXT_KEY_TECH_RELIGION_QUOTE</Quote>
 			<Sound/>
 			<SoundMP/>
-			<Button>,Art/Interface/Buttons/TechTree/confucianism.dds</Button>
+			<Button>,Art/Interface/Buttons/TechTree/IcoConfucian.dds</Button>
 		</TechInfo>
 		<TechInfo>
 			<Type>TECH_DEFENSIVE_TACTICS</Type>
@@ -7124,7 +7124,7 @@
 			<Quote>TXT_KEY_TECH_RELIGION_QUOTE</Quote>
 			<Sound/>
 			<SoundMP/>
-			<Button>,Art/Interface/Buttons/TechTree/christian.dds</Button>
+			<Button>,Art/Interface/Buttons/TechTree/IcoChristian.dds</Button>
 		</TechInfo>
 		<TechInfo>
 			<Type>TECH_TAOISM</Type>
@@ -7187,7 +7187,7 @@
 			<Quote>TXT_KEY_TECH_RELIGION_QUOTE</Quote>
 			<Sound/>
 			<SoundMP/>
-			<Button>,Art/Interface/Buttons/TechTree/taoism.dds</Button>
+			<Button>,Art/Interface/Buttons/TechTree/IcoTaoism.dds</Button>
 		</TechInfo>
 		<TechInfo>
 			<Type>TECH_ISLAM</Type>
@@ -7250,7 +7250,7 @@
 			<Quote>TXT_KEY_TECH_RELIGION_QUOTE</Quote>
 			<Sound/>
 			<SoundMP/>
-			<Button>,Art/Interface/Buttons/TechTree/islam.dds</Button>
+			<Button>,Art/Interface/Buttons/TechTree/IcoIslam.dds</Button>
 		</TechInfo>
 		<TechInfo>
 			<Type>TECH_CARTOGRAPHY</Type>
