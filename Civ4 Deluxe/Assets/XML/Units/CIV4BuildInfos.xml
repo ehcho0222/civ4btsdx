@@ -6,6 +6,25 @@
 <!-- Build Infos -->
 <Civ4BuildInfos xmlns="x-schema:CIV4UnitSchema.xml">
 	<BuildInfos>
+	  <BuildInfo>
+			<Type>BUILD_PATH</Type>
+			<Description>TXT_KEY_BUILD_PATH</Description>
+			<Help/>
+			<PrereqTech>TECH_ENDURANCE_HUNTING</PrereqTech>
+			<iTime>150</iTime>
+			<iCost>0</iCost>
+			<bKill>0</bKill>
+			<ImprovementType>NONE</ImprovementType>
+			<RouteType>ROUTE_PATH</RouteType>
+			<EntityEvent>ENTITY_EVENT_SHOVEL</EntityEvent>
+			<FeatureStructs/>
+			<HotKey>KB_1</HotKey>
+			<bAltDown>0</bAltDown>
+			<bShiftDown>1</bShiftDown>
+			<bCtrlDown>0</bCtrlDown>
+			<iHotKeyPriority>0</iHotKeyPriority>
+			<Button>Art/Interface/Buttons/Builds/MakePath.dds</Button>
+		</BuildInfo>
 		<BuildInfo>
 			<Type>BUILD_ROAD</Type>
 			<Description>TXT_KEY_BUILD_ROAD</Description>
@@ -18,9 +37,9 @@
 			<RouteType>ROUTE_ROAD</RouteType>
 			<EntityEvent>ENTITY_EVENT_SHOVEL</EntityEvent>
 			<FeatureStructs/>
-			<HotKey>KB_R</HotKey>
+			<HotKey>KB_2</HotKey>
 			<bAltDown>0</bAltDown>
-			<bShiftDown>0</bShiftDown>
+			<bShiftDown>1</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
 			<Button>,Art/Interface/Buttons/Builds/BuildRoad.dds,Art/Interface/Buttons/Actions_Builds_LeaderHeads_Specialists_Atlas.dds,1,8</Button>
@@ -37,12 +56,46 @@
 			<RouteType>ROUTE_RAILROAD</RouteType>
 			<EntityEvent>ENTITY_EVENT_RAILROAD</EntityEvent>
 			<FeatureStructs/>
-			<HotKey>KB_R</HotKey>
+			<HotKey>KB_3</HotKey>
 			<bAltDown>0</bAltDown>
-			<bShiftDown>0</bShiftDown>
+			<bShiftDown>1</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
-			<iHotKeyPriority>1</iHotKeyPriority>
+			<iHotKeyPriority>0</iHotKeyPriority>
 			<Button>,Art/Interface/Buttons/Builds/BuildRailroad.dds,Art/Interface/Buttons/Actions_Builds_LeaderHeads_Specialists_Atlas.dds,3,9</Button>
+		</BuildInfo>
+		<BuildInfo>
+			<Type>BUILD_HIGHWAY</Type>
+			<Description>TXT_KEY_BUILD_HIGHWAY</Description>
+			<Help/>
+			<PrereqTech>TECH_ARPA</PrereqTech>
+			<iTime>250</iTime>
+			<iCost>10</iCost>
+			<bKill>0</bKill>
+			<ImprovementType>NONE</ImprovementType>
+			<RouteType>ROUTE_HIGHWAY</RouteType>
+			<EntityEvent>ENTITY_EVENT_RAILROAD</EntityEvent>
+			<FeatureStructs>
+				<FeatureStruct>
+					<FeatureType>FEATURE_JUNGLE</FeatureType>
+					<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+					<iTime>400</iTime>
+					<iProduction>0</iProduction>
+					<bRemove>1</bRemove>
+				</FeatureStruct>
+				<FeatureStruct>
+					<FeatureType>FEATURE_FOREST</FeatureType>
+					<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+					<iTime>300</iTime>
+					<iProduction>30</iProduction>
+					<bRemove>1</bRemove>
+				</FeatureStruct>
+			</FeatureStructs>
+			<HotKey>KB_4</HotKey>
+			<bAltDown>0</bAltDown>
+			<bShiftDown>1</bShiftDown>
+			<bCtrlDown>0</bCtrlDown>
+			<iHotKeyPriority>0</iHotKeyPriority>
+			<Button>Art/Interface/Buttons/Builds/BuildHighway.dds</Button>
 		</BuildInfo>
 		<BuildInfo>
 			<Type>BUILD_FARM</Type>
@@ -83,7 +136,7 @@
 			<Description>TXT_KEY_BUILD_FISHING_BOATS</Description>
 			<Help/>
 			<PrereqTech>TECH_FISHING</PrereqTech>
-			<iTime>0</iTime>
+			<iTime>500</iTime>
 			<iCost>0</iCost>
 			<bKill>1</bKill>
 			<ImprovementType>IMPROVEMENT_FISHING_BOATS</ImprovementType>
@@ -102,7 +155,7 @@
 			<Description>TXT_KEY_BUILD_WHALING_BOATS</Description>
 			<Help/>
 			<PrereqTech>TECH_OPTICS</PrereqTech>
-			<iTime>0</iTime>
+			<iTime>500</iTime>
 			<iCost>0</iCost>
 			<bKill>1</bKill>
 			<ImprovementType>IMPROVEMENT_WHALING_BOATS</ImprovementType>
@@ -431,7 +484,7 @@
 			<Description>TXT_KEY_BUILD_OFFSHORE_PLATFORM</Description>
 			<Help/>
 			<PrereqTech>TECH_PLASTICS</PrereqTech>
-			<iTime>0</iTime>
+			<iTime>1000</iTime>
 			<iCost>0</iCost>
 			<bKill>1</bKill>
 			<ImprovementType>IMPROVEMENT_OFFSHORE_PLATFORM</ImprovementType>

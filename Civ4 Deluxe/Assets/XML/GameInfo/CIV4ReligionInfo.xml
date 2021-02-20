@@ -38,6 +38,37 @@
 			<Sound>AS2D_BUILD_JEWISH</Sound>
 		</ReligionInfo>
 		<ReligionInfo>
+			<Type>RELIGION_KEMETISM</Type>
+			<Description>TXT_KEY_RELIGION_KEMETISM</Description>
+			<Adjective>TXT_KEY_RELIGION_KEMETISM_ADJECTIVE</Adjective>
+			<Civilopedia>TXT_KEY_RELIGION_KEMETISM_PEDIA</Civilopedia>
+			<TechPrereq>TECH_KEMETISM</TechPrereq>
+			<FreeUnitClass>UNITCLASS_KEMETIST_MISSIONARY</FreeUnitClass>
+			<iFreeUnits>0</iFreeUnits>
+			<iSpreadFactor>100</iSpreadFactor>
+			<GlobalReligionCommerces>
+				<iGlobalReligionCommerce>1</iGlobalReligionCommerce>
+				<iGlobalReligionCommerce>0</iGlobalReligionCommerce>
+				<iGlobalReligionCommerce>0</iGlobalReligionCommerce>
+			</GlobalReligionCommerces>
+			<HolyCityCommerces>
+				<iHolyCityCommerce>0</iHolyCityCommerce>
+				<iHolyCityCommerce>0</iHolyCityCommerce>
+				<iHolyCityCommerce>4</iHolyCityCommerce>
+			</HolyCityCommerces>
+			<StateReligionCommerces>
+				<iStateReligionCommerce>0</iStateReligionCommerce>
+				<iStateReligionCommerce>0</iStateReligionCommerce>
+				<iStateReligionCommerce>1</iStateReligionCommerce>
+			</StateReligionCommerces>
+			<Button>Art/Interface/Buttons/TechTree/IcoKemetism.dds</Button>
+			<TechButton>Art/Interface/Buttons/TechTree/IcoKemetism.dds</TechButton>
+			<GenericTechButton>Art/Interface/Buttons/TechTree/IcoKemetism.dds</GenericTechButton>
+			<MovieFile>Art/Movies/Religion/Judaism/Jud_Found.nif</MovieFile>
+			<MovieSound>AS2D_BUILD_JEWISH_MOVIE</MovieSound>
+			<Sound>AS2D_BUILD_JEWISH</Sound>
+		</ReligionInfo>
+		<ReligionInfo>
 			<Type>RELIGION_CHRISTIANITY</Type>
 			<Description>TXT_KEY_RELIGION_CHRISTIANITY</Description>
 			<Adjective>TXT_KEY_RELIGION_CHRISTIANITY_ADJECTIVE</Adjective>

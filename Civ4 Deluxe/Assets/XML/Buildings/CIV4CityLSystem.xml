@@ -41,7 +41,7 @@
 		<Height>1</Height>
 		<!-- LEAF 1x1 GENERICS -->
 		<ArtRef Name="generic:an_eu.nif::1x1_01">
-			<Attribute Class="Era">DX_ERA_PREHISTORIC,ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALL</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
@@ -66,22 +66,22 @@
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:an_eu.nif::1x1_06">
-			<Attribute Class="Era">DX_ERA_PREHISTORIC,ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALL</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:an_eu.nif::1x1_07">
-			<Attribute Class="Era">DX_ERA_PREHISTORIC,ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALL</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:an_eu.nif::1x1_08">
-			<Attribute Class="Era">DX_ERA_PREHISTORIC,ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALL</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>
 		<ArtRef Name="generic:an_eu.nif::1x1_09">
-			<Attribute Class="Era">DX_ERA_PREHISTORIC,ERA_ANCIENT</Attribute>
+			<Attribute Class="Era">ERA_ANCIENT</Attribute>
 			<Attribute Class="ArtStyle">ARTSTYLE_ALL</Attribute>
 			<Attribute Class="Scalar">iBatchGroup:0</Attribute>
 		</ArtRef>

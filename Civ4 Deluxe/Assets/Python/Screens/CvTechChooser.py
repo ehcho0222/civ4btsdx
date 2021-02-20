@@ -7,7 +7,7 @@ import CvScreenEnums
 import CvScreensInterface
 
 PIXEL_INCREMENT = 7
-BOX_INCREMENT_WIDTH = 36 # Used to be 33 #Should be a multiple of 3...
+BOX_INCREMENT_WIDTH = 42 # Used to be 33 #Should be a multiple of 3...
 BOX_INCREMENT_HEIGHT = 9 #Should be a multiple of 3...
 BOX_INCREMENT_Y_SPACING = 6 #Should be a multiple of 3...
 BOX_INCREMENT_X_SPACING = 9 #Should be a multiple of 3...
@@ -164,16 +164,16 @@ class CvTechChooser:
 			iY = 6
 			
 			if ( gc.getTeam(gc.getPlayer(self.iCivSelected).getTeam()).isHasTech(i) ):
-				screen.setPanelColor(szTechRecord, 102, 153, 102)
+				screen.setPanelColor(szTechRecord, 204, 204, 102)
 				self.aiCurrentState.append(CIV_HAS_TECH)
 			elif ( gc.getPlayer(self.iCivSelected).getCurrentResearch() == i ):
-				screen.setPanelColor(szTechRecord, 102, 153, 153)
+				screen.setPanelColor(szTechRecord, 102, 204, 102)
 				self.aiCurrentState.append(CIV_IS_RESEARCHING)
 			elif ( gc.getPlayer(self.iCivSelected).isResearchingTech(i) ):
-				screen.setPanelColor(szTechRecord, 102, 153, 153)
+				screen.setPanelColor(szTechRecord, 102, 204, 102)
 				self.aiCurrentState.append(CIV_IS_RESEARCHING)
 			elif ( gc.getPlayer(self.iCivSelected).canEverResearch(i) ):
-				screen.setPanelColor(szTechRecord, 102, 102, 153)
+				screen.setPanelColor(szTechRecord, 153, 153, 153)
 				self.aiCurrentState.append(CIV_NO_RESEARCH)
 			else:
 				screen.setPanelColor(szTechRecord, 204, 51, 51)
@@ -697,15 +697,16 @@ class CvTechChooser:
 				screen.setActivation( szTechID, ActivationTypes.ACTIVATE_MIMICPARENTFOCUS )
 
 				if ( gc.getTeam(gc.getPlayer(self.iCivSelected).getTeam()).isHasTech(i) ):
-					screen.setPanelColor(szTechRecord, 102, 153, 102)
+					screen.setPanelColor(szTechRecord, 204, 204, 102)
 				elif ( gc.getPlayer(self.iCivSelected).getCurrentResearch() == i ):
-					screen.setPanelColor(szTechRecord, 102, 153, 153)
+					screen.setPanelColor(szTechRecord, 102, 204, 102)
 				elif ( gc.getPlayer(self.iCivSelected).isResearchingTech(i) ):
-					screen.setPanelColor(szTechRecord, 102, 153, 153)
+					screen.setPanelColor(szTechRecord, 102, 204, 102)
 				elif ( gc.getPlayer(self.iCivSelected).canEverResearch(i) ):
-					screen.setPanelColor(szTechRecord, 102, 102, 153)
+					screen.setPanelColor(szTechRecord, 153, 153, 153)
+					self.aiCurrentState.append(CIV_NO_RESEARCH)
 				else:
-					screen.setPanelColor(szTechRecord, 204, 53, 53)
+					screen.setPanelColor(szTechRecord, 204, 0, 0)
 
 	# Will draw the arrows
 	def drawArrows (self):

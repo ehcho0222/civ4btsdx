@@ -35,7 +35,7 @@
 			<iVictoryDelayPercent>600</iVictoryDelayPercent>
 			<GameTurnInfos>
 				<GameTurnInfo>
-					<iMonthIncrement>10008</iMonthIncrement>
+					<iMonthIncrement>1</iMonthIncrement>
 					<iTurnsPerIncrement>40</iTurnsPerIncrement>
 				</GameTurnInfo>
 				<GameTurnInfo>

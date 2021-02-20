@@ -63,7 +63,7 @@
 	</Define>
 	<Define>
 		<DefineName>INITIAL_CITY_ROUTE_TYPE</DefineName>
-		<DefineTextVal>ROUTE_ROAD</DefineTextVal>
+		<DefineTextVal>ROUTE_PATH</DefineTextVal>
 	</Define>
 	<Define>
 		<DefineName>STANDARD_HANDICAP</DefineName>

@@ -1,5 +1,8 @@
 # Changelog
 ## Pre-Alpha
+### 2021/2/16(Build 35)
+Expanded Classical Era Contents.\
+Added Kemetism.
 ### 2021/2/12(Build 34)
 Buffed many terrain yields.\
 Buffed Monument, Palace & Theatre.\

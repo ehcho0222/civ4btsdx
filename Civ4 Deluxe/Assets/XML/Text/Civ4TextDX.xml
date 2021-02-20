@@ -1,6 +1,46 @@
 <?xml version="1.0"?>
 <Civ4GameText xmlns="http://www.firaxis.com">
-  <TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_UPKEEP_MINIMAL</Tag>
+     <English>Minimal Upkeep</English>
+     <French>Minimal Upkeep</French>
+     <German>Minimal Upkeep</German>
+     <Italian>Minimal Upkeep</Italian>
+     <Spanish>Minimal Upkeep</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_ROUTE_PATH</Tag>
+     <English>Dirt Path</English>
+     <French>Dirt Path</French>
+     <German>Dirt Path</German>
+     <Italian>Dirt Path</Italian>
+     <Spanish>Dirt Path</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_BUILD_PATH</Tag>
+     <English>Make Path</English>
+     <French>Make Path</French>
+     <German>Make Path</German>
+     <Italian>Make Path</Italian>
+     <Spanish>Make Path</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_ROUTE_HIGHWAY</Tag>
+     <English>Highway</English>
+     <French>Highway</French>
+     <German>Highway</German>
+     <Italian>Highway</Italian>
+     <Spanish>Highway</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_BUILD_HIGHWAY</Tag>
+     <English>Build Highway</English>
+     <French>Build Highway</French>
+     <German>Build Highway</German>
+     <Italian>Build Highway</Italian>
+     <Spanish>Build Highway</Spanish>
+   </TEXT>
+   <TEXT>
      <Tag>TXT_KEY_GAMESPEED_ENDLESS</Tag>
      <English>Eternity</English>
      <French>éternel</French>
@@ -259,12 +299,36 @@
      <Spanish>Sedentism</Spanish>
    </TEXT>
    <TEXT>
+     <Tag>TXT_KEY_TECH_MUMMIFICATION</Tag>
+     <English>Mummification</English>
+     <French>Mummification</French>
+     <German>Mummification</German>
+     <Italian>Mummification</Italian>
+     <Spanish>Mummification</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_KEMETISM</Tag>
+     <English>Kemetism</English>
+     <French>Kemetism</French>
+     <German>Kemetism</German>
+     <Italian>Kemetism</Italian>
+     <Spanish>Kemetism</Spanish>
+   </TEXT>
+   <TEXT>
      <Tag>TXT_KEY_TECH_CLASSICAL_GATEWAY</Tag>
      <English>Classical Lifestyle</English>
      <French>Classical Lifestyle</French>
      <German>Classical Lifestyle</German>
      <Italian>Classical Lifestyle</Italian>
      <Spanish>Classical Lifestyle</Spanish>
+   </TEXT>
+   <TEXT>
+    <Tag>TXT_KEY_TECH_GEM_REFINING</Tag>
+    <English>Gem Cutting</English>
+    <French>Gem Cutting</French>
+    <German>Gem Cutting</German>
+    <Italian>Gem Cutting</Italian>
+    <Spanish>Gem Cutting</Spanish>
    </TEXT>
    <TEXT>
     <Tag>TXT_KEY_TECH_MONASTICISM</Tag>
@@ -369,6 +433,30 @@
      <German>Medieval Lifestyle</German>
      <Italian>Medieval Lifestyle</Italian>
      <Spanish>Medieval Lifestyle</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_MUSIC</Tag>
+     <English>Music Theory</English>
+     <French>Music Theory</French>
+     <German>Music Theory</German>
+     <Italian>Music Theory</Italian>
+     <Spanish>Music Theory</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_CROP_ROTATION</Tag>
+     <English>Crop Rotation</English>
+     <French>Crop Rotation</French>
+     <German>Crop Rotation</German>
+     <Italian>Crop Rotation</Italian>
+     <Spanish>Crop Rotation</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_TECH_CARTOGRAPHY</Tag>
+     <English>Cartography</English>
+     <French>Cartography</French>
+     <German>Cartography</German>
+     <Italian>Cartography</Italian>
+     <Spanish>Cartography</Spanish>
    </TEXT>
    <TEXT>
      <Tag>TXT_KEY_TECH_RENAISSANCE_LIFESTYLE</Tag>
@@ -775,6 +863,102 @@
    </TEXT>
    <!-- Buildings -->
    <TEXT>
+     <Tag>TXT_KEY_BUILDING_ALPHA_FEMALE</Tag>
+     <English>Alpha Female</English>
+     <French>Alpha Female</French>
+     <German>Alpha Female</German>
+     <Italian>Alpha Female</Italian>
+     <Spanish>Alpha Female</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_BUILDING_ALPHA_FEMALE_STRATEGY</Tag>
+     <English>This Building yields a small amount of Food. It should ideally be the first or second building to construct.</English>
+     <French>This Building yields a small amount of Food. It should ideally be the first or second building to construct.</French>
+     <German>This Building yields a small amount of Food. It should ideally be the first or second building to construct.</German>
+     <Italian>This Building yields a small amount of Food. It should ideally be the first or second building to construct.</Italian>
+     <Spanish>This Building yields a small amount of Food. It should ideally be the first or second building to construct.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_BUILDING_ALPHA_MALE</Tag>
+     <English>Alpha Male</English>
+     <French>Alpha Male</French>
+     <German>Alpha Male</German>
+     <Italian>Alpha Male</Italian>
+     <Spanish>Alpha Male</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_BUILDING_ALPHA_MALE_STRATEGY</Tag>
+     <English>This Building yields a small amount of Hammers. It should ideally be the first or second building to construct.</English>
+     <French>This Building yields a small amount of Hammers. It should ideally be the first or second building to construct.</French>
+     <German>This Building yields a small amount of Hammers. It should ideally be the first or second building to construct.</German>
+     <Italian>This Building yields a small amount of Hammers. It should ideally be the first or second building to construct.</Italian>
+     <Spanish>This Building yields a small amount of Hammers. It should ideally be the first or second building to construct.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_BUILDING_DREAMER</Tag>
+     <English>Dreamer</English>
+     <French>Dreamer</French>
+     <German>Dreamer</German>
+     <Italian>Dreamer</Italian>
+     <Spanish>Dreamer</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_BUILDING_ROCK_GATHERER</Tag>
+     <English>Rock Gatherer</English>
+     <French>Rock Gatherer</French>
+     <German>Rock Gatherer</German>
+     <Italian>Rock Gatherer</Italian>
+     <Spanish>Rock Gatherer</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_BUILDING_ROCK_GATHERER_STRATEGY</Tag>
+     <English>Rock Gatherer yields Hammers and is required for Stone Tool-based Industries.</English>
+     <French>Rock Gatherer yields Hammers and is required for Stone Tool-based Industries.</French>
+     <German>Rock Gatherer yields Hammers and is required for Stone Tool-based Industries.</German>
+     <Italian>Rock Gatherer yields Hammers and is required for Stone Tool-based Industries.</Italian>
+     <Spanish>Rock Gatherer yields Hammers and is required for Stone Tool-based Industries.</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_BUILDING_ORAL_TRADITION</Tag>
+     <English>Oral Tradition</English>
+     <French>Oral Tradition</French>
+     <German>Oral Tradition</German>
+     <Italian>Oral Tradition</Italian>
+     <Spanish>Oral Tradition</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_BUILDING_FOLKLORE_FIRE</Tag>
+     <English>Folklore (Fire)</English>
+     <French>Folklore (Fire)</French>
+     <German>Folklore (Fire)</German>
+     <Italian>Folklore (Fire)</Italian>
+     <Spanish>Folklore (Fire)</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_BUILDING_FOLKLORE_PLANT</Tag>
+     <English>Folklore (Plant)</English>
+     <French>Folklore (Plant)</French>
+     <German>Folklore (Plant)</German>
+     <Italian>Folklore (Plant)</Italian>
+     <Spanish>Folklore (Plant)</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_BUILDING_FOLKLORE_ANIMAL</Tag>
+     <English>Folklore (Animal)</English>
+     <French>Folklore (Animal)</French>
+     <German>Folklore (Animal)</German>
+     <Italian>Folklore (Animal)</Italian>
+     <Spanish>Folklore (Animal)</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_BUILDING_FOLKLORE_WATER</Tag>
+     <English>Folklore (Water)</English>
+     <French>Folklore (Water)</French>
+     <German>Folklore (Water)</German>
+     <Italian>Folklore (Water)</Italian>
+     <Spanish>Folklore (Water)</Spanish>
+   </TEXT>
+   <TEXT>
      <Tag>TXT_KEY_BUILDING_EARLY_MARKET</Tag>
      <English>Early Market</English>
      <French>Early Market</French>
@@ -797,6 +981,22 @@
      <German>Public School</German>
      <Italian>Public School</Italian>
      <Spanish>Public School</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_BUILDING_KEMETIST_MONASTERY</Tag>
+     <English>Kemetist Monastery</English>
+     <French>Kemetist Monastery</French>
+     <German>Kemetist Monastery</German>
+     <Italian>Kemetist Monastery</Italian>
+     <Spanish>Kemetist Monastery</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_BUILDING_KEMETIST_TEMPLE</Tag>
+     <English>Kemetist Temple</English>
+     <French>Kemetist Temple</French>
+     <German>Kemetist Temple</German>
+     <Italian>Kemetist Temple</Italian>
+     <Spanish>Kemetist Temple</Spanish>
    </TEXT>
    <!-- Civics -->
    <TEXT>
@@ -910,5 +1110,77 @@
      <German>No State Religion</German>
      <Italian>No State Religion</Italian>
      <Spanish>No State Religion</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_RELIGION_KEMETISM</Tag>
+     <English>Kemetism</English>
+     <French>Kemetism</French>
+     <German>Kemetism</German>
+     <Italian>Kemetism</Italian>
+     <Spanish>Kemetism</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_RELIGION_KEMETISM_ADJECTIVE</Tag>
+     <English>Kemetist</English>
+     <French>Kemetist</French>
+     <German>Kemetist</German>
+     <Italian>Kemetist</Italian>
+     <Spanish>Kemetist</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_UNIT_KEMETIST_MISSIONARY</Tag>
+     <English>Kemetist Missionary</English>
+     <French>Kemetist Missionary</French>
+     <German>Kemetist Missionary</German>
+     <Italian>Kemetist Missionary</Italian>
+     <Spanish>Kemetist Missionary</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_UNIT_NEW_WORK_BOAT</Tag>
+     <English>Primitive Workboat</English>
+     <French>Primitive Workboat</French>
+     <German>Primitive Workboat</German>
+     <Italian>Primitive Workboat</Italian>
+     <Spanish>Primitive Workboat</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_UNIT_WORK_BOAT_ANCIENT</Tag>
+     <English>Ancient Workboat</English>
+     <French>Ancient Workboat</French>
+     <German>Ancient Workboat</German>
+     <Italian>Ancient Workboat</Italian>
+     <Spanish>Ancient Workboat</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_UNIT_WORK_BOAT_MEDIEVAL</Tag>
+     <English>Medieval Workboat</English>
+     <French>Medieval Workboat</French>
+     <German>Medieval Workboat</German>
+     <Italian>Medieval Workboat</Italian>
+     <Spanish>Medieval Workboat</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_UNIT_WORK_BOAT_INDUSTRIAL</Tag>
+     <English>Industrial Workboat</English>
+     <French>Industrial Workboat</French>
+     <German>Industrial Workboat</German>
+     <Italian>Industrial Workboat</Italian>
+     <Spanish>Industrial Workboat</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_UNIT_WORK_BOAT_MODERN</Tag>
+     <English>Modern Workboat</English>
+     <French>Modern Workboat</French>
+     <German>Modern Workboat</German>
+     <Italian>Modern Workboat</Italian>
+     <Spanish>Modern Workboat</Spanish>
+   </TEXT>
+   <TEXT>
+     <Tag>TXT_KEY_BONUS_FIRE</Tag>
+     <English>Fire</English>
+     <French>Fire</French>
+     <German>Fire</German>
+     <Italian>Fire</Italian>
+     <Spanish>Fire</Spanish>
    </TEXT>
  </Civ4GameText>
